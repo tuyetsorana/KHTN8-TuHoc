@@ -17,12 +17,38 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
+# Chống lỗi React removeChild do Google Translate / trình duyệt dịch tự động làm biến đổi DOM
+st.markdown("""
+<meta name="google" content="notranslate">
+<div class="notranslate" translate="no" style="display:none;"></div>
+""", unsafe_allow_html=True)
+
+try:
+    components.html("""
+    <script>
+    try {
+        window.parent.document.documentElement.setAttribute("translate", "no");
+        window.parent.document.documentElement.classList.add("notranslate");
+        window.parent.document.body.setAttribute("translate", "no");
+        window.parent.document.body.classList.add("notranslate");
+        if (!window.parent.document.querySelector('meta[name="google"][content="notranslate"]')) {
+            const meta = window.parent.document.createElement('meta');
+            meta.name = 'google';
+            meta.content = 'notranslate';
+            window.parent.document.head.appendChild(meta);
+        }
+    } catch (e) {}
+    </script>
+    """, height=0, width=0)
+except Exception:
+    pass
+
 # Custom CSS giao diện Khoa học Tự nhiên Dễ thương (Cute & Lively Science)
 st.markdown("""
 <style>
     @import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@600;700&family=Nunito:wght@400;600;700;800;900&display=swap');
     
-    html, body, [class*="css"], .main {
+    html, body, [class*="css"], .main, [data-testid="stAppViewContainer"] {
         font-family: 'Nunito', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
     }
     
