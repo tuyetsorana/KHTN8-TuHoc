@@ -1,0 +1,707 @@
+{
+  "Bai_01_Su_dung_hoa_chat_va_thiet_bi.md": {
+    "card_type": "mo_dau",
+    "quick_summary": {
+      "key_concept": "Phòng thí nghiệm KHTN 8 là nơi khám phá khoa học; an toàn là nguyên tắc số 1. Chỉ sử dụng hóa chất và thiết bị khi nắm vững nhãn cảnh báo nguy hiểm và tuân thủ tuyệt đối chỉ dẫn của giáo viên.",
+      "formulas_reactions": "• Đo cường độ dòng điện: Ampe kế ($I$, đơn vị $\\mathrm{A}$ hoặc $\\mathrm{mA}$, mắc nối tiếp vào mạch)\n• Đo hiệu điện thế: Vôn kế ($U$, đơn vị $\\mathrm{V}$, mắc song song với đoạn mạch)\n• Nguồn điện một chiều (DC): Chốt đỏ là cực dương $(+)$, chốt đen là cực âm $(-)$\n• Thang đo pH: Chỉ thị độ acid ($\\mathrm{pH} < 7$), trung tính ($\\mathrm{pH} = 7$), base ($\\mathrm{pH} > 7$)",
+      "real_world": "• Khi cần ngửi mùi hoá chất, tuyệt đối không hít trực tiếp mà dùng bàn tay phẩy nhẹ hơi hoá chất vào mũi.\n• Khi bị acid hoặc kiềm bắn vào da, phải xả liên tục dưới vòi nước sạch chảy nhẹ trong ít nhất 10-15 phút rồi báo ngay giáo viên y tế.",
+      "common_pitfalls": "⚠️ **Bẫy kinh điển:** Đổ hóa chất dùng thừa ngược lại lọ chứa gốc (làm hỏng cả bình hóa chất); Cắm ngược cực Ampe kế / Vôn kế khiến kim bị bẻ quặt làm đứt lò xo đo; Rót hóa chất lỏng úp nhãn xuống dưới làm hóa chất chảy ướt làm mờ rách nhãn."
+    },
+    "experiment_or_example": {
+      "category": "Kỹ năng thực hành tiêu biểu",
+      "title": "Kỹ thuật đun nóng chất lỏng trong ống nghiệm an toàn",
+      "steps": "1. **Kẹp ống nghiệm:** Dùng kẹp gỗ kẹp ở khoảng 1/3 thân ống nghiệm tính từ miệng ống xuống.\n2. **Hơ nóng đều:** Đưa ống nghiệm qua lại đều đặn trên ngọn lửa đèn cồn để thủy tinh dãn nở nhiệt đồng đều, tránh sốc nhiệt nứt vỡ.\n3. **Đun tập trung:** Đặt phần có hóa chất lỏng vào 2/3 phía trên ngọn lửa đèn cồn (vị trí có nhiệt độ nóng nhất).\n4. **Hướng an toàn:** Miệng ống nghiệm luôn hướng về phía không có người đề phòng hóa chất sôi trào bắn ra ngoài.",
+      "takeaway": "💡 Tuyệt đối không đặt đáy ống nghiệm còn nóng trực tiếp xuống mặt bàn đá ẩm lạnh mà phải cắm vào giá ống nghiệm gỗ để nguội tự nhiên."
+    }
+  },
+  "Bai_02_Phan_ung_hoa_hoc.md": {
+    "card_type": "hoa",
+    "quick_summary": {
+      "key_concept": "Phản ứng hoá học là quá trình biến đổi từ chất này thành chất khác. Dấu hiệu nhận biết rõ ràng: có chất khí bay lên, kết tủa lắng xuống, thay đổi màu sắc hoặc toả/thu nhiệt.",
+      "formulas_reactions": "$$\\text{Chất tham gia (phản ứng)} \\xrightarrow{\\text{điều kiện}} \\text{Chất sản phẩm (tạo thành)}$$\n$$\\mathrm{Fe} + \\mathrm{S} \\xrightarrow{t^\\circ} \\mathrm{FeS}$$\n$$\\mathrm{BaCl}_2 + \\mathrm{Na}_2\\mathrm{SO}_4 \\rightarrow \\mathrm{BaSO}_4 \\downarrow + 2\\mathrm{NaCl}$$",
+      "real_world": "• Tôi vôi sống ($\\mathrm{CaO} + \\mathrm{H}_2\\mathrm{O} \\rightarrow \\mathrm{Ca(OH)}_2$) toả nhiệt cực lớn làm nước sôi sùng sục, dùng để quét tường và khử chua đất trồng.\n• Đinh sắt để ngoài không khí ẩm lâu ngày bị gỉ sét thành oxide sắt màu nâu đỏ xốp mủn.",
+      "common_pitfalls": "⚠️ **Lỗi sai thường gặp:** Nhầm lẫn biến đổi vật lí với biến đổi hoá học! Quá trình hòa tan đường/muối vào nước hay nước đá tan chảy là biến đổi vật lí (chỉ đổi trạng thái, không sinh ra chất mới); đốt cháy đường thành than hay nướng chín bánh mì là biến đổi hoá học."
+    },
+    "experiment_or_example": {
+      "category": "Thí nghiệm tiêu biểu",
+      "title": "Thí nghiệm bột sắt (Fe) phản ứng với bột lưu huỳnh (S)",
+      "steps": "1. **Trộn hỗn hợp:** Trộn 7g bột sắt (màu xám đen) với 4g bột lưu huỳnh (màu vàng chanh).\n2. **Thử từ tính ban đầu:** Dùng nam châm đưa lại gần hỗn hợp, thanh nam châm hút sạch bột sắt ra khỏi lưu huỳnh (sắt vẫn giữ từ tính vật lý ban đầu).\n3. **Kích hoạt phản ứng:** Cho hỗn hợp vào đáy ống nghiệm khô, hơ nóng đều rồi đốt nóng đáy. Hỗn hợp phát sáng đỏ rực, phản ứng tự lan tỏa toả nhiều nhiệt.\n4. **Kiểm tra sản phẩm:** Sản phẩm tạo thành là hợp chất Iron(II) sulfide ($\\mathrm{FeS}$) màu xám đen, **hoàn toàn không còn bị nam châm hút**.",
+      "takeaway": "💡 Trong phản ứng hóa học, liên kết giữa các nguyên tử bị phá vỡ và sắp xếp lại, biến đổi hoàn toàn bản chất chất ban đầu thành chất mới."
+    }
+  },
+  "Bai_03_Mol_va_ti_khoi_chat_khi.md": {
+    "card_type": "hoa",
+    "quick_summary": {
+      "key_concept": "Mol là lượng chất chứa $N_A \\approx 6{,}022 \\times 10^{23}$ hạt vi mô. Ở điều kiện chuẩn ($25^\\circ\\mathrm{C}, 1\\text{ bar}$), 1 mol chất khí bất kì đều chiếm đúng $24{,}79\\text{ lít}$.",
+      "formulas_reactions": "• Số mol từ khối lượng: $n = \\dfrac{m}{M} \\implies m = n \\cdot M \\;(\\mathrm{g})$\n• Số mol từ thể tích khí (ĐKC): $n = \\dfrac{V}{24{,}79} \\implies V = n \\cdot 24{,}79 \\;(\\mathrm{L})$\n• Tỉ khối khí A so với khí B: $d_{\\mathrm{A}/\\mathrm{B}} = \\dfrac{M_{\\mathrm{A}}}{M_{\\mathrm{B}}}$\n• Tỉ khối khí A so với không khí ($M_{\\text{kk}} = 29\\text{ g/mol}$): $d_{\\mathrm{A}/\\text{kk}} = \\dfrac{M_{\\mathrm{A}}}{29}$",
+      "real_world": "• Khí Helium ($\\mathrm{He}, M=4$) nhẹ hơn không khí ($M=29$) nên được bơm vào khinh khí cầu và bóng bay để bay vút lên trời.\n• Khí $\\mathrm{CO}_2$ ($M=44$) nặng hơn không khí nên chìm lắng tích tụ ở đáy giếng sâu hay hang động thấp, có thể gây ngạt thở.",
+      "common_pitfalls": "⚠️ **Bẫy đơn vị:** Nhầm hằng số thể tích $22{,}4\\text{ L}$ (chuẩn cũ) với $24{,}79\\text{ L}$ (chuẩn mới ĐKC $25^\\circ\\mathrm{C}, 1\\text{ bar}$ của SGK mới); Quên nhân 2 khối lượng mol của các đơn chất khí lưỡng nguyên tử như $\\mathrm{O}_2 (32), \\mathrm{N}_2 (28), \\mathrm{H}_2 (2), \\mathrm{Cl}_2 (71)$."
+    },
+    "experiment_or_example": {
+      "category": "Bài toán mẫu chuẩn mực 4 bước",
+      "title": "Tính thể tích khí và so sánh độ nặng nhẹ với không khí",
+      "steps": "**Đề bài:** Tính thể tích ở điều kiện chuẩn của $6{,}4\\text{ gam}$ khí oxygen ($\\mathrm{O}_2$). Khí này nặng hay nhẹ hơn không khí bao nhiêu lần?\n\n**Bước 1: Tóm tắt & Tính số mol**\n$m = 6{,}4\\text{ g}; M_{\\mathrm{O}_2} = 16 \\times 2 = 32\\text{ g/mol}$\n$$n_{\\mathrm{O}_2} = \\dfrac{m}{M} = \\dfrac{6{,}4}{32} = 0{,}2\\text{ (mol)}$$\n\n**Bước 2: Tính thể tích ở ĐKC**\n$$V_{\\mathrm{O}_2} = n \\times 24{,}79 = 0{,}2 \\times 24{,}79 = 4{,}958\\text{ (lít)}$$\n\n**Bước 3: Tính tỉ khối so với không khí**\n$$d_{\\mathrm{O}_2/\\text{kk}} = \\dfrac{M_{\\mathrm{O}_2}}{29} = \\dfrac{32}{29} \\approx 1{,}103$$\n\n**Bước 4: Kết luận**\nThể tích khí oxygen là $4{,}958\\text{ lít}$; khí oxygen nặng hơn không khí khoảng $1{,}1$ lần.",
+      "takeaway": "💡 Vì oxygen nặng hơn không khí ($d > 1$), khi thu khí oxygen trong phòng thí nghiệm ta phải đặt ngửa bình thu."
+    }
+  },
+  "Bai_04_Dung_dich_va_nong_do.md": {
+    "card_type": "hoa",
+    "quick_summary": {
+      "key_concept": "Dung dịch là hỗn hợp đồng nhất giữa chất tan và dung môi. Nồng độ $C\\%$ cho biết số gam chất tan có trong 100g dung dịch; Nồng độ $C_M$ cho biết số mol chất tan trong 1 lít dung dịch.",
+      "formulas_reactions": "• Khối lượng dung dịch: $m_{\\mathrm{dd}} = m_{\\mathrm{ct}} + m_{\\mathrm{dm}}$\n• Nồng độ phần trăm: $C\\% = \\dfrac{m_{\\mathrm{ct}}}{m_{\\mathrm{dd}}} \\times 100\\%$\n• Nồng độ mol: $C_M = \\dfrac{n}{V} \\;(\\mathrm{mol/L} \\text{ hoặc } \\mathrm{M})$\n• Đổi thể tích: $V_{\\mathrm{L}} = \\dfrac{V_{\\mathrm{mL}}}{1000}$",
+      "real_world": "• Chai nước muối sinh lý $0{,}9\\%$ dùng rửa mắt mũi chứa $9\\text{ gam}$ muối $\\mathrm{NaCl}$ hòa tan trong vừa đủ $1000\\text{ gam}$ dung dịch.\n• Cồn y tế $70^\\circ$ có khả năng diệt khuẩn tối ưu nhờ sự kết hợp giữa nước và ethanol thẩm thấu làm đông tụ protein vi khuẩn.",
+      "common_pitfalls": "⚠️ **Lỗi sai chết người:** Quên cộng khối lượng nước khi tính $m_{\\mathrm{dd}}$ ($m_{\\mathrm{dd}} = m_{\\mathrm{ct}} + m_{\\text{nước}}$); Để nguyên đơn vị $\\mathrm{mL}$ khi tính $C_M$ mà không đổi sang lít $\\mathrm{L}$."
+    },
+    "experiment_or_example": {
+      "category": "Bài toán mẫu chuẩn mực 4 bước",
+      "title": "Tính nồng độ phần trăm của dung dịch muối ăn",
+      "steps": "**Đề bài:** Hòa tan $15\\text{ gam}$ muối $\\mathrm{NaCl}$ vào $185\\text{ gam}$ nước cất. Tính nồng độ phần trăm của dung dịch thu được.\n\n**Bước 1: Tóm tắt**\n$m_{\\mathrm{ct}} = 15\\text{ g}; m_{\\mathrm{dm}} = 185\\text{ g}$\n\n**Bước 2: Tính khối lượng dung dịch**\n$$m_{\\mathrm{dd}} = m_{\\mathrm{ct}} + m_{\\mathrm{dm}} = 15 + 185 = 200\\text{ (g)}$$\n\n**Bước 3: Áp dụng công thức tính $C\\%$**\n$$C\\% = \\dfrac{m_{\\mathrm{ct}}}{m_{\\mathrm{dd}}} \\times 100\\% = \\dfrac{15}{200} \\times 100\\% = 7{,}5\\%$$\n\n**Bước 4: Kết luận**\nDung dịch muối ăn thu được có nồng độ $7{,}5\\%$.",
+      "takeaway": "💡 Muốn tăng nồng độ dung dịch, ta có thể hòa tan thêm chất tan hoặc cô bớt dung môi (đun bay hơi nước)."
+    }
+  },
+  "Bai_05_Dinh_luat_bao_toan_khoi_luong_va_PTHH.md": {
+    "card_type": "hoa",
+    "quick_summary": {
+      "key_concept": "Định luật bảo toàn khối lượng: Trong một phản ứng hoá học, tổng khối lượng của các chất sản phẩm bằng tổng khối lượng của các chất tham gia phản ứng. PTHH biểu diễn ngắn gọn phản ứng.",
+      "formulas_reactions": "$$m_{\\mathrm{A}} + m_{\\mathrm{B}} = m_{\\mathrm{C}} + m_{\\mathrm{D}}$$\n$$2\\mathrm{H}_2 + \\mathrm{O}_2 \\xrightarrow{t^\\circ} 2\\mathrm{H}_2\\mathrm{O}$$\n$$\\mathrm{BaCl}_2 + \\mathrm{Na}_2\\mathrm{SO}_4 \\rightarrow \\mathrm{BaSO}_4 \\downarrow + 2\\mathrm{NaCl}$$",
+      "real_world": "• Đốt củi thấy tro nhẹ hơn khúc gỗ ban đầu vì khí $\\mathrm{CO}_2$ và hơi nước $\\mathrm{H}_2\\mathrm{O}$ đã bay vào không khí; nếu cân cả lượng khí bay đi thì tổng khối lượng không hề đổi!\n• Nung vôi: $100\\text{ tấn } \\mathrm{CaCO}_3$ luôn thu được đúng $56\\text{ tấn } \\mathrm{CaO}$ và $44\\text{ tấn } \\mathrm{CO}_2$.",
+      "common_pitfalls": "⚠️ **Lỗi sai cân bằng:** Tự ý thay đổi chỉ số chân của công thức phân tử khi cân bằng (ví dụ: viết $\\mathrm{H}_2 + \\mathrm{O}_2 \\rightarrow \\mathrm{H}_2\\mathrm{O}_2$ là sai hoàn toàn, phải viết hệ số đằng trước $2\\mathrm{H}_2 + \\mathrm{O}_2 \\rightarrow 2\\mathrm{H}_2\\mathrm{O}$)."
+    },
+    "experiment_or_example": {
+      "category": "Thí nghiệm & Bài toán mẫu",
+      "title": "Thí nghiệm BaCl2 + Na2SO4 trên cân điện tử",
+      "steps": "1. **Chuẩn bị:** Đặt hai cốc chứa dung dịch $\\mathrm{BaCl}_2$ và $\\mathrm{Na}_2\\mathrm{SO}_4$ lên đĩa cân điện tử. Cân chỉ giá trị $m_1 = 250{,}0\\text{ g}$.\n2. **Tiến hành:** Đổ cốc này vào cốc kia. Xuất hiện ngay lập tức kết tủa trắng không tan $\\mathrm{BaSO}_4$.\n3. **Đọc số cân sau phản ứng:** Kim cân điện tử vẫn chỉ đúng $m_2 = 250{,}0\\text{ g}$.\n4. **Giải thích:** Khối lượng trước và sau phản ứng bằng nhau vì số nguyên tử của mỗi nguyên tố được bảo toàn.",
+      "takeaway": "💡 Trong phản ứng hóa học, chỉ có liên kết giữa các nguyên tử thay đổi, bản thân các nguyên tử không bị mất đi hay sinh ra thêm."
+    }
+  },
+  "Bai_06_Tinh_theo_phuong_trinh_hoa_hoc.md": {
+    "card_type": "hoa",
+    "quick_summary": {
+      "key_concept": "Tính theo PTHH dựa trên tỉ lệ số mol của các chất trong phương trình để tính khối lượng hoặc thể tích chất tham gia hoặc chất tạo thành. Hiệu suất $H\\% = \\dfrac{m_{\\text{thực tế}}}{m_{\\text{lí thuyết}}} \\times 100\\%$.",
+      "formulas_reactions": "• 4 bước giải kinh điển: Đổi số mol $\\rightarrow$ Lập PTHH $\\rightarrow$ Đặt tỉ lệ mol $\\rightarrow$ Đổi sang đại lượng đề bài hỏi ($m$ hoặc $V$).\n• Hiệu suất phản ứng: $H = \\dfrac{m_{\\text{thu được thực tế}}}{m_{\\text{tính theo lí thuyết}}} \\times 100\\%$",
+      "real_world": "• Trong công nghiệp sản xuất phân đạm hoặc nấu gang thép, hiệu suất phản ứng không bao giờ đạt $100\\%$ do hóa chất bị thất thoát hoặc phản ứng thuận nghịch.\n• Nướng bánh bao bằng bột nở: nhiệt phân muối tạo khí $\\mathrm{CO}_2$ làm bánh xốp phồng to.",
+      "common_pitfalls": "⚠️ **Lỗi sai kinh điển:** Lấy trực tiếp khối lượng gam của các chất đặt vào tỉ lệ của phương trình mà không đổi sang số mol; Quên kiểm tra phương trình đã được cân bằng hệ số hay chưa."
+    },
+    "experiment_or_example": {
+      "category": "Bài toán mẫu chuẩn mực 4 bước",
+      "title": "Tính khối lượng nhôm cần dùng và thể tích khí sinh ra",
+      "steps": "**Đề bài:** Cho $5{,}4\\text{ gam}$ kim loại nhôm ($\\mathrm{Al}$) tác dụng hoàn toàn với dung dịch $\\mathrm{HCl}$ dư. Tính thể tích khí $\\mathrm{H}_2$ thu được ở điều kiện chuẩn ($25^\\circ\\mathrm{C}, 1\\text{ bar}$).\n\n**Bước 1: Tính số mol Al**\n$$n_{\\mathrm{Al}} = \\dfrac{m}{M} = \\dfrac{5{,}4}{27} = 0{,}2\\text{ (mol)}$$\n\n**Bước 2: Viết & Cân bằng PTHH**\n$$2\\mathrm{Al} + 6\\mathrm{HCl} \\rightarrow 2\\mathrm{AlCl}_3 + 3\\mathrm{H}_2 \\uparrow$$\n\n**Bước 3: Suy ra số mol H2 theo tỉ lệ PTHH**\nTheo phương trình: Cứ 2 mol Al phản ứng tạo ra 3 mol $\\mathrm{H}_2$.\n$$n_{\\mathrm{H}_2} = 0{,}2 \\times \\dfrac{3}{2} = 0{,}3\\text{ (mol)}$$\n\n**Bước 4: Tính thể tích khí H2 ở ĐKC**\n$$V_{\\mathrm{H}_2} = n \\times 24{,}79 = 0{,}3 \\times 24{,}79 = 7{,}437\\text{ (lít)}$$",
+      "takeaway": "💡 Luôn luôn cân bằng phương trình trước khi lập tỉ lệ nhân chéo chia thẳng!"
+    }
+  },
+  "Bai_07_Toc_do_phan_ung_va_chat_xuc_tac.md": {
+    "card_type": "hoa",
+    "quick_summary": {
+      "key_concept": "Tốc độ phản ứng là đại lượng đặc trưng cho độ nhanh hay chậm của phản ứng hoá học. 5 yếu tố làm tăng tốc độ phản ứng: nồng độ, nhiệt độ, diện tích tiếp xúc, áp suất (với chất khí) và chất xúc tác.",
+      "formulas_reactions": "• Nồng độ tăng $\\rightarrow$ Số va chạm hiệu quả tăng $\\rightarrow$ Tốc độ tăng\n• Nhiệt độ tăng $\\rightarrow$ Phân tử chuyển động nhanh hơn $\\rightarrow$ Tốc độ tăng\n• Diện tích tiếp xúc tăng (chẻ nhỏ, nghiền bột) $\\rightarrow$ Tốc độ tăng\n• Chất xúc tác (ví dụ $\\mathrm{MnO}_2$): Làm tăng tốc độ phản ứng mà không bị tiêu hao sau phản ứng",
+      "real_world": "• Bỏ thức ăn vào tủ lạnh để giảm nhiệt độ, làm chậm tốc độ phản ứng ôi thiu phân hủy thức ăn.\n• Nấu súp dùng nồi áp suất để tăng áp suất và nhiệt độ sôi của nước, giúp thức ăn nhanh nhừ gấp 3 lần.\n• Thổi quạt vào bếp than cung cấp thêm oxygen và tăng diện tích tiếp xúc làm than cháy bùng lên.",
+      "common_pitfalls": "⚠️ **Hiểu lầm về chất xúc tác:** Nghĩ rằng chất xúc tác biến đổi thành chất khác; thực tế chất xúc tác chỉ đóng vai trò xúc tác làm giảm năng lượng hoạt hóa, sau phản ứng nó vẫn nguyên vẹn về khối lượng và tính chất hóa học."
+    },
+    "experiment_or_example": {
+      "category": "Thí nghiệm tiêu biểu",
+      "title": "Thí nghiệm phân huỷ Hydrogen peroxide (H2O2) bằng xúc tác MnO2",
+      "steps": "1. **Thí nghiệm đối chứng:** Rót vào 2 ống nghiệm mỗi ống $5\\text{ mL}$ dung dịch oxy già $\\mathrm{H}_2\\mathrm{O}_2$. Ở nhiệt độ thường, bọt khí $\\mathrm{O}_2$ thoát ra rất chậm, hầu như không nhìn thấy.\n2. **Thêm chất xúc tác:** Thêm một ít bột màu đen $\\mathrm{MnO}_2$ vào ống nghiệm thứ hai. Ngay lập tức, bọt khí thoát ra dữ dội, dung dịch sủi bọt cuồn cuộn.\n3. **Thử khí sinh ra:** Đưa que đóm còn tàn đỏ vào miệng ống nghiệm thứ hai, que đóm bùng cháy sáng dữ dội chứng tỏ khí thoát ra là Oxygen ($\\mathrm{O}_2$).\n4. **Phương trình phản ứng:** $$2\\mathrm{H}_2\\mathrm{O}_2 \\xrightarrow{\\mathrm{MnO}_2} 2\\mathrm{H}_2\\mathrm{O} + \\mathrm{O}_2 \\uparrow$$",
+      "takeaway": "💡 Trong cơ thể sinh vật, enzyme chính là các chất xúc tác sinh học cực kỳ kì diệu giúp các phản ứng trao đổi chất diễn ra chớp nhoáng ở nhiệt độ cơ thể $37^\\circ\\mathrm{C}$."
+    }
+  },
+  "Bai_08_Acid.md": {
+    "card_type": "hoa",
+    "quick_summary": {
+      "key_concept": "Acid là hợp chất mà phân tử gồm một hay nhiều nguyên tử hydrogen liên kết với gốc acid. Khi tan trong nước, acid phân li giải phóng ion $\\mathrm{H}^+$, làm quỳ tím hóa đỏ và tác dụng với kim loại đứng trước H giải phóng khí $\\mathrm{H}_2$.",
+      "formulas_reactions": "• Phân li: $\\mathrm{HCl} \\rightarrow \\mathrm{H}^+ + \\mathrm{Cl}^-$; $\\mathrm{H}_2\\mathrm{SO}_4 \\rightarrow 2\\mathrm{H}^+ + \\mathrm{SO}_4^{2-}$\n• Tác dụng kim loại: $\\mathrm{Zn} + 2\\mathrm{HCl} \\rightarrow \\mathrm{ZnCl}_2 + \\mathrm{H}_2 \\uparrow$\n• Tác dụng base (trung hòa): $\\mathrm{HCl} + \\mathrm{NaOH} \\rightarrow \\mathrm{NaCl} + \\mathrm{H}_2\\mathrm{O}$",
+      "real_world": "• Dịch vị dạ dày chứa acid $\\mathrm{HCl}$ nồng độ khoảng $0{,}001 - 0{,}01\\text{ M}$ giúp tiêu hóa thức ăn và diệt vi khuẩn; khi bị đau dạ dày dư acid, bác sĩ thường cho uống thuốc chứa muối kiềm yếu để trung hòa bớt acid.\n• Giấm ăn là dung dịch acetic acid $\\mathrm{CH}_3\\mathrm{COOH}$ nồng độ $2 - 5\\%$.",
+      "common_pitfalls": "⚠️ **Quy tắc an toàn pha loãng acid đặc:** TUYỆT ĐỐI KHÔNG ĐƯỢC RÓT NƯỚC VÀO ACID ĐẶC! Nước nhẹ hơn nổi lên trên, acid gặp nước tỏa nhiệt cực mạnh làm nước sôi cục bộ bắn tung tóe acid đậm đặc gây bỏng nặng. Phải **rót từ từ acid vào nước** và khuấy đều bằng đũa thủy tinh."
+    },
+    "experiment_or_example": {
+      "category": "Thí nghiệm tiêu biểu",
+      "title": "Thí nghiệm kẽm (Zn) tác dụng với dung dịch Hydrochloric acid (HCl)",
+      "steps": "1. Cho 2-3 viên kẽm ($\\mathrm{Zn}$) vào đáy ống nghiệm sạch.\n2. Dùng ống hút nhỏ giọt lấy khoảng $2\\text{ mL}$ dung dịch $\\mathrm{HCl}$ loãng nhỏ từ từ vào ống nghiệm.\n3. **Quan sát hiện tượng:** Viên kẽm tan dần, trên bề mặt viên kẽm sủi rất nhiều bọt khí li ti bay lên.\n4. Đưa que đóm đang cháy vào miệng ống nghiệm, nghe thấy tiếng nổ nhẹ 'bốp' đặc trưng của khí Hydrogen bốc cháy.",
+      "takeaway": "💡 Các kim loại đứng sau Hydrogen trong dãy hoạt động hóa học (như $\\mathrm{Cu, Ag, Au}$) không phản ứng với dung dịch $\\mathrm{HCl}$ hay $\\mathrm{H}_2\\mathrm{SO}_4$ loãng để giải phóng khí $\\mathrm{H}_2$."
+    }
+  },
+  "Bai_09_Base_Thang_pH.md": {
+    "card_type": "hoa",
+    "quick_summary": {
+      "key_concept": "Base là hợp chất mà phân tử gồm nguyên tử kim loại liên kết với một hay nhiều nhóm hydroxide ($-\\mathrm{OH}$). Dung dịch base (kiềm) làm quỳ tím hóa xanh, phenolphtalein hóa hồng và tác dụng với acid tạo muối và nước.",
+      "formulas_reactions": "• Phân li kiềm: $\\mathrm{NaOH} \\rightarrow \\mathrm{Na}^+ + \\mathrm{OH}^-$\n• Phản ứng trung hoà: $\\mathrm{NaOH} + \\mathrm{HCl} \\rightarrow \\mathrm{NaCl} + \\mathrm{H}_2\\mathrm{O}$\n• Thang pH (1 đến 14): $\\mathrm{pH} < 7$ (Acid); $\\mathrm{pH} = 7$ (Trung tính); $\\mathrm{pH} > 7$ (Base)",
+      "real_world": "• Đất trồng trọt bị chua ($\\\\mathrm{pH} < 6$) người nông dân bón vôi bột $\\mathrm{CaO}$ hoặc $\\mathrm{Ca(OH)}_2$ để nâng độ pH của đất.\n• Xà phòng, nước rửa chén có tính kiềm nhẹ giúp hòa tan và rửa trôi dầu mỡ bám dính.",
+      "common_pitfalls": "⚠️ **Phân biệt kiềm và base:** Tất cả các kiềm đều là base, nhưng không phải base nào cũng là kiềm! Kiềm là các base tan trong nước ($\\\\mathrm{NaOH, KOH, Ba(OH)}_2, \\mathrm{Ca(OH)}_2$). Các base không tan như $\\mathrm{Cu(OH)}_2, \\mathrm{Fe(OH)}_3$ không làm đổi màu quỳ tím."
+    },
+    "experiment_or_example": {
+      "category": "Thí nghiệm tiêu biểu",
+      "title": "Thí nghiệm phản ứng trung hoà giữa NaOH và HCl có chỉ thị phenolphthalein",
+      "steps": "1. Lấy $2\\text{ mL}$ dung dịch $\\mathrm{NaOH}$ vào ống nghiệm, nhỏ 1 giọt phenolphthalein $\\rightarrow$ dung dịch lập tức chuyển sang màu hồng đậm rực rỡ.\n2. Dùng ống hút nhỏ giọt từng giọt dung dịch $\\mathrm{HCl}$ vào ống nghiệm và lắc nhẹ.\n3. **Hiện tượng:** Màu hồng nhạt dần và đột ngột mất hẳn màu khi toàn bộ kiềm được trung hòa hoàn toàn.\n4. **PTHH:** $$\\mathrm{NaOH} + \\mathrm{HCl} \\rightarrow \\mathrm{NaCl} + \\mathrm{H}_2\\mathrm{O}$$",
+      "takeaway": "💡 Phản ứng trung hòa giữa acid và base luôn tạo ra muối và nước, đưa độ pH về trạng thái trung tính."
+    }
+  },
+  "Bai_13_Khoi_luong_rieng.md": {
+    "card_type": "ly",
+    "quick_summary": {
+      "key_concept": "Khối lượng riêng của một chất là khối lượng của một đơn vị thể tích chất đó ($1\\text{ m}^3$). Công thức: $D = \\dfrac{m}{V}$. Trọng lượng riêng: $d = 10 \\cdot D$.",
+      "formulas_reactions": "• Khối lượng riêng: $D = \\dfrac{m}{V} \\;\\left(\\dfrac{\\mathrm{kg}}{\\mathrm{m}^3}\\right)$\n• Khối lượng: $m = D \\cdot V \\;(\\mathrm{kg})$\n• Thể tích: $V = \\dfrac{m}{D} \\;(\\mathrm{m}^3)$\n• Quy đổi đơn vị: $1\\text{ g/cm}^3 = 1000\\text{ kg/m}^3$; $1\\text{ lít} = 1\\text{ dm}^3 = 10^{-3}\\text{ m}^3 = 1000\\text{ cm}^3$",
+      "real_world": "• Dầu ăn nổi lên trên mặt nước vì khối lượng riêng của dầu ($D \\approx 800\\text{ kg/m}^3$) nhỏ hơn nước ($D_{\\text{nước}} = 1000\\text{ kg/m}^3$).\n• Quả cầu bằng sắt ($D = 7800\\text{ kg/m}^3$) chìm nghỉm dưới đáy chậu nước.",
+      "common_pitfalls": "⚠️ **Lỗi đổi đơn vị mũ ba:** Rất nhiều học sinh nhầm $1\\text{ m}^3 = 100\\text{ cm}^3$ hoặc $1000\\text{ cm}^3$. Lưu ý: $1\\text{ m} = 100\\text{ cm} \\implies 1\\text{ m}^3 = (100)^3 = 1\\,000\\,000\\text{ cm}^3$!"
+    },
+    "experiment_or_example": {
+      "category": "Bài toán mẫu chuẩn mực 4 bước",
+      "title": "Xác định khối lượng riêng của một vật kim loại đặc",
+      "steps": "**Đề bài:** Một khối sắt đặc có thể tích $50\\text{ cm}^3$ và khối lượng $390\\text{ gam}$. Tính khối lượng riêng của sắt ra đơn vị $\\mathrm{kg/m}^3$.\n\n**Bước 1: Tóm tắt & Đổi đơn vị chuẩn SI**\n$m = 390\\text{ g} = 0{,}39\\text{ kg}$\n$V = 50\\text{ cm}^3 = 50 \\times 10^{-6}\\text{ m}^3 = 0{,}00005\\text{ m}^3$\n\n**Bước 2: Viết công thức**\n$$D = \\dfrac{m}{V}$$\n\n**Bước 3: Thay số và tính toán**\n$$D = \\dfrac{0{,}39}{0{,}00005} = 7800\\text{ (kg/m}^3\\text{)}$$\n*(Hoặc tính $D = \\dfrac{390}{50} = 7{,}8\\text{ g/cm}^3 = 7800\\text{ kg/m}^3$)*\n\n**Bước 4: Kết luận**\nKhối lượng riêng của sắt là $7800\\text{ kg/m}^3$.",
+      "takeaway": "💡 Để đo thể tích vật rắn không thấm nước có hình dạng bất kì, ta dùng bình chia độ đo thể tích nước dâng lên."
+    }
+  },
+  "Bai_16_Ap_suat_chat_long_Ap_suat_khi_quyen.md": {
+    "card_type": "ly",
+    "quick_summary": {
+      "key_concept": "Chất lỏng gây áp suất theo mọi phương lên đáy bình, thành bình và các vật nhúng trong lòng nó. Càng xuống sâu, áp suất chất lỏng càng lớn: $p = d \\cdot h$. Khí quyển bao quanh Trái Đất cũng gây ra áp suất khí quyển.",
+      "formulas_reactions": "• Áp suất chất lỏng: $p = d \\cdot h = 10 \\cdot D \\cdot h \\;(\\mathrm{Pa} \\text{ hoặc } \\mathrm{N/m}^2)$\n  + $d$: Trọng lượng riêng của chất lỏng ($\\mathrm{N/m}^3$)\n  + $h$: Độ sâu tính từ điểm xét đến **mặt thoáng** chất lỏng ($\\mathrm{m}$)\n• Áp suất khí quyển tiêu chuẩn ở mặt biển: $p_0 \\approx 101\\,300\\text{ Pa} \\approx 760\\text{ mmHg}$",
+      "real_world": "• Thợ lặn chuyên nghiệp khi lặn sâu phải mặc bộ đồ lặn chịu áp suất cao đặc biệt để tránh bị áp suất nước ép tức ngực khó thở.\n• Chân đập nước luôn được xây to và dày hơn đỉnh đập vì áp suất nước ở đáy hồ chứa lớn hơn rất nhiều so với trên mặt nước.",
+      "common_pitfalls": "⚠️ **Nhầm lẫn độ sâu $h$:** Rất nhiều bạn lấy khoảng cách từ điểm đo đến **đáy bình**! Xin nhớ rằng $h$ là độ sâu tính từ điểm đang xét lên **mặt thoáng chất lỏng**."
+    },
+    "experiment_or_example": {
+      "category": "Bài toán mẫu chuẩn mực 4 bước",
+      "title": "Tính áp suất nước tác dụng lên thợ lặn ở độ sâu 25m",
+      "steps": "**Đề bài:** Một thợ lặn đang ở độ sâu $25\\text{ m}$ dưới biển. Cho trọng lượng riêng của nước biển là $d = 10\\,300\\text{ N/m}^3$. Tính áp suất do nước biển tác dụng lên thợ lặn.\n\n**Bước 1: Tóm tắt**\n$h = 25\\text{ m}$\n$d = 10\\,300\\text{ N/m}^3$\nTìm $p = ?$\n\n**Bước 2: Viết công thức**\n$$p = d \\cdot h$$\n\n**Bước 3: Thay số và tính toán**\n$$p = 10\\,300 \\times 25 = 257\\,500\\text{ (Pa)}$$\n\n**Bước 4: Kết luận**\nÁp suất nước biển tác dụng lên thợ lặn là $257\\,500\\text{ Pa}$ (gấp khoảng 2,5 lần áp suất khí quyển trên bờ).",
+      "takeaway": "💡 Khi bơi lặn, tai chúng ta cảm thấy bị ép đau nhức chính là vì màng nhĩ đang chịu áp suất ngày càng tăng của cột nước bên trên."
+    }
+  },
+  "Bai_17_Luc_day_Archimedes.md": {
+    "card_type": "ly",
+    "quick_summary": {
+      "key_concept": "Mọi vật nhúng trong chất lỏng đều bị chất lỏng đẩy thẳng đứng từ dưới lên trên với một lực gọi là Lực đẩy Archimedes. Độ lớn lực đẩy bằng trọng lượng của phần chất lỏng bị vật chiếm chỗ: $F_A = d \\cdot V$.",
+      "formulas_reactions": "• Lực đẩy Archimedes: $F_A = d \\cdot V = 10 \\cdot D \\cdot V \\;(\\mathrm{N})$\n  + $d$: Trọng lượng riêng của chất lỏng ($\\mathrm{N/m}^3$)\n  + $V$: Thể tích phần chất lỏng bị vật chiếm chỗ ($\\mathrm{m}^3$)\n• Điều kiện chìm nổi: $F_A > P \\rightarrow$ Vật nổi lên; $F_A = P \\rightarrow$ Vật lơ lửng; $F_A < P \\rightarrow$ Vật chìm xuống",
+      "real_world": "• Con tàu biển bằng thép nặng hàng chục nghìn tấn nhưng vẫn nổi bồng bềnh trên mặt biển vì thân tàu được thiết kế rỗng, chiếm thể tích nước rất lớn tạo ra lực đẩy Archimedes khổng lồ cân bằng với trọng lượng tàu.\n• Tàu ngầm lặn xuống hoặc nổi lên bằng cách bơm nước vào hoặc xả nước ra khỏi các khoang chứa nước để thay đổi trọng lượng tàu.",
+      "common_pitfalls": "⚠️ **Bẫy thể tích $V$:** $V$ trong công thức $F_A = d \\cdot V$ là **thể tích phần vật ngập trong chất lỏng**, KHÔNG PHẢI luôn luôn là toàn bộ thể tích của vật nếu vật chỉ nổi một phần trên mặt nước!"
+    },
+    "experiment_or_example": {
+      "category": "Bài toán mẫu chuẩn mực 4 bước",
+      "title": "Tính lực đẩy Archimedes tác dụng lên miếng nhôm chìm trong nước",
+      "steps": "**Đề bài:** Một miếng nhôm có thể tích $500\\text{ cm}^3$ được nhúng chìm hoàn toàn trong nước. Cho trọng lượng riêng của nước là $d = 10\\,000\\text{ N/m}^3$. Tính lực đẩy Archimedes tác dụng lên miếng nhôm.\n\n**Bước 1: Tóm tắt & Đổi đơn vị**\n$V = 500\\text{ cm}^3 = 500 \\times 10^{-6}\\text{ m}^3 = 0{,}0005\\text{ m}^3$\n$d = 10\\,000\\text{ N/m}^3$\nTìm $F_A = ?$\n\n**Bước 2: Viết công thức**\n$$F_A = d \\cdot V$$\n\n**Bước 3: Thay số và tính toán**\n$$F_A = 10\\,000 \\times 0{,}0005 = 5\\text{ (N)}$$\n\n**Bước 4: Kết luận**\nLực đẩy Archimedes tác dụng lên miếng nhôm có phương thẳng đứng, chiều từ dưới lên trên và có độ lớn là $5\\text{ N}$.",
+      "takeaway": "💡 Vì có lực đẩy Archimedes nâng đỡ, khi kéo một xô nước từ dưới giếng lên lúc xô còn chìm trong nước ta cảm thấy nhẹ hơn nhiều so với khi xô đã lên khỏi mặt nước."
+    }
+  },
+  "Bai_19_Don_bay_va_ung_dung.md": {
+    "card_type": "ly",
+    "quick_summary": {
+      "key_concept": "Đòn bẩy là một thanh cứng có thể quay quanh một điểm tựa cố định ($O$). Khi cánh tay đòn tác dụng lực $l_1$ lớn hơn cánh tay đòn cản $l_2$ ($l_1 > l_2$), ta được lợi về lực ($F_1 < F_2$).",
+      "formulas_reactions": "• Điều kiện cân bằng đòn bẩy: $F_1 \\cdot l_1 = F_2 \\cdot l_2 \\iff \\dfrac{F_1}{F_2} = \\dfrac{l_2}{l_1}$\n  + $O$: Điểm tựa cố định\n  + $l_1, l_2$: Cánh tay đòn của các lực đối với điểm tựa (khoảng cách vuông góc từ trục quay tới giá của lực)",
+      "real_world": "• Cái kìm cắt kim loại có cán dài và lưỡi ngắn giúp tạo ra lực cắt cực mạnh ở đầu lưỡi kìm.\n• Cây kéo cắt giấy có cán ngắn lưỡi dài để cắt đường cắt dài nhanh chóng vì cắt giấy cần ít lực.\n• Chiếc bập bênh ở công viên, xà beng bẩy đá nặng, cái mở nút chai bia đều là ứng dụng đòn bẩy.",
+      "common_pitfalls": "⚠️ **Xác định cánh tay đòn:** Cánh tay đòn là **khoảng cách vuông góc** từ điểm tựa đến đường thẳng chứa giá của lực, chứ không phải là chiều dài xiên bất kì nối điểm tựa tới điểm đặt của lực."
+    },
+    "experiment_or_example": {
+      "category": "Bài toán mẫu chuẩn mực 4 bước",
+      "title": "Dùng xà beng đòn bẩy bẩy tảng đá nặng",
+      "steps": "**Đề bài:** Một người dùng xà beng dài $1{,}2\\text{ m}$ để bẩy một tảng đá có trọng lượng $P = 800\\text{ N}$. Điểm tựa cách tảng đá $0{,}2\\text{ m}$. Tính lực tối thiểu mà người đó cần tác dụng vào đầu kia của xà beng.\n\n**Bước 1: Tóm tắt & Xác định các cánh tay đòn**\n- Cánh tay đòn cản (từ điểm tựa đến tảng đá): $l_2 = 0{,}2\\text{ m}$\n- Chiều dài toàn bộ xà beng: $L = 1{,}2\\text{ m}$\n- Cánh tay đòn của lực tác dụng: $l_1 = 1{,}2 - 0{,}2 = 1{,}0\\text{ m}$\n- Lực cản: $F_2 = 800\\text{ N}$\n\n**Bước 2: Viết điều kiện cân bằng đòn bẩy**\n$$F_1 \\cdot l_1 = F_2 \\cdot l_2 \\implies F_1 = \\dfrac{F_2 \\cdot l_2}{l_1}$$\n\n**Bước 3: Thay số và tính toán**\n$$F_1 = \\dfrac{800 \\times 0{,}2}{1{,}0} = 160\\text{ (N)}$$\n\n**Bước 4: Kết luận**\nNgười đó chỉ cần tác dụng một lực tối thiểu là $160\\text{ N}$ (nhẹ hơn gấp 5 lần so với trọng lượng tảng đá).",
+      "takeaway": "💡 Archimedes từng nói câu nói nổi tiếng: 'Hãy cho tôi một điểm tựa, tôi sẽ nhấc bổng cả Trái Đất lên!'"
+    }
+  },
+  "Bai_30_Khai_quat_ve_co_the_nguoi.md": {
+    "card_type": "sinh",
+    "quick_summary": {
+      "key_concept": "Cơ thể người gồm 3 phần: đầu, thân và các chi. Đơn vị cấu tạo và chức năng cơ bản nhất của cơ thể là tế bào. Các tế bào cùng loại hợp thành mô, các mô tạo nên cơ quan, các cơ quan phối hợp thành hệ cơ quan thống nhất.",
+      "formulas_reactions": "• Tế bào $\\rightarrow$ Mô (mô biểu bì, mô liên kết, mô cơ, mô thần kinh) $\\rightarrow$ Cơ quan $\\rightarrow$ Hệ cơ quan $\\rightarrow$ Cơ thể thống nhất\n• Các hệ cơ quan chính: Hệ vận động, hệ tiêu hóa, hệ tuần hoàn, hệ hô hấp, hệ bài tiết, hệ thần kinh, hệ nội tiết, hệ sinh dục",
+      "real_world": "• Khi chạy bộ nhanh, hệ vận động hoạt động mạnh kéo theo hệ hô hấp thở gấp gáp để nạp thêm oxygen, tim (hệ tuần hoàn) đập thình thịch bơm máu nhanh, tuyến mồ hôi toát mồ hôi để tỏa nhiệt điều hòa thân nhiệt.",
+      "common_pitfalls": "⚠️ **Sai lầm về sự phối hợp:** Tưởng rằng các cơ quan hoạt động độc lập; trên thực tế tất cả các cơ quan trong cơ thể đều được điều khiển, điều hòa và phối hợp nhịp nhàng thống nhất bởi **hệ thần kinh** và **hệ nội tiết** (thông qua các hormone)."
+    },
+    "experiment_or_example": {
+      "category": "Quan sát & Phân tích sinh học",
+      "title": "Phân tích sự phối hợp nhịp nhàng của các hệ cơ quan khi tập thể dục",
+      "steps": "1. **Trạng thái nghỉ:** Nhịp thở khoảng 16-18 lần/phút, nhịp tim khoảng 70-75 nhịp/phút.\n2. **Khi bắt đầu chạy nhanh:** Cơ bắp co giãn liên tục đòi hỏi cung cấp nhiều năng lượng ATP và dưỡng khí oxygen.\n3. **Phản xạ điều hòa:**\n   - Hệ hô hấp: Tăng nhịp thở và độ sâu của lồng ngực để hấp thu $\\mathrm{O}_2$ và đào thải $\\mathrm{CO}_2$.\n   - Hệ tuần hoàn: Tim đập nhanh lên 120-140 nhịp/phút để vận chuyển máu giàu dưỡng khí đến các bó cơ.\n   - Da: Các mao mạch dưới da giãn nở, tuyến mồ hôi tăng tiết để hạ thân nhiệt.\n4. **Kết luận:** Cơ thể là một thể thống nhất hoàn chỉnh dưới sự chỉ huy của hệ thần kinh.",
+      "takeaway": "💡 Tập thể dục đều đặn giúp tăng dung tích sống của phổi, rèn luyện cơ tim dẻo dai và nâng cao sức đề kháng cho toàn bộ cơ thể."
+    }
+  },
+  "Bai_31_He_van_dong_o_nguoi.md": {
+    "card_type": "sinh",
+    "quick_summary": {
+      "key_concept": "Hệ vận động gồm bộ xương và hệ cơ. Xương tạo khung nâng đỡ, bảo vệ nội quan và là nơi bám của cơ; cơ co dãn tạo nên sự vận động của cơ thể. Khớp xương gồm khớp động, khớp bán động và khớp bất động.",
+      "formulas_reactions": "• Thành phần hóa học của xương: Chất hữu cơ (chất cốt giao, tạo tính mềm dẻo đàn hồi) + Chất khoáng (chủ yếu là Calcium phosphate, tạo tính rắn chắc)\n• Khi cơ co: Bắp cơ phình to, ngắn lại kéo xương di chuyển quanh khớp làm chi cử động",
+      "real_world": "• Trẻ em xương mềm dẻo, mau liền khi gãy vì chứa nhiều chất hữu cơ; người già xương xốp giòn, dễ gãy do giảm chất hữu cơ và thiếu calcium (loãng xương).\n• Ngồi học sai tư thế (gù lưng, lệch vai) lâu ngày làm biến dạng cong vẹo cột sống.",
+      "common_pitfalls": "⚠️ **Sai sót khi sơ cứu gãy xương:** Nắn bóp hoặc kéo giật mạnh chỗ gãy! Làm như vậy có thể khiến đầu xương gãy đâm rách mạch máu và dây thần kinh, gây liệt hoặc xuất huyết nguy hiểm. Phải cố định bằng nẹp gỗ và băng ép bất động trước khi đưa đến bệnh viện."
+    },
+    "experiment_or_example": {
+      "category": "Thí nghiệm tiêu biểu",
+      "title": "Thí nghiệm chứng minh thành phần hoá học của xương",
+      "steps": "1. **Chứng minh chất khoáng:** Lấy một mẩu xương đùi ếch ngâm vào cốc đựng dung dịch acid $\\mathrm{HCl}$ $10\\%$. Sau 15 phút, xương sủi bọt khí (khoáng chất $\\mathrm{CaCO}_3$ tan ra). Vớt xương rửa sạch $\\rightarrow$ xương trở nên mềm dẻo đến mức có thể uốn cong và thắt nút lại được!\n2. **Chứng minh chất hữu cơ:** Đốt một mẩu xương đùi ếch khác trên ngọn lửa đèn cồn đến khi không còn cháy nữa. Mẩu xương có mùi khét (chất hữu cơ protein bị cháy). Để nguội, chạm nhẹ vào xương thì xương vỡ vụn ra thành tàn tro giòn tan.\n3. **Kết luận:** Sự kết hợp hoàn hảo giữa chất hữu cơ (dẻo dai) và chất vô cơ (cứng chắc) làm cho xương vừa chắc vừa đàn hồi chịu lực cao.",
+      "takeaway": "💡 Để xương phát triển chắc khỏe, học sinh cần tắm nắng sớm hấp thụ vitamin D, uống sữa bổ sung canxi và ngồi học đúng tư thế thẳng lưng."
+    }
+  },
+  "Bai_10_Oxide.md": {
+    "card_type": "hoa",
+    "quick_summary": {
+      "key_concept": "Oxide là hợp chất gồm 2 nguyên tố, trong đó có một nguyên tố là oxygen. Phân loại: Oxide base (tác dụng acid), Oxide acid (tác dụng base kiềm), Oxide lưỡng tính và Oxide trung tính.",
+      "formulas_reactions": "• Oxide base + Acid: $\\mathrm{CuO} + 2\\mathrm{HCl} \\rightarrow \\mathrm{CuCl}_2 + \\mathrm{H}_2\\mathrm{O}$\n• Oxide acid + Kiềm: $\\mathrm{CO}_2 + \\mathrm{Ca(OH)}_2 \\rightarrow \\mathrm{CaCO}_3 \\downarrow + \\mathrm{H}_2\\mathrm{O}$\n• Oxide trung tính không tạo muối: $\\mathrm{CO, NO}$",
+      "real_world": "• Khí $\\mathrm{SO}_2, \\mathrm{NO}_2$ do nhà máy xả ra hòa tan vào nước mưa tạo thành mưa acid hủy hoại mùa màng, ăn mòn tượng đài đá vôi.\n• Vôi sống $\\mathrm{CaO}$ rải khử trùng chuồng trại và khử chua đất trồng.",
+      "common_pitfalls": "⚠️ **Lỗi phân loại:** Cho rằng mọi oxide kim loại đều là oxide base! Lưu ý: Một số oxide như $\\mathrm{Al}_2\\mathrm{O}_3, \\mathrm{ZnO}$ là oxide lưỡng tính; $\\mathrm{CrO}_3, \\mathrm{Mn}_2\\mathrm{O}_7$ là oxide acid."
+    },
+    "experiment_or_example": {
+      "category": "Thí nghiệm tiêu biểu",
+      "title": "Thí nghiệm sục khí CO2 vào nước vôi trong Ca(OH)2",
+      "steps": "1. Rót $5\\text{ mL}$ nước vôi trong $\\mathrm{Ca(OH)}_2$ vào ống nghiệm thủy tinh.\n2. Dùng ống hút thổi nhẹ hơi thở (chứa $\\mathrm{CO}_2$) vào dung dịch.\n3. **Hiện tượng:** Dung dịch trong suốt dần chuyển sang vẩn đục màu trắng sữa như nước vo gạo.\n4. **Giải thích:** Tạo kết tủa trắng $\\mathrm{CaCO}_3$: $$\\mathrm{CO}_2 + \\mathrm{Ca(OH)}_2 \\rightarrow \\mathrm{CaCO}_3 \\downarrow + \\mathrm{H}_2\\mathrm{O}$$",
+      "takeaway": "💡 Đây là phản ứng đặc trưng dùng để nhận biết khí Carbon dioxide ($\\mathrm{CO}_2$) trong phòng thí nghiệm."
+    }
+  },
+  "Bai_11_Muoi.md": {
+    "card_type": "hoa",
+    "quick_summary": {
+      "key_concept": "Muối là hợp chất gồm cation kim loại (hoặc $\\mathrm{NH}_4^+$) liên kết với anion gốc acid. Phản ứng trao đổi ion trong dung dịch xảy ra khi tạo thành chất kết tủa, chất khí hoặc nước.",
+      "formulas_reactions": "• Muối + Kim loại: $\\mathrm{Fe} + \\mathrm{CuSO}_4 \\rightarrow \\mathrm{FeSO}_4 + \\mathrm{Cu} \\downarrow$\n• Muối + Acid: $\\mathrm{CaCO}_3 + 2\\mathrm{HCl} \\rightarrow \\mathrm{CaCl}_2 + \\mathrm{CO}_2 \\uparrow + \\mathrm{H}_2\\mathrm{O}$\n• Muối + Muối: $\\mathrm{AgNO}_3 + \\mathrm{NaCl} \\rightarrow \\mathrm{AgCl} \\downarrow + \\mathrm{NaNO}_3$",
+      "real_world": "• Muối ăn $\\mathrm{NaCl}$ dùng làm gia vị thiết yếu, bảo quản thực phẩm (muối dưa cà, ướp cá) và truyền dịch y tế.\n• Thạch cao nung $\\mathrm{CaSO}_4 \\cdot 0{,}5\\mathrm{H}_2\\mathrm{O}$ dùng đúc tượng và bó bột khi gãy xương.",
+      "common_pitfalls": "⚠️ **Điều kiện phản ứng trao đổi:** Hai muối hoặc muối với base chỉ phản ứng được với nhau khi **cả hai chất ban đầu đều tan** và **sau phản ứng bắt buộc phải có chất kết tủa hoặc bay hơi**."
+    },
+    "experiment_or_example": {
+      "category": "Thí nghiệm tiêu biểu",
+      "title": "Thí nghiệm đinh sắt tác dụng với dung dịch Copper(II) sulfate (CuSO4)",
+      "steps": "1. Đánh sạch một chiếc đinh sắt bằng giấy nhám rồi buộc chỉ thả vào ống nghiệm chứa dung dịch $\\mathrm{CuSO}_4$ màu xanh lam.\n2. Sau 5-10 phút quan sát bề mặt đinh sắt: Xuất hiện một lớp kim loại màu đỏ gạch sáng bám chặt quanh đinh sắt (đồng $\\mathrm{Cu}$).\n3. Dung dịch màu xanh lam nhạt dần biến thành màu lục nhạt của muối $\\mathrm{FeSO}_4$.\n4. **Phương trình:** $$\\mathrm{Fe} + \\mathrm{CuSO}_4 \\rightarrow \\mathrm{FeSO}_4 + \\mathrm{Cu} \\downarrow$$",
+      "takeaway": "💡 Kim loại đứng trước đẩy được kim loại đứng sau ra khỏi dung dịch muối của chúng."
+    }
+  },
+  "Bai_12_Phan_bon_hoa_hoc.md": {
+    "card_type": "hoa",
+    "quick_summary": {
+      "key_concept": "Phân bón hoá học cung cấp các nguyên tố dinh dưỡng khoáng cần thiết cho cây trồng: Đạm (N - phát triển lá, cành), Lân (P - phát triển rễ, củ), Kali (K - chống rét, sâu bệnh, ngọt quả). Phân NPK cung cấp hỗn hợp cả 3 nguyên tố.",
+      "formulas_reactions": "• Phân đạm Urea: $(\\mathrm{NH}_2)_2\\mathrm{CO}$ (giàu đạm nhất $\\approx 46\\%\\text{ N}$)\n• Phân lân supephosphate: $\\mathrm{Ca(H}_2\\mathrm{PO}_4)_2$\n• Phân kali: $\\mathrm{KCl}$ hoặc $\\mathrm{K}_2\\mathrm{SO}_4$",
+      "real_world": "• Bón thừa phân đạm làm cây tốt lá lốp đòng, dễ bị sâu bệnh và tích tụ nitrate gây độc trong rau củ.\n• Cần bón đúng loại, đúng liều lượng, đúng thời điểm và đúng cách để bảo vệ môi trường đất nước.",
+      "common_pitfalls": "⚠️ **Không trộn chung phân đạm với vôi:** Bón đạm ammonium $\\mathrm{NH}_4^+$ cùng vôi kiềm $\\mathrm{Ca(OH)}_2$ sẽ sinh ra khí ammonia $\\mathrm{NH}_3 \\uparrow$ bay mất đạm làm mất tác dụng của phân."
+    },
+    "experiment_or_example": {
+      "category": "Quan sát & Nhận biết phân bón",
+      "title": "Phân biệt phân đạm và phân kali bằng nhiệt phân",
+      "steps": "1. Lấy một ít phân đạm urea cho vào ống nghiệm, đun nóng trên ngọn lửa đèn cồn.\n2. Urea nóng chảy, phân hủy bay ra khí có mùi khai hắc đặc trưng làm quỳ tím ẩm hóa xanh (khí $\\mathrm{NH}_3$).\n3. Trong khi đó, phân kali $\\mathrm{KCl}$ rất bền nhiệt, không bị nóng chảy hay bay mùi ở nhiệt độ đèn cồn.",
+      "takeaway": "💡 Khí ammonia bay ra là bằng chứng chứng minh urea cung cấp nguyên tố Nitrogen (Đạm)."
+    }
+  },
+  "Bai_14_Thuc_hanh_xac_dinh_khoi_luong_rieng.md": {
+    "card_type": "ly",
+    "quick_summary": {
+      "key_concept": "Xác định khối lượng riêng bằng cách đo độc lập khối lượng $m$ (dùng cân) và thể tích $V$ (dùng thước hình hộp $V = a \\cdot b \\cdot c$ hoặc bình chia độ $V = V_2 - V_1$), sau đó áp dụng công thức $D = \\dfrac{m}{V}$.",
+      "formulas_reactions": "• Khối hộp chữ nhật: $V = a \\cdot b \\cdot c \\implies D = \\dfrac{m}{a \\cdot b \\cdot c}$\n• Vật bất kì: $V = V_2 - V_1 \\implies D = \\dfrac{m}{V_2 - V_1}$\n• Đổi đơn vị: $1\\text{ g/cm}^3 = 1000\\text{ kg/m}^3$",
+      "real_world": "• Thợ kim hoàn xác định vàng thật hay giả bằng cách thả vào bình tràn đo thể tích nước tràn ra và cân khối lượng để tính khối lượng riêng ($D_{\\text{vàng}} = 19\\,300\\text{ kg/m}^3$).",
+      "common_pitfalls": "⚠️ **Lỗi đọc thể tích chất lỏng:** Phải đặt mắt nhìn ngang bằng với đáy của màng khum chất lỏng, không nhìn chéo từ trên xuống hoặc từ dưới lên gây sai số lớn."
+    },
+    "experiment_or_example": {
+      "category": "Thực hành đo mẫu",
+      "title": "Quy trình đo khối lượng riêng của hòn sỏi bằng bình chia độ",
+      "steps": "1. Đặt hòn sỏi khô lên cân điện tử, đọc khối lượng: $m = 54{,}0\\text{ g}$.\n2. Đổ nước vào ống đong tới vạch $V_1 = 60\\text{ mL}$.\n3. Thả chìm hòn sỏi vào ống đong, nước dâng lên vạch $V_2 = 80\\text{ mL}$.\n4. Thể tích hòn sỏi: $V = 80 - 60 = 20\\text{ mL} = 20\\text{ cm}^3$.\n5. Khối lượng riêng: $D = \\dfrac{54}{20} = 2{,}7\\text{ g/cm}^3 = 2700\\text{ kg/m}^3$.",
+      "takeaway": "💡 Thực hiện phép đo 3 lần và lấy giá trị trung bình để triệt tiêu sai số ngẫu nhiên."
+    }
+  },
+  "Bai_15_Ap_suat_tren_mot_be_mat.md": {
+    "card_type": "ly",
+    "quick_summary": {
+      "key_concept": "Áp suất là độ lớn của áp lực trên một đơn vị diện tích bị ép: $p = \\dfrac{F}{S}$. Đơn vị chuẩn là Pascal ($\\text{Pa} = \\text{N/m}^2$). Muốn tăng áp suất ta giảm diện tích ép $S$ (mài sắc mũi nhọn); muốn giảm áp suất ta tăng diện tích $S$ (bản xích rộng).",
+      "formulas_reactions": "• Công thức áp suất: $p = \\dfrac{F}{S} \\;(\\mathrm{Pa} \\text{ hoặc } \\mathrm{N/m}^2)$\n• Áp lực vuông góc: $F = p \\cdot S \\;(\\mathrm{N})$\n• Diện tích bị ép: $S = \\dfrac{F}{p} \\;(\\mathrm{m}^2)$",
+      "real_world": "• Xe tăng nặng hàng chục tấn nhưng không bị lún trong bùn lầy vì diện tích tiếp xúc của dải xích rất lớn làm giảm áp suất lên mặt đất.\n• Đầu đinh và mũi kim khâu phải làm nhọn hoắt để diện tích tiếp xúc cực nhỏ tạo ra áp suất khổng lồ đâm thủng gỗ và vải dễ dàng.",
+      "common_pitfalls": "⚠️ **Lỗi đổi đơn vị diện tích:** $1\\text{ cm}^2 = 10^{-4}\\text{ m}^2 = 0{,}0001\\text{ m}^2$; $1\\text{ dm}^2 = 10^{-2}\\text{ m}^2 = 0{,}01\\text{ m}^2$. Rất nhiều bạn quên lũy thừa bậc 2 khi đổi từ $\\text{cm}^2$ sang $\\text{m}^2$!"
+    },
+    "experiment_or_example": {
+      "category": "Bài toán mẫu chuẩn mực 4 bước",
+      "title": "Tính áp suất của một khối kim loại đặt trên mặt bàn",
+      "steps": "**Đề bài:** Một khối kim loại có trọng lượng $P = 120\\text{ N}$, đáy là hình chữ nhật kích thước $10\\text{ cm} \\times 20\\text{ cm}$. Tính áp suất của khối kim loại tác dụng lên mặt bàn.\n\n**Bước 1: Tóm tắt & Đổi đơn vị**\n$F = P = 120\\text{ N}$\n$S = 0{,}1\\text{ m} \\times 0{,}2\\text{ m} = 0{,}02\\text{ m}^2$\n\n**Bước 2: Viết công thức**\n$$p = \\dfrac{F}{S}$$\n\n**Bước 3: Thay số và tính toán**\n$$p = \\dfrac{120}{0{,}02} = 6000\\text{ (Pa)}$$\n\n**Bước 4: Kết luận**\nÁp suất tác dụng lên mặt bàn là $6000\\text{ Pa}$.",
+      "takeaway": "💡 Đặt mặt có diện tích nhỏ hơn xuống bàn thì áp suất sẽ lớn hơn."
+    }
+  },
+  "Bai_18_Tac_dung_lam_quay_cua_luc_Moment_luc.md": {
+    "card_type": "ly",
+    "quick_summary": {
+      "key_concept": "Tác dụng làm quay của lực đặc trưng bởi Moment lực: $M = F \\cdot d$. Moment lực càng lớn thì tác dụng làm quay càng mạnh. Cánh tay đòn $d$ là khoảng cách vuông góc từ trục quay đến giá của lực.",
+      "formulas_reactions": "• Moment lực: $M = F \\cdot d \\;(\\mathrm{N\\cdot m})$\n• $F$: Độ lớn lực tác dụng ($\\mathrm{N}$)\n• $d$: Cánh tay đòn (khoảng cách vuông góc, đơn vị mét $\\mathrm{m}$)",
+      "real_world": "• Tay nắm cửa luôn đặt ở mép ngoài cánh cửa cách xa bản lề để tăng cánh tay đòn $d$, giúp mở cửa nhẹ nhàng nhất.\n• Dùng cờ-lê cán dài mở bu lông gỉ sét dễ hơn cờ-lê cán ngắn gấp nhiều lần.",
+      "common_pitfalls": "⚠️ **Lực đi qua trục quay:** Nếu giá của lực đi qua trục quay hoặc song song với trục quay thì khoảng cách $d = 0 \\implies M = 0$, lực hoàn toàn **không có tác dụng làm quay**!"
+    },
+    "experiment_or_example": {
+      "category": "Bài toán mẫu chuẩn mực 4 bước",
+      "title": "Tính moment lực khi dùng cờ-lê xiết bu-lông",
+      "steps": "**Đề bài:** Dùng cờ-lê tác dụng lực $F = 40\\text{ N}$ vuông góc với cán cờ-lê tại điểm cách tâm bu-lông $25\\text{ cm}$. Tính moment lực tác dụng lên bu-lông.\n\n**Bước 1: Tóm tắt & Đổi đơn vị**\n$F = 40\\text{ N}$\n$d = 25\\text{ cm} = 0{,}25\\text{ m}$\n\n**Bước 2: Viết công thức**\n$$M = F \\cdot d$$\n\n**Bước 3: Thay số**\n$$M = 40 \\times 0{,}25 = 10\\text{ (N}\\cdot\\text{m)}$$\n\n**Bước 4: Kết luận**\nMoment của lực làm quay bu-lông là $10\\text{ N}\\cdot\\text{m}$.",
+      "takeaway": "💡 Muốn tăng tác dụng làm quay, tăng lực hoặc kéo dài cánh tay đòn."
+    }
+  },
+  "Bai_20_Hien_tuong_nhiem_dien_do_co_xat.md": {
+    "card_type": "ly",
+    "quick_summary": {
+      "key_concept": "Vật nhiễm điện có khả năng hút các vật nhẹ khác hoặc phóng tia lửa điện. Bản chất là sự dịch chuyển electron: Nhận thêm electron mang điện tích âm ($-$), mất bớt electron mang điện tích dương ($+$). Cùng dấu thì đẩy nhau, khác dấu thì hút nhau.",
+      "formulas_reactions": "• Nhận $e^- \\rightarrow$ Nhiễm điện âm ($-$).\n• Mất $e^- \\rightarrow$ Nhiễm điện dương ($+$).\n• Quy tắc tương tác: $(+) \\leftrightarrow (+)$ Đẩy; $(-) \\leftrightarrow (-)$ Đẩy; $(+) \\rightarrow \\leftarrow (-)$ Hút nhau.",
+      "real_world": "• Chải tóc bằng lược nhựa vào mùa đông khô hanh nghe tiếng lách tách và tóc bị hút dựng đứng theo răng lược.\n• Xe chở xăng dầu luôn thả một sợi xích sắt chạm đất để truyền các điện tích do ma sát xuống đất, tránh phát sinh tia lửa điện gây nổ cháy xe.",
+      "common_pitfalls": "⚠️ **Hiểu lầm về điện tích mới:** Cọ xát không tạo ra điện tích mới mà chỉ làm electron dịch chuyển từ vật này sang vật khác; tổng điện tích toàn hệ luôn được bảo toàn."
+    },
+    "experiment_or_example": {
+      "category": "Thí nghiệm vui",
+      "title": "Thí nghiệm thước nhựa nhiễm điện hút vụn giấy và dòng nước mảnh",
+      "steps": "1. Lấy thước kẻ nhựa cọ xát nhiều lần vào mảnh vải dạ hoặc tóc khô.\n2. Đưa thước lại gần các mẩu giấy vụn nhỏ $\\rightarrow$ các mẩu giấy bị hút bay bám chặt vào thước kẻ.\n3. Đưa thước lại gần dòng nước mảnh chảy từ vòi nước $\\rightarrow$ dòng nước bị uốn cong lệch về phía thước kẻ.",
+      "takeaway": "💡 Vật nhiễm điện có khả năng tác dụng lực hút lên mọi vật nhỏ nhẹ ở trạng thái trung hòa."
+    }
+  },
+  "Bai_21_Dong_dien_nguon_dien.md": {
+    "card_type": "ly",
+    "quick_summary": {
+      "key_concept": "Dòng điện là dòng chuyển dời có hướng của các điện tích. Nguồn điện tạo ra và duy trì dòng điện trong mạch kín, có hai cực dương ($+$) và âm ($-$). Kim loại dẫn điện nhờ các electron tự do.",
+      "formulas_reactions": "• Nguồn điện: Pin, acquy, dynamo, máy phát điện.\n• Vật dẫn điện: Đồng, nhôm, sắt, dung dịch điện li (acid, base, muối), cơ thể sống.\n• Vật cách điện: Nhựa, cao su, thủy tinh, sứ, không khí khô.",
+      "real_world": "• Lõi dây điện làm bằng đồng (dẫn điện cực tốt), vỏ ngoài bọc nhựa dẻo PVC (cách điện an toàn chống giật điện).\n• Cơ thể người dẫn điện tốt do chứa nhiều nước và ion muối khoáng, do đó chạm vào dây điện hở rất nguy hiểm.",
+      "common_pitfalls": "⚠️ **Nước nguyên chất vs Nước thường:** Nước cất nguyên chất dẫn điện cực kỳ kém (coi như cách điện), nhưng nước máy, nước mưa, nước ao hồ chứa nhiều ion muối khoáng hòa tan nên dẫn điện rất tốt!"
+    },
+    "experiment_or_example": {
+      "category": "Thí nghiệm tiêu biểu",
+      "title": "Thí nghiệm kiểm tra vật dẫn điện và vật cách điện",
+      "steps": "1. Lắp mạch điện gồm pin $3\\text{ V}$, bóng đèn và để hở hai đầu kẹp kim loại A, B.\n2. Kẹp lần lượt các vật liệu vào giữa hai đầu A, B:\n   - Thanh đồng, chìa khóa kim loại $\\rightarrow$ Đèn sáng rực $\\rightarrow$ Vật dẫn điện.\n   - Que nhựa, cục tẩy cao su, thước gỗ $\\rightarrow$ Đèn không sáng $\\rightarrow$ Vật cách điện.",
+      "takeaway": "💡 Chỉ những vật liệu có mật độ hạt mang điện tự do cao mới cho dòng điện chạy qua."
+    }
+  },
+  "Bai_22_Mach_dien_don_gian.md": {
+    "card_type": "ly",
+    "quick_summary": {
+      "key_concept": "Mạch điện đơn giản gồm nguồn điện, dây dẫn, công tắc và thiết bị tiêu thụ điện. Chiều dòng điện quy ước chạy từ cực dương qua dây dẫn và thiết bị điện tới cực âm của nguồn điện.",
+      "formulas_reactions": "• Chiều quy ước: Cực dương $(+) \\xrightarrow{\\text{mạch ngoài}} \\text{Thiết bị điện} \\xrightarrow{} \\text{Cực âm } (-)$\n• Chiều electron tự do trong kim loại: Từ cực âm $(-)$ sang cực dương $(+)$ (ngược chiều quy ước).",
+      "real_world": "• Mạch điện chiếu sáng gia đình gồm cầu dao tổng, công tắc và bóng đèn mắc song song để bật tắt từng đèn độc lập.\n• Cầu chì tự ngắt khi mạch bị chập ngắn mạch giúp ngăn chặn hỏa hoạn.",
+      "common_pitfalls": "⚠️ **Nhầm lẫn chiều dòng điện:** Chiều dòng điện quy ước lịch sử (từ dương sang âm) **ngược lại** với chiều chuyển động thực tế của các electron tự do trong kim loại (từ âm sang dương)."
+    },
+    "experiment_or_example": {
+      "category": "Thực hành lắp mạch",
+      "title": "Lắp ráp mạch điện chiếu sáng bóng đèn pin có khóa K",
+      "steps": "1. Nối cực dương pin với một đầu công tắc K mở.\n2. Nối đầu kia công tắc K với một đầu bóng đèn pin.\n3. Nối đầu còn lại của bóng đèn về cực âm của pin.\n4. Đóng khóa K $\\rightarrow$ Mạch kín hoàn chỉnh, đèn bừng sáng.",
+      "takeaway": "💡 Dòng điện chỉ có thể chạy qua khi mạch điện hoàn toàn kín."
+    }
+  },
+  "Bai_23_Tac_dung_cua_dong_dien.md": {
+    "card_type": "ly",
+    "quick_summary": {
+      "key_concept": "Dòng điện có 5 tác dụng chính: Tác dụng nhiệt (bàn là, bếp điện), phát sáng (đèn LED, đèn sợi đốt), từ (nam châm điện, chuông điện), hoá học (mạ điện, điện phân) và sinh lí (sốc tim, co giật cơ).",
+      "formulas_reactions": "• Tác dụng nhiệt: Điện năng $\\rightarrow$ Nhiệt năng ($Q = I^2 \\cdot R \\cdot t$)\n• Tác dụng từ: Dòng điện tạo ra từ trường xung quanh dây dẫn\n• Tác dụng hóa học: Tách ion kim loại bám lên cực âm (mạ điện)",
+      "real_world": "• Cần cẩu nam châm điện nâng hàng chục tấn thép vụn lên cao trong chớp mắt chỉ bằng cách bật công tắc điện.\n• Mạ vàng đồng hồ, trang sức bằng tác dụng hóa học của dòng điện.",
+      "common_pitfalls": "⚠️ **Tác dụng sinh lý cực kỳ nguy hiểm:** Dòng điện lưới $220\\text{ V}$ chạy qua cơ thể gây ngừng tim tức khắc. Tuyệt đối không chạm tay vào ổ cắm điện hoặc dây điện hở!"
+    },
+    "experiment_or_example": {
+      "category": "Thí nghiệm tiêu biểu",
+      "title": "Chế tạo nam châm điện từ đinh sắt và cuộn dây đồng",
+      "steps": "1. Quấn chặt 50 vòng dây đồng có bọc men cách điện xung quanh một chiếc đinh sắt to.\n2. Cạo sạch men ở 2 đầu dây rồi nối với 2 cực của pin $1{,}5\\text{ V}$.\n3. Đưa đầu đinh lại gần các ghim giấy bằng thép $\\rightarrow$ Đinh sắt hút chặt hàng chục chiếc ghim giấy.\n4. Ngắt công tắc điện $\\rightarrow$ Lực từ biến mất ngay, các ghim giấy rơi rụng hết.",
+      "takeaway": "💡 Nam châm điện có thể chủ động bật/tắt từ tính bằng cách đóng/ngắt dòng điện."
+    }
+  },
+  "Bai_24_Cuong_do_dong_dien_va_hieu_dien_the.md": {
+    "card_type": "ly",
+    "quick_summary": {
+      "key_concept": "Cường độ dòng điện ($I$, đơn vị Ampe $\\mathrm{A}$) đặc trưng cho độ mạnh yếu của dòng điện. Hiệu điện thế ($U$, đơn vị Vôn $\\mathrm{V}$) cho biết khả năng sinh công của nguồn điện. Ampe kế mắc nối tiếp, Vôn kế mắc song song.",
+      "formulas_reactions": "• Ampe kế: Mắc nối tiếp, chốt $(+)$ nối về phía cực dương nguồn.\n• Vôn kế: Mắc song song, chốt $(+)$ nối về phía điện thế cao.\n• Quy đổi: $1\\text{ A} = 1000\\text{ mA}$; $1\\text{ kV} = 1000\\text{ V} = 1\\,000\\,000\\text{ mV}$.",
+      "real_world": "• Pin tiểu con thỏ có hiệu điện thế $1{,}5\\text{ V}$; Ắc quy xe máy là $12\\text{ V}$; Điện lưới sinh hoạt gia đình tại Việt Nam là $220\\text{ V}$.",
+      "common_pitfalls": "⚠️ **Mắc nhầm Ampe kế song song với nguồn điện:** Gây ra hiện tượng đoản mạch (chập điện), dòng điện vọt lên cực đại làm cháy nổ đồng hồ đo và hỏng nguồn điện ngay lập tức!"
+    },
+    "experiment_or_example": {
+      "category": "Thực hành đo đạc",
+      "title": "Đo cường độ dòng điện qua bóng đèn pin 3V",
+      "steps": "1. Chọn ampe kế có thang đo $0 - 1\\text{ A}$ (ước lượng dòng qua đèn khoảng $0{,}3\\text{ A}$).\n2. Chỉnh kim ampe kế về vạch số 0.\n3. Mắc nối tiếp: Cực $(+)$ của pin $\\rightarrow$ chốt $(+)$ ampe kế $\\rightarrow$ chốt $(-)$ ampe kế $\\rightarrow$ bóng đèn $\\rightarrow$ công tắc $\\rightarrow$ cực $(-)$ của pin.\n4. Đóng công tắc, đọc số chỉ kim: $I = 0{,}28\\text{ A} = 280\\text{ mA}$.",
+      "takeaway": "💡 Chọn thang đo lớn hơn giá trị dự đoán để kim chỉ ở 2/3 thang đo cho độ chính xác cao nhất."
+    }
+  },
+  "Bai_25_Thuc_hanh_do_cuong_do_dong_dien_va_hieu_dien_the.md": {
+    "card_type": "ly",
+    "quick_summary": {
+      "key_concept": "Trong đoạn mạch nối tiếp: Cường độ dòng điện bằng nhau tại mọi điểm ($I = I_1 = I_2$); Hiệu điện thế tổng bằng tổng các hiệu điện thế thành phần ($U = U_1 + U_2$). Trong đoạn mạch song song: $U = U_1 = U_2$ và $I = I_1 + I_2$.",
+      "formulas_reactions": "• Mạch nối tiếp: $I = I_1 = I_2; \\quad U = U_1 + U_2$\n• Mạch song song: $U = U_1 = U_2; \\quad I = I_1 + I_2$",
+      "real_world": "• Các bóng đèn dây led trang trí Noel thường mắc nối tiếp (hỏng 1 bóng là cả dây tắt).\n• Các thiết bị điện trong nhà (tivi, quạt, tủ lạnh) luôn mắc song song với nguồn $220\\text{ V}$ để hoạt động độc lập với cùng điện áp định mức.",
+      "common_pitfalls": "⚠️ **Quên tắt nguồn trước khi mắc mạch:** Khi lắp ráp hoặc thay đổi thiết bị trong mạch, bắt buộc phải ngắt công tắc để đảm bảo an toàn tuyệt đối."
+    },
+    "experiment_or_example": {
+      "category": "Thực hành kiểm chứng",
+      "title": "Đo hiệu điện thế hai đầu hai bóng đèn mắc nối tiếp",
+      "steps": "1. Mắc nối tiếp hai bóng đèn Đ1 và Đ2 vào nguồn điện $6\\text{ V}$.\n2. Dùng vôn kế đo lần lượt hiệu điện thế giữa hai đầu Đ1 ($U_1$), hai đầu Đ2 ($U_2$) và hai đầu đoạn mạch ($U$).\n3. Kết quả đo thực tế: $U_1 = 2{,}8\\text{ V}$, $U_2 = 3{,}2\\text{ V}$, $U = 6{,}0\\text{ V}$.\n4. Rút ra kết luận: $U = U_1 + U_2$.",
+      "takeaway": "💡 Thực nghiệm hoàn toàn trùng khớp với định luật mạch điện cơ bản."
+    }
+  },
+  "Bai_26_Nang_luong_nhiet_va_noi_nang.md": {
+    "card_type": "ly",
+    "quick_summary": {
+      "key_concept": "Nội năng của một vật là tổng động năng và thế năng của các phân tử cấu tạo nên vật. Nhiệt độ càng cao, các phân tử chuyển động càng hỗn loạn nhanh $\\rightarrow$ nội năng càng lớn. Có 2 cách làm thay đổi nội năng: Thực hiện công và Truyền nhiệt.",
+      "formulas_reactions": "• Nhiệt độ $T$ tăng $\\implies$ Động năng phân tử tăng $\\implies$ Nội năng $U$ tăng\n• Thực hiện công: Cơ năng $\\rightarrow$ Nội năng (cọ xát, nén khí)\n• Truyền nhiệt: Nhiệt năng truyền từ vật nóng hơn sang vật lạnh hơn không sinh công",
+      "real_world": "• Xoa hai bàn tay vào nhau thấy tay ấm lên (thực hiện công làm tăng nội năng).\n• Thả thìa inox vào bát canh nóng thấy cán thìa nóng lên (truyền nhiệt).",
+      "common_pitfalls": "⚠️ **Nhiệt lượng không phải là nội năng:** Nhiệt lượng là **phần nội năng tăng thêm hay mất đi** trong quá trình truyền nhiệt, chứ không phải là toàn bộ nội năng của vật."
+    },
+    "experiment_or_example": {
+      "category": "Thí nghiệm tiêu biểu",
+      "title": "Thí nghiệm nén khí trong ống làm bốc cháy mẩu bông gòn",
+      "steps": "1. Cho một mẩu bông gòn tẩm cồn khô vào đáy một xilanh thủy tinh dày có piston kín khí.\n2. Ấn mạnh và thật nhanh piston từ trên xuống dưới.\n3. **Hiện tượng:** Mẩu bông gòn bỗng tự bốc cháy sáng rực trong xilanh mà không cần bật lửa!\n4. **Giải thích:** Công cơ học ta ấn xuống làm nén khối khí, chuyển hóa thành nội năng làm nhiệt độ không khí tăng vọt lên trên $300^\\circ\\text{C}$ làm bốc cháy bông gòn.",
+      "takeaway": "💡 Đây chính là nguyên lý tự bốc cháy nhiên liệu trong động cơ Diesel của xe ô tô và tàu thủy."
+    }
+  },
+  "Bai_27_Thuc_hanh_do_nang_luong_nhiet_bang_joulemeter.md": {
+    "card_type": "ly",
+    "quick_summary": {
+      "key_concept": "Joulemeter đo điện năng tiêu thụ chuyển hóa thành nhiệt năng cấp cho nước trong nhiệt lượng kế: $A = Q$. Tính nhiệt lượng theo công thức $Q = m \\cdot c \\cdot \\Delta t$ và tính hiệu suất đun nóng.",
+      "formulas_reactions": "• Điện năng cung cấp: $A = U \\cdot I \\cdot t \\;(\\mathrm{J})$ (hiển thị trên Joulemeter)\n• Nhiệt lượng nước thu vào: $Q = m \\cdot c \\cdot (t_2 - t_1) \\;(\\mathrm{J})$\n  + $c_{\\text{nước}} \\approx 4180\\text{ J/(kg}\\cdot\\text{K)}$\n• Hiệu suất: $H = \\dfrac{Q_{\\text{thu}}}{A_{\\text{điện}}} \\times 100\\%$",
+      "real_world": "• Ấm siêu tốc đun sôi nước có hiệu suất khoảng $85 - 90\\%$, phần năng lượng hao phí bị thất thoát tỏa ra không khí xung quanh và đốt nóng vỏ ấm.",
+      "common_pitfalls": "⚠️ **Bỏ qua nhiệt lượng kế:** Thực tế vỏ bình nhiệt lượng kế và đũa khuấy cũng nhận một phần nhiệt lượng, do đó $A_{\\text{đo}} > Q_{\\text{nước}}$."
+    },
+    "experiment_or_example": {
+      "category": "Thực hành đo mẫu",
+      "title": "Xác định nhiệt lượng cần để đun nóng 150g nước tăng thêm 15°C",
+      "steps": "1. Cân $m = 150\\text{ g} = 0{,}15\\text{ kg}$ nước cho vào nhiệt lượng kế, $t_1 = 25^\\circ\\text{C}$.\n2. Bật Joulemeter cấp điện cho dây nung, khuấy đều nước.\n3. Khi nhiệt độ đạt $t_2 = 40^\\circ\\text{C}$ ($\\Delta t = 15^\\circ\\text{C}$), đọc số chỉ Joulemeter: $A = 10\\,500\\text{ J}$.\n4. Tính nhiệt lượng lý thuyết: $$Q = 0{,}15 \\times 4180 \\times 15 = 9405\\text{ (J)}$$\n5. Hiệu suất: $H = \\dfrac{9405}{10\\,500} \\times 100\\% \\approx 89{,}6\\%$.",
+      "takeaway": "💡 Định luật bảo toàn năng lượng luôn nghiệm đúng: Điện năng = Nhiệt lượng có ích + Nhiệt hao phí."
+    }
+  },
+  "Bai_28_Su_truyen_nhiet.md": {
+    "card_type": "ly",
+    "quick_summary": {
+      "key_concept": "Có 3 hình thức truyền nhiệt: Dẫn nhiệt (chủ yếu trong chất rắn, kim loại dẫn tốt nhất); Đối lưu (chủ yếu trong chất lỏng và khí, truyền bằng các dòng vật chất); Bức xạ nhiệt (truyền bằng tia nhiệt đi thẳng, truyền được cả trong chân không).",
+      "formulas_reactions": "• Dẫn nhiệt: Phân tử dao động truyền động năng cho nhau (chất rắn)\n• Đối lưu: Dòng nóng nhẹ hơn bốc lên, dòng lạnh nặng hơn chìm xuống (chất lưu)\n• Bức xạ nhiệt: Tia nhiệt Mặt Trời truyền qua chân không tới Trái Đất",
+      "real_world": "• Phích nước (bình giữ nhiệt) có vỏ tráng bạc nhẵn bóng để phản xạ bức xạ nhiệt, giữa 2 lớp vỏ là chân không để ngăn cản dẫn nhiệt và đối lưu.\n• Đun nước phải đun từ đáy ấm để tạo dòng đối lưu cuộn tròn sôi đều cả ấm.",
+      "common_pitfalls": "⚠️ **Hiểu sai về áo len mùa đông:** Áo len không tự sinh ra nhiệt! Áo len giữ ấm nhờ các lỗ xốp chứa nhiều lớp không khí tĩnh cách nhiệt rất tốt, ngăn nhiệt từ cơ thể truyền ra môi trường lạnh bên ngoài."
+    },
+    "experiment_or_example": {
+      "category": "Thí nghiệm so sánh",
+      "title": "Khảo sát khả năng dẫn nhiệt của đồng, nhôm và thủy tinh",
+      "steps": "1. Lấy 3 thanh có kích thước giống hệt nhau: thanh đồng, thanh nhôm và thanh thủy tinh.\n2. Dùng sáp nến gắn các que diêm cách đều nhau dọc thân 3 thanh.\n3. Đun nóng đồng thời một đầu của cả 3 thanh trên ngọn lửa đèn cồn.\n4. **Hiện tượng:** Các que diêm trên thanh đồng rơi rụng trước tiên, tiếp theo đến thanh nhôm, còn thanh thủy tinh que diêm rụng rất muộn.\n5. **Kết luận:** Đồng dẫn nhiệt tốt hơn nhôm, thủy tinh dẫn nhiệt kém.",
+      "takeaway": "💡 Nồi nấu thường làm bằng kim loại (nhôm, inox) để dẫn nhiệt nhanh, còn quai nồi làm bằng nhựa hoặc gỗ để chống bỏng."
+    }
+  },
+  "Bai_29_Su_no_vi_nhiet.md": {
+    "card_type": "ly",
+    "quick_summary": {
+      "key_concept": "Chất khí nở vì nhiệt nhiều hơn chất lỏng, chất lỏng nở vì nhiệt nhiều hơn chất rắn: Khí > Lỏng > Rắn. Băng kép gồm hai kim loại nở vì nhiệt khác nhau tán chặt vào nhau, khi nóng hoặc lạnh sẽ bị uốn cong.",
+      "formulas_reactions": "• Thứ tự dãn nở thể tích khi tăng cùng nhiệt độ: $$\\Delta V_{\\text{khí}} > \\Delta V_{\\text{lỏng}} > \\Delta V_{\\text{rắn}}$$\n• Băng kép (Đồng - Thép): Đồng nở nhiều hơn thép $\\rightarrow$ Uốn cong về phía thép",
+      "real_world": "• Khi rót nước sôi vào cốc thủy tinh dày rất dễ nứt vỡ vì lớp thủy tinh bên trong nở nhanh mà lớp bên ngoài chưa kịp nở gây ứng suất kéo nứt.\n• Bơm lốp xe đạp quá căng để ngoài trời nắng dễ bị nổ lốp do không khí trong ruột xe nở mạnh.",
+      "common_pitfalls": "⚠️ **Nước đá nở ra dị thường:** Từ $0^\\circ\\text{C}$ đến $4^\\circ\\text{C}$, nước co lại khi nóng lên; ở $4^\\circ\\text{C}$ nước có khối lượng riêng lớn nhất ($1000\\text{ kg/m}^3$). Nhờ vậy mặt hồ đóng băng ở trên còn dưới đáy vẫn là nước lỏng $4^\\circ\\text{C}$ cho cá bơi lội mùa đông."
+    },
+    "experiment_or_example": {
+      "category": "Ứng dụng kỹ thuật",
+      "title": "Nguyên lý hoạt động của rơle nhiệt trong bàn là điện",
+      "steps": "1. Mạch điện bàn là đi qua một tiếp điểm gắn trên băng kép (lá đồng ở dưới, lá thép ở trên).\n2. Khi bàn là đủ nóng theo nhiệt độ cài đặt, lá đồng nở dài hơn lá thép làm băng kép uốn cong vồng lên trên.\n3. Sự uốn cong này tách rời tiếp điểm điện $\\rightarrow$ Mạch điện tự động ngắt, đèn báo tắt.\n4. Khi bàn là nguội bớt, băng kép thẳng trở lại $\\rightarrow$ Tiếp điểm đóng lại, bàn là tiếp tục được cấp điện.",
+      "takeaway": "💡 Rơle nhiệt là cơ cấu an toàn thông minh hoạt động hoàn toàn dựa vào định luật nở vì nhiệt của vật rắn."
+    }
+  },
+  "Bai_32_Dinh_duong_va_tieu_hoa_o_nguoi.md": {
+    "card_type": "sinh",
+    "quick_summary": {
+      "key_concept": "Hệ tiêu hóa biến đổi thức ăn thành các chất dinh dưỡng hòa tan mà cơ thể hấp thụ được (qua nhai nghiền cơ học và enzyme hóa học). Ruột non là nơi hoàn thành tiêu hóa và hấp thụ chất dinh dưỡng chủ yếu nhờ hàng triệu vi nhung mao.",
+      "formulas_reactions": "• Tinh bột chín $\\xrightarrow{\\text{Amylase nước bọt / tụy}} \\text{Maltose} \\xrightarrow{\\text{Maltase}} \\text{Glucose}$\n• Protein $\\xrightarrow{\\text{Pepsin dạ dày / Trypsin tụy}} \\text{Peptide} \\xrightarrow{\\text{Peptidase}} \\text{Amino acid}$\n• Lipid $\\xrightarrow{\\text{Dịch mật}} \\text{Nhũ tương hóa} \\xrightarrow{\\text{Lipase}} \\text{Acid béo} + \\text{Glycerol}$",
+      "real_world": "• Nhai kĩ cơm trắng, bánh mì thấy có vị ngọt lợ trong miệng vì enzyme amylase trong nước bọt đã phân giải một phần tinh bột chín thành đường maltose.\n• Ăn đồ chua cay, thức khuya, stress kích thích dạ dày tăng tiết acid $\\mathrm{HCl}$ gây viêm loét dạ dày.",
+      "common_pitfalls": "⚠️ **Dịch mật không chứa enzyme tiêu hóa:** Dịch mật do gan tiết ra **không chứa enzyme**, nó chỉ có muối mật đóng vai trò nhũ tương hóa phân tán các giọt chất béo lớn thành các hạt mỡ li ti để enzyme lipase dễ dàng tấn công phân giải."
+    },
+    "experiment_or_example": {
+      "category": "Thí nghiệm tiêu biểu",
+      "title": "Thí nghiệm chứng minh tác dụng của enzyme amylase trong nước bọt lên hồ tinh bột",
+      "steps": "1. Cho vào 2 ống nghiệm A và B mỗi ống $2\\text{ mL}$ hồ tinh bột loãng.\n2. Ống A: Thêm $2\\text{ mL}$ nước cất (đối chứng); Ống B: Thêm $2\\text{ mL}$ nước bọt khuấy đều.\n3. Đặt cả 2 ống nghiệm vào cốc nước ấm $37^\\circ\\text{C}$ (nhiệt độ cơ thể) trong 15 phút.\n4. Nhỏ vài giọt dung dịch Iodine vào cả 2 ống nghiệm:\n   - Ống A: Xuất hiện màu xanh tím đặc trưng (tinh bột còn nguyên vẹn).\n   - Ống B: Hoàn toàn không đổi màu (tinh bột đã bị enzyme amylase phân giải hết thành đường).",
+      "takeaway": "💡 Enzyme có tính đặc hiệu cao và hoạt tính tối ưu ở nhiệt độ $37^\\circ\\text{C}$ của cơ thể người."
+    }
+  },
+  "Bai_33_Mau_va_he_tuan_hoan_cua_co_the_nguoi.md": {
+    "card_type": "sinh",
+    "quick_summary": {
+      "key_concept": "Máu gồm huyết tương (55%) và tế bào máu (45%: Hồng cầu mang O2/CO2, Bạch cầu miễn dịch thực bào, Tiểu cầu đông máu). Tim 4 ngăn co bóp nhịp nhàng bơm máu qua 2 vòng tuần hoàn kín.",
+      "formulas_reactions": "• 4 nhóm máu: A (kháng nguyên A), B (kháng nguyên B), AB (kháng nguyên A và B), O (không có kháng nguyên)\n• Nguyên tắc truyền máu: Không để kháng nguyên trên hồng cầu người cho bị kháng thể trong huyết tương người nhận ngưng kết\n• Vòng tuần hoàn lớn: Thất trái $\\rightarrow$ ĐM chủ $\\rightarrow$ Tế bào $\\rightarrow$ TM chủ $\\rightarrow$ Nhĩ phải",
+      "real_world": "• Người thuộc nhóm máu O là 'người cho phổ thông' vì hồng cầu không có kháng nguyên A, B nên không bị kháng thể người nhận ngưng kết.\n• Đứt tay chảy máu sau 3-5 phút máu tự đông lại thành cục nhờ mạng lưới sợi tơ huyết fibrin của tiểu cầu bịt kín vết thương.",
+      "common_pitfalls": "⚠️ **Nhầm lẫn máu đỏ tươi và đỏ thẫm:** Máu đỏ tươi là máu giàu oxy ($\\mathrm{HbO}_2$) chảy trong động mạch chủ và tĩnh mạch phổi; máu đỏ thẫm là máu nghèo oxy, giàu $\\mathrm{CO}_2$ chảy trong tĩnh mạch chủ và động mạch phổi."
+    },
+    "experiment_or_example": {
+      "category": "Phân tích y học",
+      "title": "Sơ đồ truyền máu an toàn hệ ABO",
+      "steps": "1. **Kiểm tra nhóm máu:** Xác định nhóm máu người cho và người nhận trước khi truyền.\n2. **Nguyên tắc cơ bản:** Tốt nhất là truyền cùng nhóm máu ($A \\rightarrow A; B \\rightarrow B; O \\rightarrow O; AB \\rightarrow AB$).\n3. **Trường hợp cấp cứu:** Nhóm O có thể truyền cho cả 4 nhóm; Nhóm AB có thể nhận được máu từ cả 4 nhóm máu (với lượng nhỏ dưới $250\\text{ mL}$ và truyền chậm).",
+      "takeaway": "💡 Hiến máu nhân đạo không chỉ cứu sống người bệnh mà còn kích thích tủy xương người hiến tái tạo máu mới khỏe mạnh."
+    }
+  },
+  "Bai_34_He_ho_hap_o_nguoi.md": {
+    "card_type": "sinh",
+    "quick_summary": {
+      "key_concept": "Hệ hô hấp gồm đường dẫn khí (mũi, họng, thanh quản, khí quản, phế quản - làm ấm, ẩm, lọc bụi) và hai lá phổi. Phổi có hàng trăm triệu phế nang tạo bề mặt trao đổi khí khổng lồ $70 - 80\\text{ m}^2$ giữa máu và không khí.",
+      "formulas_reactions": "• Trao đổi khí theo cơ chế khuếch tán: Từ nơi có phân áp cao sang nơi có phân áp thấp\n• Tại phế nang: $\\mathrm{O}_2$ từ phế nang $\\rightarrow$ Máu; $\\mathrm{CO}_2$ từ máu $\\rightarrow$ Phế nang\n• Tại tế bào: $\\mathrm{O}_2$ từ máu $\\rightarrow$ Tế bào; $\\mathrm{CO}_2$ từ tế bào $\\rightarrow$ Máu",
+      "real_world": "• Hít thở bằng mũi tốt hơn bằng miệng vì mũi có lớp lông giữ bụi, tuyến nhầy diệt khuẩn và mao mạch sưởi ấm không khí trước khi vào phổi.\n• Khói thuốc lá chứa hàng ngàn chất độc (nicotine, hắc ín, khí CO) làm tê liệt lông rung khí quản và gây ung thư phổi.",
+      "common_pitfalls": "⚠️ **Cơ chế hít vào - thở ra:** Khi hít vào, cơ hoành và cơ liên sườn **co lại** làm thể tích lồng ngực tăng lên $\\rightarrow$ áp suất trong phổi giảm thấp hơn khí quyển làm không khí tràn vào (chứ không phải không khí tràn vào làm ngực nở ra)."
+    },
+    "experiment_or_example": {
+      "category": "Mô hình trực quan",
+      "title": "Mô hình hoạt động của phổi bằng chai nhựa và bóng bay",
+      "steps": "1. Cắt đôi chai nhựa, gắn 2 quả bóng bay nhỏ vào chạc chữ Y làm 2 lá phổi.\n2. Bịt đáy chai bằng màng cao su co giãn mô phỏng cơ hoành.\n3. **Kéo màng cao su xuống (Hít vào):** Thể tích trong chai tăng, áp suất giảm $\\rightarrow$ 2 quả bóng bay căng phồng lên.\n4. **Đẩy màng cao su lên (Thở ra):** Thể tích trong chai giảm, áp suất tăng $\\rightarrow$ 2 quả bóng xẹp lép xì hơi ra.",
+      "takeaway": "💡 Hít thở sâu bằng bụng (vận động cơ hoành) giúp tối ưu lượng khí lưu thông và giảm căng thẳng thần kinh."
+    }
+  },
+  "Bai_35_He_bai_tiet_o_nguoi.md": {
+    "card_type": "sinh",
+    "quick_summary": {
+      "key_concept": "Thận là cơ quan bài tiết nước tiểu chủ yếu của cơ thể. Mỗi quả thận có khoảng 1 triệu đơn vị chức năng (Nephron). Nước tiểu hình thành qua 3 bước: Lọc máu ở cầu thận (nước tiểu đầu) $\\rightarrow$ Tái hấp thụ ở ống thận $\\rightarrow$ Bài tiết tiếp tạo nước tiểu chính thức.",
+      "formulas_reactions": "• Lọc máu (cầu thận): $\\approx 170 - 180\\text{ L/ngày}$ nước tiểu đầu\n• Tái hấp thụ (ống thận): Hấp thu lại $99\\%$ nước, glucose, ion khoáng vào máu\n• Nước tiểu chính thức: $\\approx 1{,}5\\text{ L/ngày}$ chứa urea, acid uric, chất cặn bã",
+      "real_world": "• Uống ít nước và ăn mặn kéo dài làm khoáng chất lắng đọng kết tinh thành sỏi thận làm tắc đường tiểu gây đau đớn dữ dội.\n• Khi cơ thể thiếu nước, thận tăng cường tái hấp thu nước làm nước tiểu có màu vàng sẫm đặc trưng.",
+      "common_pitfalls": "⚠️ **Thành phần nước tiểu đầu vs Huyết tương:** Nước tiểu đầu có thành phần gần như tương tự huyết tương, **chỉ khác là không có tế bào máu và các phân tử protein kích thước lớn** (do màng lọc cầu thận giữ lại)."
+    },
+    "experiment_or_example": {
+      "category": "Phân tích y sinh",
+      "title": "Phân tích dấu hiệu bệnh lý qua xét nghiệm nước tiểu",
+      "steps": "1. **Mẫu bình thường:** Trong suốt hoặc vàng nhạt, không có protein, không có đường glucose, không có hồng cầu.\n2. **Phát hiện Glucose trong nước tiểu:** Cảnh báo nguy cơ đái tháo đường (tiểu đường) do lượng đường huyết vượt ngưỡng tái hấp thu của thận.\n3. **Phát hiện Hồng cầu hoặc Protein:** Cảnh báo màng lọc cầu thận bị tổn thương viêm nhiễm (viêm cầu thận).",
+      "takeaway": "💡 Uống đủ 1,5 - 2 lít nước mỗi ngày và không nhịn tiểu là cách tốt nhất bảo vệ quả thận khỏe mạnh."
+    }
+  },
+  "Bai_36_Dieu_hoa_moi_truong_trong_cua_co_the_nguoi.md": {
+    "card_type": "sinh",
+    "quick_summary": {
+      "key_concept": "Môi trường trong cơ thể (nội môi) gồm máu, dịch mô và bạch huyết. Cân bằng nội môi (duy trì ổn định pH, thân nhiệt 37°C, huyết áp, đường huyết 0,12%) là điều kiện tiên quyết cho sự sống của tế bào.",
+      "formulas_reactions": "• Môi trường trong = Máu + Dịch mô (dịch kẽ) + Bạch huyết\n• Đường huyết tăng cao $\\xrightarrow{\\text{Tuyến tụy tiết Insulin}} \\text{Gan biến Glucose} \\rightarrow \\text{Glycogen (Hạ đường huyết)}$\n• Đường huyết giảm thấp $\\xrightarrow{\\text{Tuyến tụy tiết Glucagon}} \\text{Gan biến Glycogen} \\rightarrow \\text{Glucose (Tăng đường huyết)}$",
+      "real_world": "• Khi ăn nhiều muối mặn, áp suất thẩm thấu máu tăng kích thích trung khu thần kinh tạo cảm giác khát nước dữ dội và thận giảm bài tiết nước để giữ nước cân bằng nồng độ.",
+      "common_pitfalls": "⚠️ **Bệnh tiểu đường:** Do tuyến tụy thiếu hụt hormone insulin hoặc tế bào kháng insulin làm đường không vào được tế bào mà tích tụ trong máu rồi thải ra nước tiểu."
+    },
+    "experiment_or_example": {
+      "category": "Sơ đồ điều hòa",
+      "title": "Cơ chế tự điều hòa đường huyết hoàn hảo của cơ thể",
+      "steps": "1. Sau bữa ăn giàu tinh bột: Glucose tràn vào máu $\\rightarrow$ Nồng độ đường tăng cao hơn $0{,}12\\%$.\n2. Tuyến tụy cảm ứng ngay lập tức tiết hormone Insulin vào máu.\n3. Insulin mở cổng tế bào để hấp thu glucose và thúc đẩy gan tổng hợp Glycogen dự trữ $\\rightarrow$ Đường huyết giảm về bình thường.\n4. Sau 4-5 tiếng chưa ăn: Đường huyết giảm $\\rightarrow$ Tuyến tụy tiết Glucagon phân giải Glycogen trả lại Glucose vào máu.",
+      "takeaway": "💡 Cơ chế điều hòa ngược (Feedback) duy trì sự cân bằng động ổn định tuyệt vời của cơ thể."
+    }
+  },
+  "Bai_37_He_than_kinh_va_cac_giac_quan_o_nguoi.md": {
+    "card_type": "sinh",
+    "quick_summary": {
+      "key_concept": "Hệ thần kinh gồm trung ương (Não bộ, Tủy sống) và ngoại biên (Dây thần kinh, Hạch thần kinh). Phản xạ là phản ứng của cơ thể trả lời kích thích. Mắt (thị giác) và Tai (thính giác) là hai giác quan tiếp nhận thông tin môi trường chủ yếu.",
+      "formulas_reactions": "• Cung phản xạ gồm 5 khâu: Thụ quan $\\rightarrow$ Neuron hướng tâm $\\rightarrow$ Trung ương thần kinh $\\rightarrow$ Neuron li tâm $\\rightarrow$ Cơ quan đáp ứng (cơ/tuyến)\n• Cận thị: Ảnh rơi trước võng mạc $\\rightarrow$ Khắc phục bằng kính phân kì (kính lõm)\n• Viễn thị: Ảnh rơi sau võng mạc $\\rightarrow$ Khắc phục bằng kính hội tụ (kính lồi)",
+      "real_world": "• Chạm tay vào vật nóng lập tức rụt tay lại là phản xạ không điều kiện bẩm sinh do tủy sống điều khiển giúp tránh bỏng.\n• Thói quen nhìn điện thoại quá gần trong bóng tối là thủ phạm hàng đầu gây cận thị học đường.",
+      "common_pitfalls": "⚠️ **Phản xạ có điều kiện vs không điều kiện:** Tiết nước bọt khi nhai kẹo chanh là phản xạ không điều kiện; chỉ cần nghe ai nhắc đến 'quả chanh chua' mà ứa nước miếng là phản xạ có điều kiện hình thành qua trải nghiệm."
+    },
+    "experiment_or_example": {
+      "category": "Kiểm tra phản xạ",
+      "title": "Thử nghiệm phản xạ gân bánh chè (đầu gối)",
+      "steps": "1. Người được thử ngồi thả lỏng chân vắt chéo trên ghế cao, cẳng chân buông thõng tự nhiên.\n2. Dùng búa y tế cao su gõ nhẹ và dứt khoát vào gân dưới xương bánh chè ở đầu gối.\n3. **Hiện tượng:** Cẳng chân tự động đá bật mạnh về phía trước mà không cần suy nghĩ hay cố ý điều khiển.\n4. **Ý nghĩa:** Đây là phản xạ không điều kiện tủy sống dùng để kiểm tra độ nhạy của hệ thần kinh vận động.",
+      "takeaway": "💡 Ngủ đủ 8 tiếng mỗi ngày là liều thuốc bổ quý giá nhất phục hồi tế bào thần kinh sau ngày dài học tập."
+    }
+  },
+  "Bai_38_He_noi_tiet_o_nguoi.md": {
+    "card_type": "sinh",
+    "quick_summary": {
+      "key_concept": "Hệ nội tiết điều hòa các quá trình sinh lý thông qua các hormone tiết thẳng vào máu. Tuyến yên là tuyến nhạc trưởng; Tuyến giáp tiết thyroxine; Tuyến tụy tiết insulin/glucagon; Tuyến thượng thận tiết adrenaline; Tuyến sinh dục tiết testosterone/estrogen.",
+      "formulas_reactions": "• Tuyến yên: Tiết hormone tăng trưởng GH, hormone kích thích tuyến giáp TSH, kích dục gonadotropin\n• Tuyến giáp: Tiết Thyroxine (chứa Iodine) điều hòa chuyển hóa năng lượng\n• Tuyến thượng thận: Tiết Adrenaline (tăng huyết áp, nhịp tim khi căng thẳng, cấp cứu)",
+      "real_world": "• Thiếu Iodine trong khẩu phần ăn khiến tuyến giáp phì đại tạo thành khối u bướu ở cổ (bệnh bướu cổ) và trẻ em chậm phát triển trí tuệ.\n• Sử dụng muối ăn có bổ sung Iodine là giải pháp quốc gia phòng chống bệnh bướu cổ.",
+      "common_pitfalls": "⚠️ **Phân biệt tuyến nội tiết và ngoại tiết:** Tuyến ngoại tiết (như tuyến nước bọt, tuyến mồ hôi) có **ống dẫn** đổ dịch ra bề mặt; Tuyến nội tiết **không có ống dẫn**, hormone ngấm trực tiếp vào các mao mạch máu."
+    },
+    "experiment_or_example": {
+      "category": "Phân tích sinh lý",
+      "title": "Hiệu ứng hormone Adrenaline khi đối mặt với tình huống khẩn cấp",
+      "steps": "1. Khi bất ngờ gặp nguy hiểm (gặp chó dữ, hỏa hoạn): Não bộ phát tín hiệu báo động đến tuyến thượng thận.\n2. Tuyến thượng thận phóng thích ồ ạt hormone Adrenaline vào dòng máu.\n3. **Tác động sinh lý chớp nhoáng:** Tim đập thình thịch, đồng tử giãn to, đường huyết tăng vọt, lưu lượng máu dồn về các bó cơ bắp.\n4. Cơ thể chuyển sang trạng thái siêu năng lượng 'Chiến đấu hoặc Bỏ chạy' (Fight or Flight) giúp con người có sức bật phi thường vượt qua hiểm nguy.",
+      "takeaway": "💡 Hệ thần kinh và hệ nội tiết luôn phối hợp nhịp nhàng chỉ huy mọi phản ứng của cơ thể."
+    }
+  },
+  "Bai_39_Da_va_dieu_hoa_than_nhiet_o_nguoi.md": {
+    "card_type": "sinh",
+    "quick_summary": {
+      "key_concept": "Da gồm 3 lớp: Biểu bì (tầng sừng, tế bào sắc tố melanin chống tia UV), Lớp bì (thụ quan, tuyến mồ hôi, nang lông, mạch máu) và Lớp mỡ dưới da. Thân nhiệt ổn định ở 37°C nhờ cơ chế cân bằng giữa sinh nhiệt và tỏa nhiệt.",
+      "formulas_reactions": "• Trời nóng: Giãn mao mạch dưới da (đỏ mặt) + Tiết mồ hôi bay hơi tỏa nhiệt\n• Trời lạnh: Co mao mạch dưới da (tái mặt) + Co cơ chân lông (sởn gai ốc) + Run cơ sinh nhiệt",
+      "real_world": "• Người vận động mạnh đổ mồ hôi nhễ nhại, khi có gió thoảng qua cảm thấy mát lạnh ngay vì mồ hôi bay hơi hấp thụ nhiệt lượng rất lớn từ bề mặt da.\n• Say nắng (cảm nắng) xảy ra khi đi ngoài trời nắng gay gắt làm trung khu điều hòa thân nhiệt bị tê liệt gây sốt cao, mê sảng.",
+      "common_pitfalls": "⚠️ **Tắm ngay nước lạnh khi đang toát mồ hôi:** Các mao mạch đang giãn nở đột ngột bị co thắt cục bộ, lỗ chân lông đóng kín làm nhiệt không thoát được, rất dễ dẫn đến đột quỵ, cảm lạnh hoặc tai biến mạch máu não!"
+    },
+    "experiment_or_example": {
+      "category": "Quan sát sinh lý",
+      "title": "Quan sát hiện tượng sởn gai ốc và run cơ khi bị lạnh đột ngột",
+      "steps": "1. Bước từ phòng điều hòa ấm ra ngoài trời gió lạnh mùa đông.\n2. **Quan sát bề mặt da:** Các sợi lông dựng đứng, xung quanh chân lông nổi lên các nốt sần nhỏ gọi là 'sởn gai ốc'.\n3. **Giải thích:** Cơ dựng lông ở lớp bì co lại để giảm diện tích tỏa nhiệt qua lỗ chân lông.\n4. Hai hàm răng va vào nhau lập cập và các bắp thịt rung lên: Cơ co dãn liên tục để tăng cường tỏa nhiệt sưởi ấm.",
+      "takeaway": "💡 Giữ ấm cổ, ngực và chân vào mùa đông là biện pháp quan trọng phòng tránh viêm phổi."
+    }
+  },
+  "Bai_40_Sinh_san_o_nguoi.md": {
+    "card_type": "sinh",
+    "quick_summary": {
+      "key_concept": "Hệ sinh dục nam tạo tinh trùng (tinh hoàn); Hệ sinh dục nữ tạo trứng (buồng trứng). Thụ tinh là sự kết hợp giữa tinh trùng và trứng ở 1/3 ngoài ống dẫn trứng tạo hợp tử; Thụ thai là hợp tử làm tổ ở niêm mạc tử cung.",
+      "formulas_reactions": "• Thụ tinh: $\\text{Tinh trùng } (n) + \\text{Trứng } (n) \\rightarrow \\text{Hợp tử } (2n)$\n• Tuổi dậy thì: Nam xuất tinh lần đầu, vỡ giọng; Nữ xuất hiện kinh nguyệt, phát triển ngực, hông",
+      "real_world": "• Vệ sinh cơ quan sinh dục sạch sẽ hàng ngày bằng nước sạch giúp ngăn ngừa viêm nhiễm phụ khoa và nam khoa.\n• Mang thai ở tuổi vị thành niên ảnh hưởng nghiêm trọng đến sức khỏe thể chất của mẹ và bé, làm gián đoạn việc học tập.",
+      "common_pitfalls": "⚠️ **Nhầm lẫn thụ tinh và thụ thai:** Thụ tinh chỉ là trứng gặp tinh trùng; còn thụ thai là hợp tử đã di chuyển vào tử cung và cắm rễ làm tổ an toàn trong lớp niêm mạc tử cung thì thai kỳ mới chính thức bắt đầu."
+    },
+    "experiment_or_example": {
+      "category": "Giáo dục sức khỏe",
+      "title": "Hiểu biết khoa học về chu kỳ kinh nguyệt và bảo vệ bản thân",
+      "steps": "1. Chu kỳ kinh nguyệt bình thường kéo dài khoảng $28 - 32\\text{ ngày}$.\n2. Khoảng giữa chu kỳ (ngày thứ 14), một trứng chín rụng khỏi buồng trứng.\n3. Nếu trứng không được thụ tinh, lớp niêm mạc tử cung dày lên trước đó sẽ bong tróc, cùng với máu và dịch nhầy thoát ra ngoài qua âm đạo tạo thành hiện tượng hành kinh.\n4. Trang bị kiến thức giới tính, giữ gìn tình bạn trong sáng và biết nói 'KHÔNG' trước các cám dỗ.",
+      "takeaway": "💡 Sức khỏe sinh sản là nền tảng cho sự trưởng thành và tương lai hạnh phúc của mỗi người."
+    }
+  },
+  "Bai_41_Moi_truong_va_cac_nhan_to_sinh_thai.md": {
+    "card_type": "sinh",
+    "quick_summary": {
+      "key_concept": "Môi trường là nơi sinh sống của sinh vật gồm 4 loại: Môi trường cạn, nước, đất và sinh vật. Nhân tố sinh thái gồm: Nhân tố vô sinh (ánh sáng, nhiệt độ, nước...) và Nhân tố hữu sinh (sinh vật xung quanh và con người). Giới hạn sinh thái là khoảng giá trị của một nhân tố mà sinh vật có thể tồn tại và phát triển.",
+      "formulas_reactions": "• 4 Môi trường: Trên cạn, Dưới nước, Trong đất, Sinh vật\n• Giới hạn sinh thái: Giới hạn dưới $\\rightarrow$ Khoảng thuận lợi $\\rightarrow$ Giới hạn trên (ngoài giới hạn sinh vật sẽ chết)",
+      "real_world": "• Cá rô phi ở Việt Nam chết ở nhiệt độ dưới $5{,}6^\\circ\\text{C}$ (giới hạn dưới) và trên $42^\\circ\\text{C}$ (giới hạn trên); phát triển thuận lợi nhất ở $30^\\circ\\text{C}$.\n• Xương rồng sa mạc biến lá thành gai để giảm thoát hơi nước thích nghi với môi trường khô hạn.",
+      "common_pitfalls": "⚠️ **Nhân tố con người:** Con người thuộc nhóm nhân tố hữu sinh nhưng được tách thành một nhóm nhân tố sinh thái đặc biệt vì con người có trí tuệ, có thể cải tạo hoặc phá hủy môi trường trên quy mô toàn cầu."
+    },
+    "experiment_or_example": {
+      "category": "Quan sát sinh thái",
+      "title": "Thí nghiệm so sánh cây trồng trong bóng râm và ngoài sáng",
+      "steps": "1. Trồng 2 chậu cây cùng loại: Chậu 1 đặt ngoài sân đầy đủ ánh nắng mặt trời; Chậu 2 đặt trong góc phòng tối ít ánh sáng.\n2. Sau 2 tuần quan sát:\n   - Chậu ngoài sáng: Thân cây mập mạp, chắc khỏe, phiến lá dày, màu xanh thẫm.\n   - Chậu trong tối: Thân cây vươn dài khẳng khiu tìm ánh sáng, lá mỏng nhạt màu úa vàng.\n3. Kết luận: Ánh sáng là nhân tố sinh thái vô sinh thiết yếu chi phối quá trình quang hợp của cây xanh.",
+      "takeaway": "💡 Mỗi loài sinh vật đều có sự thích nghi kỳ diệu với môi trường sống đặc trưng của mình."
+    }
+  },
+  "Bai_42_Quan_the_sinh_vat.md": {
+    "card_type": "sinh",
+    "quick_summary": {
+      "key_concept": "Quần thể sinh vật là tập hợp các cá thể cùng loài, cùng sống trong một khu vực xác định ở một thời điểm nhất định và có khả năng sinh sản. Các đặc trưng cơ bản: Tỉ lệ giới tính, Nhóm tuổi, Mật độ cá thể.",
+      "formulas_reactions": "• Mật độ cá thể: Số lượng cá thể / Đơn vị diện tích hoặc thể tích\n• 3 nhóm tuổi: Trước sinh sản, Đang sinh sản, Sau sinh sản\n• Quan hệ trong quần thể: Hỗ trợ cùng loài và Cạnh tranh cùng loài",
+      "real_world": "• Đàn trâu rừng quây thành vòng tròn bảo vệ trâu con khỏi bầy sư tử là biểu hiện hỗ trợ cùng loài tuyệt đẹp.\n• Khi mật độ quá dày đặc, cá con ăn thịt lẫn nhau hoặc cây tự tỉa thưa để san sẻ nguồn sống.",
+      "common_pitfalls": "⚠️ **Nhầm lẫn giữa tập hợp ngẫu nhiên và quần thể:** Đàn cá trong chậu ở chợ hay thú trong vườn bách thú **không phải là quần thể** vì chúng thuộc nhiều nguồn gốc khác nhau, không có khả năng sinh sản duy trì nòi giống lâu dài."
+    },
+    "experiment_or_example": {
+      "category": "Phân tích sinh thái",
+      "title": "Đánh giá mật độ quần thể cá mè trong ao nuôi",
+      "steps": "1. Diện tích mặt nước ao là $1000\\text{ m}^2$, người dân thả nuôi 2000 con cá mè.\n2. Mật độ ban đầu: $$\\text{Mật độ} = \\dfrac{2000}{1000} = 2\\text{ con/m}^2$$\n3. Nếu thả quá dày ($10\\text{ con/m}^2$), cá sẽ thiếu oxy, thiếu thức ăn, còi cọc và dễ bùng phát dịch bệnh.\n4. Duy trì mật độ hợp lý giúp tối đa hóa năng suất sinh khối mà cá vẫn lớn nhanh khỏe mạnh.",
+      "takeaway": "💡 Mật độ cá thể là đặc trưng quan trọng nhất quyết định sự sinh tồn của quần thể."
+    }
+  },
+  "Bai_43_Quan_xa_sinh_vat.md": {
+    "card_type": "sinh",
+    "quick_summary": {
+      "key_concept": "Quần xã sinh vật là tập hợp các quần thể thuộc nhiều loài khác nhau cùng sống trong một sinh cảnh. Đặc trưng: Độ phong phú loài, Loài ưu thế (chiếm số lượng lớn, chi phối quần xã), Loài đặc trưng (chỉ có ở quần xã đó). Các mối quan hệ: Cộng sinh, Hội sinh, Cạnh tranh, Vật ăn thịt - con mồi.",
+      "formulas_reactions": "• Hỗ trợ: Cộng sinh $(+/+)$, Hội sinh $(+/0)$, Hợp tác $(+/+)$\n• Đối kháng: Cạnh tranh $(-/-)$, Kí sinh $(+/-)$, Vật ăn thịt $(+/-)$",
+      "real_world": "• Cây phong lan bám vào thân cây cổ thụ để lấy ánh sáng mà không hút chất dinh dưỡng của cây chủ là quan hệ hội sinh.\n• Nấm và tảo lam gắn bó tạo thành địa y là quan hệ cộng sinh mật thiết, tách rời ra cả hai đều chết.",
+      "common_pitfalls": "⚠️ **Loài ưu thế vs Loài đặc trưng:** Cây thông là loài ưu thế ở rừng thông Đà Lạt vì số lượng đông đúc chi phối khí hậu; còn cá cóc Tam Đảo là loài đặc trưng vì chỉ có ở vùng núi Tam Đảo mà hầu như không tìm thấy ở nơi khác."
+    },
+    "experiment_or_example": {
+      "category": "Khảo sát thực địa",
+      "title": "Phân tích cấu trúc phân tầng thẳng đứng của rừng nhiệt đới",
+      "steps": "1. **Tầng vượt tán (trên 30m):** Các cây gỗ đại thụ ưa sáng hoàn toàn.\n2. **Tầng tán rừng (20-30m):** Rợp bóng mát của các cây gỗ lớn, là nơi sinh sống của khỉ, vượn, chim chóc.\n3. **Tầng dưới tán (10-20m):** Các cây gỗ nhỏ chịu bóng một phần.\n4. **Tầng cây bụi và thảm cỏ (dưới 5m):** Cây ưa bóng, rêu, dương xỉ.\n5. Ý nghĩa: Phân tầng giúp các loài chia sẻ hiệu quả ánh sáng và không gian sống.",
+      "takeaway": "💡 Đa dạng sinh học càng cao thì quần xã càng bền vững trước các biến động môi trường."
+    }
+  },
+  "Bai_44_He_sinh_thai.md": {
+    "card_type": "sinh",
+    "quick_summary": {
+      "key_concept": "Hệ sinh thái = Quần xã sinh vật + Sinh cảnh (Môi trường vô sinh). Thành phần gồm: Sinh vật sản xuất (cây xanh tự dưỡng), Sinh vật tiêu thụ (động vật ăn thực vật và ăn thịt), Sinh vật phân giải (vi khuẩn, nấm). Dòng năng lượng truyền qua chuỗi và lưới thức ăn.",
+      "formulas_reactions": "• Chuỗi thức ăn: $\\text{Cỏ (Sản xuất)} \\rightarrow \\text{Châu chấu (Tiêu thụ 1)} \\rightarrow \\text{Ếch (Tiêu thụ 2)} \\rightarrow \\text{Rắn (Tiêu thụ 3)}$\n• Mắt xích chung liên kết các chuỗi tạo thành Lưới thức ăn phức tạp\n• Năng lượng Mặt Trời được thực vật cố định và hao phí dần qua mỗi bậc dinh dưỡng",
+      "real_world": "• Đầm sen mùa hạ là một hệ sinh thái nước ngọt tuyệt đẹp gồm bùn nước, ánh nắng, hoa sen, cá cờ, ốc bươu, ếch nhái và vi sinh vật đáy bùn phối hợp tuần hoàn vật chất.",
+      "common_pitfalls": "⚠️ **Mắt xích đầu tiên:** Đa số các chuỗi thức ăn trên cạn bắt đầu bằng **sinh vật sản xuất (cây xanh)**; một số chuỗi ở đáy bùn hoặc hang tối bắt đầu bằng chất mùn hữu cơ phân giải."
+    },
+    "experiment_or_example": {
+      "category": "Xây dựng lưới thức ăn",
+      "title": "Vẽ lưới thức ăn của hệ sinh thái đồng ruộng",
+      "steps": "1. Sinh vật sản xuất: Cây lúa.\n2. Động vật ăn lúa: Chuột đồng, sâu hại lúa, châu chấu.\n3. Động vật tiêu thụ bậc 2: Ếch ăn châu chấu, chim sẻ ăn sâu, rắn bắt chuột.\n4. Động vật tiêu thụ bậc 3: Diều hâu săn bắt cả rắn và chim sẻ.\n5. Vi sinh vật phân giải: Phân giải xác chuột, rơm rạ thành khoáng bón lại cho lúa.",
+      "takeaway": "💡 Tiêu diệt một mắt xích (như diệt sạch rắn) sẽ làm chuột bùng phát phá hoại mùa màng."
+    }
+  },
+  "Bai_45_Sinh_quyen.md": {
+    "card_type": "sinh",
+    "quick_summary": {
+      "key_concept": "Sinh quyển là quyển chứa toàn bộ sự sống trên Trái Đất, dày khoảng 20km, bao gồm lớp vỏ phong hóa (thạch quyển), toàn bộ thủy quyển và phần dưới khí quyển. Chia thành các khu sinh học (biome) trên cạn và dưới nước.",
+      "formulas_reactions": "• Thạch quyển (vài chục mét) + Thủy quyển (sâu 11km) + Khí quyển (đối lưu tới tầng ozone)\n• Các khu sinh học trên cạn: Rừng mưa nhiệt đới $\\rightarrow$ Rừng rụng lá ôn đới $\\rightarrow$ Thảo nguyên $\\rightarrow$ Sa mạc $\\rightarrow$ Đài nguyên hàn đới",
+      "real_world": "• Rừng nhiệt đới Amazon được ví là 'Lá phổi xanh của Trái Đất' vì sản xuất ra hơn 20% lượng dưỡng khí oxygen cho toàn bộ sinh quyển.",
+      "common_pitfalls": "⚠️ **Sự phân bố sinh vật:** Sinh vật không phân bố đều khắp mọi nơi trong sinh quyển mà tập trung dày đặc nhất ở bề mặt Trái Đất nơi có sự giao thoa giữa đất, nước và không khí tràn ngập ánh sáng."
+    },
+    "experiment_or_example": {
+      "category": "Khảo sát địa lý sinh học",
+      "title": "Khảo sát sự thay đổi thảm thực vật theo vĩ độ từ xích đạo về hai cực",
+      "steps": "1. Vùng Xích đạo (nóng ẩm quanh năm): Rừng mưa nhiệt đới nhiều tầng rậm rạp xanh tốt quanh năm.\n2. Vùng Ôn đới (4 mùa rõ rệt): Rừng lá rộng rụng lá vào mùa thu hoặc rừng lá kim thông tùng.\n3. Vùng Hàn đới quanh Bắc Cực (băng tuyết khắc nghiệt): Đài nguyên đồng rêu chỉ có rêu và địa y mọc ngắn ngày trong mùa hè ngắn ngủi.",
+      "takeaway": "💡 Nhiệt độ và lượng mưa là hai nhân tố khí hậu chính quyết định diện mạo của các khu sinh học trên hành tinh."
+    }
+  },
+  "Bai_46_Can_bang_tu_nhien.md": {
+    "card_type": "sinh",
+    "quick_summary": {
+      "key_concept": "Cân bằng tự nhiên là trạng thái ổn định động của hệ sinh thái, số lượng cá thể dao động quanh mức cân bằng nhờ khống chế sinh học. Mất cân bằng tự nhiên do thiên tai và tác động của con người (phá rừng, ô nhiễm).",
+      "formulas_reactions": "• Khống chế sinh học: Con mồi tăng $\\implies$ Kẻ săn mồi tăng $\\implies$ Con mồi giảm $\\implies$ Kẻ săn mồi giảm $\\implies$ Cân bằng\n• Tự điều chỉnh: Hệ sinh thái càng đa dạng loài thì khả năng tự điều chỉnh cân bằng càng bền vững",
+      "real_world": "• Ở Úc, thỏ hoang không có thiên địch tự nhiên đã sinh sôi hàng trăm triệu con cắn trọc đồng cỏ làm chết hàng loạt cừu bò, buộc chính phủ phải đưa virus Myxoma vào để khống chế đàn thỏ.",
+      "common_pitfalls": "⚠️ **Cân bằng không phải là bất biến:** Cân bằng tự nhiên là **cân bằng động**, luôn có sự biến động nhấp nhô của các quần thể xoay quanh vị trí cân bằng theo mùa và chu kỳ thức ăn."
+    },
+    "experiment_or_example": {
+      "category": "Bài học lịch sử sinh thái",
+      "title": "Bài học từ chiến dịch tiêu diệt chim sẻ năm 1958",
+      "steps": "1. Nhận định sai lầm: Chim sẻ ăn thóc lúa của nông dân nên bị phát động tiêu diệt hàng loạt.\n2. Hậu quả tức thì: Khi chim sẻ bị tiêu diệt sạch, các loài sâu bọ và châu chấu không còn thiên địch đã bùng phát thành đại dịch sâu bọ khủng khiếp cắn phá trơ trụi mùa màng.\n3. Rút ra bài học: Mỗi loài sinh vật trong tự nhiên đều có vị trí mắt xích sinh thái không thể thay thế.",
+      "takeaway": "💡 Tôn trọng sự cân bằng tự nhiên là điều kiện tiên quyết cho sự phát triển bền vững của loài người."
+    }
+  },
+  "Bai_47_Bao_ve_moi_truong.md": {
+    "card_type": "sinh",
+    "quick_summary": {
+      "key_concept": "Bảo vệ môi trường là trách nhiệm sống còn. Ô nhiễm môi trường (không khí, nước, đất, rác thải nhựa) dẫn đến biến đổi khí hậu, hiệu ứng nhà kính và tuyệt chủng hàng loạt. Giải pháp: Năng lượng sạch, Kinh tế tuần hoàn 3R (Giảm thiểu, Tái sử dụng, Tái chế).",
+      "formulas_reactions": "• Khí nhà kính $\\mathrm{CO}_2, \\mathrm{CH}_4 \\rightarrow$ Giữ nhiệt Trái Đất $\\rightarrow$ Băng tan, nước biển dâng\n• Mưa acid: Khí $\\mathrm{SO}_2, \\mathrm{NO}_2 + \\mathrm{H}_2\\mathrm{O} \\rightarrow \\mathrm{H}_2\\mathrm{SO}_4, \\mathrm{HNO}_3$\n• Quy tắc 3R: Reduce (Giảm thiểu) - Reuse (Tái sử dụng) - Recycle (Tái chế)",
+      "real_world": "• Rác thải nhựa mất từ 400 đến 1000 năm mới phân hủy rã thành các hạt vi nhựa cực độc chui vào cá tôm và quay lại bàn ăn con người.\n• Trồng cây xanh quanh trường học giúp hấp thụ khí $\\mathrm{CO}_2$, cản bụi mịn và hạ nhiệt độ sân trường vào mùa hè.",
+      "common_pitfalls": "⚠️ **Hiểu lầm về hành động:** Nghĩ rằng bảo vệ môi trường là việc của các nhà khoa học lớn; thực tế bảo vệ môi trường bắt đầu từ những việc nhỏ nhất của mỗi học sinh: không vứt rác bừa bãi, tắt bóng đèn khi ra khỏi phòng học."
+    },
+    "experiment_or_example": {
+      "category": "Kế hoạch hành động xanh",
+      "title": "Dự án nhỏ của học sinh: Phân loại rác tại nguồn ở trường học",
+      "steps": "1. Chuẩn bị 3 thùng rác có màu sắc và nhãn rõ ràng:\n   - Thùng xanh: Rác hữu cơ dễ phân hủy (vỏ chuối, lá cây, thức ăn thừa) đem ủ làm phân compost.\n   - Thùng vàng: Rác tái chế (vỏ chai nhựa, lon nhôm, giấy báo cũ, bìa carton) thu gom bán ve chai gây quỹ kế hoạch nhỏ.\n   - Thùng đỏ: Rác vô cơ khó phân hủy và rác độc hại (túi nilon, pin cũ, bóng đèn vỡ) thu gom xử lý riêng.\n2. Lan tỏa thông điệp: Nói không với đồ nhựa dùng một lần.",
+      "takeaway": "💡 'Hành tinh này không phải thừa kế từ tổ tiên, mà là mượn của con cháu mai sau!'"
+    }
+  }
+}

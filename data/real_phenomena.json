@@ -1,0 +1,496 @@
+{
+  "Bai_02_Phan_ung_hoa_hoc.md": [
+    {
+      "id": "phenom_01",
+      "title": "Bí ẩn 'Nước sôi nguội': Tại sao tôi vôi sống (CaO) gặp nước lại sôi sùng sục và tỏa nhiệt dữ dội?",
+      "question": "Cho những cục vôi sống màu trắng vào một hố nước lạnh, chỉ sau vài phút nước bỗng sôi ùng ục, khói hơi nước bốc lên mù mịt và nhiệt độ có thể lên tới trên 100°C làm chín cả quả trứng! Chuyện gì đã xảy ra?",
+      "observation": "Cục vôi rắn nứt toác, vỡ vụn thành bột nhão trắng xóa (vôi tôi), nước sôi sục và tỏa ra nhiệt lượng khổng lồ.",
+      "mechanism": "**Bản chất Hóa học (Phản ứng tỏa nhiệt mạnh):**\nVôi sống có thành phần chính là Calcium oxide (CaO). Khi gặp nước (H2O), các phân tử liên kết mạnh mẽ với nhau tạo thành Calcium hydroxide Ca(OH)2:\n$$\\mathrm{CaO} + \\mathrm{H}_2\\mathrm{O} \\rightarrow \\mathrm{Ca(OH)}_2 + Q \\quad (\\text{Nhiệt lượng } \\approx 65{,}2\\text{ kJ/mol})$$\nNhiệt lượng tỏa ra quá nhanh và quá lớn trong một không gian hẹp làm nước bao quanh lập tức đạt tới điểm sôi 100°C và hóa hơi dữ dội.",
+      "application_safety": "⚠️ **Cảnh báo an toàn tuyệt đối:**\n- Hơi vôi tôi và dung dịch nước vôi có tính kiềm rất mạnh (pH > 12) và nhiệt độ cực cao. Nếu vô tình rơi xuống hố vôi đang tôi sẽ bị bỏng nhiệt kết hợp bỏng kiềm ăn mòn da thịt rất nguy hiểm.\n- Khi làm việc gần hố vôi, bắt buộc phải đeo kính bảo hộ, găng tay cao su và khẩu trang chống bụi."
+    },
+    {
+      "id": "phenom_02",
+      "title": "Tại sao đinh sắt để ngoài trời mưa ẩm bị gỉ đỏ, còn ngâm trong dầu luyn thì sáng bóng?",
+      "question": "Những thanh sắt xây dựng hay xích xe đạp để lâu ngoài trời lại bị một lớp bột màu nâu đỏ (gỉ sắt) bong tróc phá hủy, nhưng khi bôi một lớp dầu mỡ thì bảo quản được hàng năm trời?",
+      "observation": "Sắt để ngoài không khí ẩm mất dần ánh kim, xốp mềm và dễ vỡ vụn.",
+      "mechanism": "**Bản chất Hóa học (Sự oxi hóa chậm):**\nSắt (Fe) phản ứng đồng thời với khí Oxygen (O2) và hơi nước (H2O) trong không khí:\n$$4\\mathrm{Fe} + 3\\mathrm{O}_2 + 2x\\mathrm{H}_2\\mathrm{O} \\rightarrow 2\\mathrm{Fe}_2\\mathrm{O}_3 \\cdot x\\mathrm{H}_2\\mathrm{O} \\quad (\\text{Gỉ sắt})$$\nLớp dầu luyn hoặc mỡ bôi trên kim loại đóng vai trò màng chắn cách ly sắt hoàn toàn với O2 và hơi nước, ngăn cản phản ứng hóa học xảy ra.",
+      "application_safety": "💡 **Ứng dụng đời sống:** Sơn chống gỉ, tra dầu mỡ xích líp xe, mạ kẽm (tôn lợp mái) là các biện pháp khoa học để bảo vệ kim loại khỏi bị ăn mòn."
+    }
+  ],
+  "Bai_03_Mol_va_ti_khoi_chat_khi.md": [
+    {
+      "id": "phenom_03",
+      "title": "Cạm bẫy 'Tử thần vô hình' dưới đáy giếng hoang và hang sâu",
+      "question": "Tại sao người dân khi dọn giếng sâu hay thám hiểm hang đá vôi nếu không cẩn thận thường bị ngất lịm rồi tử vong rất nhanh nếu không được cấp cứu kịp thời?",
+      "observation": "Không khí dưới đáy giếng không có mùi lạ hay khói, nhưng ngọn nến thả xuống đáy lập tức bị tắt ngấm.",
+      "mechanism": "**Bản chất Khoa học (Tỉ khối chất khí):**\n- Khí Carbon dioxide (CO2) sinh ra từ sự phân hủy xác thực vật, mùn hữu cơ có khối lượng mol $M = 44\\mathrm{ g/mol}$.\n- Tỉ khối của CO2 so với không khí ($M_{\\text{kk}} \\approx 29$): $$d_{\\mathrm{CO}_2/\\text{kk}} = \\frac{44}{29} \\approx 1{,}52 > 1$$\n- Vì CO2 nặng gấp 1,52 lần không khí nên nó luôn chìm xuống và tích tụ thành một lớp dày đặc dưới đáy giếng, đẩy toàn bộ khí Oxygen (O2) nhẹ hơn bay lên trên. Nạn nhân xuống giếng bị ngạt thở do thiếu O2 chỉ sau vài chục giây.",
+      "application_safety": "💡 **Quy tắc an toàn sống còn:** Trước khi xuống giếng cổ hoặc hầm sâu, phải buộc ngọn nến hoặc que đóm đang cháy thả xuống đáy. Nếu ngọn lửa tiếp tục cháy sáng thì mới an toàn đi xuống; nếu nến tắt ngay thì tuyệt đối không được xuống!"
+    }
+  ],
+  "Bai_04_Dung_dich_va_nong_do.md": [
+    {
+      "id": "phenom_04",
+      "title": "Bí mật tiếng 'Xì' sảng khoái và bọt trào khi bật nắp lon nước ngọt có ga",
+      "question": "Tại sao khi mở nắp lon nước ngọt giải khát ta luôn nghe thấy tiếng xì lớn và thấy vô số bọt khí li ti cuộn trào từ đáy lon lên bề mặt?",
+      "observation": "Trước khi mở, lon nước ngọt căng cứng và trong suốt. Khi bật nắp, khí trào ra mạnh và sủi bọt liên tục.",
+      "mechanism": "**Bản chất Hóa - Lý (Độ tan của chất khí theo áp suất):**\n- Khí CO2 được nén vào nước ngọt dưới áp suất rất cao ($3 - 4\\mathrm{ atm}$) trong nhà máy để hòa tan thật nhiều CO2 vào dung dịch lỏng.\n- Khi mở nắp, áp suất trong lon lập tức giảm tụt xuống bằng áp suất khí quyển ($1\\mathrm{ atm}$). Theo định luật về độ tan: **Áp suất giảm làm độ tan của chất khí trong nước giảm đột ngột**.\n- Lượng khí CO2 không thể tiếp tục hòa tan liền tách ra khỏi dung dịch, tạo thành hàng triệu bọt khí sủi trào lên.",
+      "application_safety": "💡 **Mẹo thực tế:** Muốn nước ngọt có ga giữ được vị sảng khoái lâu sau khi mở, hãy đậy chặt nắp và cất vào ngăn mát tủ lạnh (vì nhiệt độ thấp cũng làm tăng độ tan của khí CO2)."
+    }
+  ],
+  "Bai_05_Dinh_luat_bao_toan_khoi_luong_va_PTHH.md": [
+    {
+      "id": "phenom_05",
+      "title": "Nghịch lý 'Củi cháy thành tro thì nhẹ đi, nhưng đinh sắt gỉ lại nặng lên'?",
+      "question": "Một khúc củi nặng 5 kg khi đốt cháy xong chỉ còn lại một nắm tro nặng chưa tới 200 gam. Ngược lại, một chiếc đinh sắt 10 gam sau khi bị gỉ đem cân lại nặng hơn 13 gam! Định luật bảo toàn khối lượng có bị sai không?",
+      "observation": "Khối lượng phần rắn sau phản ứng có vẻ thay đổi hoàn toàn so với ban đầu.",
+      "mechanism": "**Bản chất Khoa học (Hệ kín và hệ hở):**\n- Với khúc củi: Carbon và Hydrogen trong gỗ đã tác dụng với Oxygen trong không khí tạo thành khí $\\mathrm{CO}_2$ và hơi nước $\\mathrm{H}_2\\mathrm{O}$ bay vào khí quyển! Nếu thu gom toàn bộ khói, khí $\\mathrm{CO}_2$ và hơi nước đem cân cùng với tro, tổng khối lượng sẽ bằng đúng khối lượng củi + khối lượng oxygen đã tham gia phản ứng.\n- Với đinh sắt gỉ: Khối lượng tăng lên chính là do các nguyên tử Oxygen từ không khí đã 'nhập' vào thanh sắt để tạo thành hợp chất $\\mathrm{Fe}_2\\mathrm{O}_3$:\n$$m_{\\text{gỉ sắt}} = m_{\\mathrm{Fe}} + m_{\\mathrm{O}_2} > m_{\\mathrm{Fe Ban đầu}}$$\n$\rightarrow$ Định luật bảo toàn khối lượng luôn đúng tuyệt đối trong mọi phản ứng!",
+      "application_safety": "💡 **Bài học tư duy:** Khi làm thí nghiệm kiểm chứng định luật bảo toàn khối lượng, bắt buộc phải tiến hành trong bình kín đậy nút chặt để khí không thoát ra ngoài."
+    }
+  ],
+  "Bai_06_Tinh_theo_phuong_trinh_hoa_hoc.md": [
+    {
+      "id": "phenom_06",
+      "title": "Bí quyết làm bánh bao xốp mềm thơm ngon nhờ 'Bột nở' (Baking Soda)",
+      "question": "Tại sao từ một cục bột mì đặc quánh, sau khi hấp hoặc nướng lên chiếc bánh bao lại nở phồng to gấp đôi, bên trong có vô số lỗ rỗng xốp mềm như mút?",
+      "observation": "Bánh phồng xốp, có mùi thơm dễ chịu và ăn mềm ngon.",
+      "mechanism": "**Bản chất Hóa học (Phản ứng sinh khí nén lỗ xốp):**\nBột nở có thành phần là Sodium hydrogencarbonate ($\\mathrm{NaHCO}_3$). Khi gặp nhiệt độ cao trong lò nướng hoặc nồi hấp, nó bị nhiệt phân hủy hoàn toàn:\n$$2\\mathrm{NaHCO}_3 \\xrightarrow{t^\\circ} \\mathrm{Na}_2\\mathrm{CO}_3 + \\mathrm{CO}_2 \\uparrow + \\mathrm{H}_2\\mathrm{O} \\uparrow$$\nKhí $\\mathrm{CO}_2$ và hơi nước sinh ra giãn nở mãnh liệt, tìm đường thoát ra ngoài và tạo nên hàng triệu lỗ rỗng li ti giữ cho bột bánh nở xốp.",
+      "application_safety": "💡 **Mẹo làm bếp:** Cần tính toán đúng lượng bột nở theo tỉ lệ công thức bánh. Nếu cho quá nhiều sẽ sinh dư muối $\\mathrm{Na}_2\\mathrm{CO}_3$ làm bánh có vị đắng lợ."
+    }
+  ],
+  "Bai_07_Toc_do_phan_ung_va_chat_xuc_tac.md": [
+    {
+      "id": "phenom_07",
+      "title": "Nguy cơ nổ bụi kinh hoàng tại các nhà máy xay xát bột mì và chế biến gỗ",
+      "question": "Một bao bột mì đặc hay một súc gỗ lớn đốt rất khó cháy và cháy rất chậm. Nhưng tại sao bụi bột mì hay mùn cưa lơ lửng trong không khí tại các xưởng sản xuất lại có thể phát nổ dữ dội như bom khi gặp một tia lửa nhỏ?",
+      "observation": "Khối bột rắn không bắt lửa nhanh, nhưng bụi mịn phân tán trong không gian bốc cháy lan truyền tức thì tạo sóng xung kích nổ phá hủy nhà xưởng.",
+      "mechanism": "**Bản chất Hóa học (Diện tích tiếp xúc bề mặt):**\n- Khi một chất rắn được nghiền thành hàng tỉ hạt bụi siêu nhỏ (kích thước micro-mét), **tổng diện tích bề mặt tiếp xúc** giữa hạt nhiên liệu với khí Oxygen trong không khí tăng lên hàng triệu lần.\n- Khi có tia lửa kích hoạt, phản ứng cháy diễn ra đồng loạt trên hàng triệu hạt bụi trong tích tắc ($< 0{,}01\\text{ s}$), giải phóng lượng nhiệt và thể tích khí khổng lồ gây nổ áp suất cực mạnh.",
+      "application_safety": "⚠️ **An toàn công nghiệp:** Các nhà máy dệt, xay xát gạo, bột mì, xưởng cưa bắt buộc phải lắp đặt hệ thống hút bụi chân không liên tục và cấm tuyệt đối mọi nguồn phát sinh tia lửa điện, tàn thuốc."
+    }
+  ],
+  "Bai_13_Khoi_luong_rieng.md": [
+    {
+      "id": "phenom_13",
+      "title": "Tại sao dầu ăn hay xăng luôn nổi lềnh bềnh trên mặt nước và không dập được bằng nước?",
+      "question": "Khi chảo dầu ăn bị bắt lửa bốc cháy, nếu hốt hoảng dội một ca nước vào thì ngọn lửa lập tức bùng trào dữ dội như quả cầu lửa. Nguyên nhân vì đâu?",
+      "observation": "Dầu mỡ luôn tụ lại thành váng nổi phía trên mặt nước; dội nước vào chảo dầu sôi làm dầu bắn tung tóe.",
+      "mechanism": "**Bản chất Vật lý (Khối lượng riêng & Nhiệt độ sôi):**\n- Khối lượng riêng của dầu ăn ($D_{\\text{dầu}} \\approx 800 - 900\\mathrm{ kg/m^3}$) nhỏ hơn khối lượng riêng của nước ($D_{\\text{nước}} = 1000\\mathrm{ kg/m^3}$) nên dầu luôn nổi lên trên.\n- Khi dội nước vào chảo dầu đang cháy ($> 200^\\circ\\mathrm{C}$), giọt nước nặng hơn chìm xuống đáy chảo và lập tức bị sôi hóa hơi giãn nở thể tích gấp 1700 lần, bắn tung các hạt dầu nhỏ li ti vào không khí tạo thành đám cháy quả cầu lửa khổng lồ.",
+      "application_safety": "💡 **Quy tắc an toàn PCCC bếp:** Khi cháy dầu mỡ, tuyệt đối **KHÔNG DÙNG NƯỚC**! Hãy bình tĩnh lấy nắp vung đậy kín chảo để cách ly oxygen, hoặc trùm một tấm khăn ẩm lên miệng chảo."
+    }
+  ],
+  "Bai_16_Ap_suat_chat_long_Ap_suat_khi_quyen.md": [
+    {
+      "id": "phenom_16",
+      "title": "Cảm giác tức ngực và ù tai dữ dội khi lặn sâu dưới đáy biển",
+      "question": "Tại sao những người mới tập lặn khi xuống sâu chỉ 3 - 5 mét đã bắt đầu cảm thấy màng nhĩ đau nhức, và nếu xuống sâu hơn 15 mét thì lồng ngực bị ép nghẹt như có tảng đá đè lên?",
+      "observation": "Xuống càng sâu thì cảm giác tức ngực, khó thở và đau tai càng tăng rõ rệt.",
+      "mechanism": "**Bản chất Vật lý (Áp suất chất lỏng theo độ sâu):**\n- Áp suất chất lỏng tăng tỉ lệ thuận với độ sâu: $$p = d \\cdot h$$\n- Cứ xuống sâu thêm $10\\mathrm{ m}$, áp suất nước biển tăng thêm $1\\mathrm{ atm} \\approx 100\\,000\\mathrm{ Pa}$.\n- Ở độ sâu $20\\mathrm{ m}$, toàn bộ bề mặt cơ thể phải gánh chịu áp suất tương đương $3\\mathrm{ atm}$ ($300\\,000\\mathrm{ N/m^2}$). Lực ép khổng lồ này tác dụng lên màng nhĩ và nén lồng ngực làm thể tích phổi co nhỏ lại, gây tức ngực và cản trở hoạt động co bóp của tim.",
+      "application_safety": "💡 **Bảo hộ thợ lặn:** Thợ lặn chuyên nghiệp cần bộ đồ lặn chuyên dụng bằng kim loại chịu áp suất và thở bằng bình dưỡng khí nén có van điều áp để áp lực khí trong phổi cân bằng với áp suất nước bên ngoài."
+    },
+    {
+      "id": "phenom_16_b",
+      "title": "Ống giác hơi của Y học cổ truyền dính chặt vào da lưng như thế nào?",
+      "question": "Thầy thuốc dùng que bông tẩm cồn đốt nóng bên trong lòng chiếc chén thủy tinh rồi áp nhanh vào lưng bệnh nhân. Chiếc chén lập tức 'mút' chặt lấy da thịt và nhô lên một khối tròn đỏ mà không rơi?",
+      "observation": "Cốc giác hơi hút chặt vào da, muốn tháo ra phải lấy ngón tay ấn vào mép da để không khí lọt vào.",
+      "mechanism": "**Bản chất Vật lý (Áp suất khí quyển):**\n- Ngọn lửa cồn đốt nóng không khí bên trong cốc làm không khí giãn nở và đẩy bớt một phần khí ra ngoài.\n- Khi áp nhanh miệng cốc vào da, ngọn lửa tắt, lượng khí còn lại trong cốc nguội đi làm áp suất khí trong cốc giảm tụt xuống thấp hơn nhiều so với áp suất khí quyển bên ngoài ($p_{\\text{trong}} < p_{\\text{ngoài}}$).\n- Áp suất khí quyển bên ngoài ép cực mạnh lên đáy cốc, giữ chiếc cốc dính chặt vào da thịt bệnh nhân.",
+      "application_safety": "💡 **Lưu ý y tế:** Cần kiểm soát lượng cồn để tránh cồn dư chảy xuống da gây bỏng cho người được giác hơi."
+    }
+  ],
+  "Bai_17_Luc_day_Archimedes.md": [
+    {
+      "id": "phenom_17",
+      "title": "Bí mật 'Con tàu thép vạn tấn nổi trên mặt biển' trong khi chiếc kim khâu bé xíu lại chìm nghỉm?",
+      "question": "Sắt thép có khối lượng riêng tới 7800 kg/m3, nặng gấp gần 8 lần nước. Vậy tại sao chiếc đinh sắt hay kim khâu thả vào nước thì chìm ngay xuống đáy, còn siêu tàu chở hàng nặng 200.000 tấn bằng thép lại nổi hiên ngang?",
+      "observation": "Vật đặc bằng kim loại chìm; con tàu kim loại khoang rỗng lại nổi.",
+      "mechanism": "**Bản chất Vật lý (Lực đẩy Archimedes & Khối lượng riêng trung bình):**\n- Chiếc đinh sắt là khối đặc có $D_{\\text{sắt}} = 7800\\mathrm{ kg/m^3} > D_{\\text{nước}} = 1000\\mathrm{ kg/m^3} \\implies P > F_A$ (Đinh chìm).\n- Con tàu thủy tuy vỏ bằng thép nhưng bên trong là một thể tích rỗng khổng lồ chứa không khí. Thể tích toàn phần $V_{\\text{tàu}}$ rất lớn làm cho khối lượng riêng trung bình của cả con tàu:\n$$D_{\\text{trung bình}} = \\frac{m_{\\text{vỏ}} + m_{\\text{hàng}} + m_{\\text{khí}}}{V_{\\text{toàn phần}}} < 1000\\mathrm{ kg/m^3}$$\nNhờ đó, lực đẩy Archimedes $F_A = d_{\\text{nước}} \\cdot V_{\\text{chìm}}$ đủ lớn để cân bằng hoàn toàn với trọng lượng khổng lồ của tàu ($F_A = P$).",
+      "application_safety": "💡 **Tàu ngầm hoạt động:** Tàu ngầm lặn xuống bằng cách bơm nước biển vào các khoang chứa nước dằn (làm tăng trọng lượng $P > F_A$). Khi muốn nổi lên, người ta dùng khí nén thổi hết nước biển ra ngoài (làm giảm trọng lượng $P < F_A$)."
+    }
+  ],
+  "Bai_19_Don_bay_va_ung_dung.md": [
+    {
+      "id": "phenom_19",
+      "title": "Tại sao chiếc kéo cắt sắt có cán rất dài nhưng lưỡi lại rất ngắn, còn kéo cắt vải thì ngược lại?",
+      "question": "Quan sát bộ đồ nghề của bác thợ xây và cô thợ may, ta thấy kéo cắt sắt thép có tay cầm dài gấp 4 lần lưỡi cắt, trong khi kéo cắt vải lại có tay cầm ngắn và lưỡi rất dài mỏng. Tại sao lại có sự khác biệt thú vị này?",
+      "observation": "Kéo cắt sắt dùng sức ít nhưng cắt được tấm kim loại dày; kéo cắt vải một nhát cắt được một đường rất dài.",
+      "mechanism": "**Bản chất Vật lý (Quy tắc đòn bẩy):**\nTheo quy tắc cân bằng đòn bẩy: $F_1 \\cdot d_1 = F_2 \\cdot d_2 \\implies F_1 = F_2 \\cdot \\frac{d_2}{d_1}$\n- **Kéo cắt sắt:** Cần tạo ra lực cắt cực lớn $F_1$ để phá vỡ kim loại $\\rightarrow$ Cần cánh tay đòn của tay người $d_2$ rất dài so với cánh tay đòn của vật $d_1$ ($d_2 \\gg d_1$) để **được lợi tối đa về lực** ($F_1 \\gg F_2$).\n- **Kéo cắt vải:** Vải mềm cần ít lực nhưng cần đường cắt nhanh, thẳng và liên tục $\\rightarrow$ Thiết kế $d_1 > d_2$ chấp nhận tốn lực hơn một chút nhưng **được lợi về quãng đường cắt**.",
+      "application_safety": "💡 **Ứng dụng đời sống:** Kìm nhổ đinh, kẹp hạt óc chó, xà beng bẩy đá đều vận dụng nguyên tắc kéo dài cánh tay đòn để giảm thiểu lực tay của con người."
+    }
+  ],
+  "Bai_30_Khai_quat_ve_co_the_nguoi.md": [
+    {
+      "id": "phenom_30",
+      "title": "Điều gì xảy ra bên trong cơ thể khi bạn giật mình nhìn thấy một con rắn hay nguy hiểm cận kề?",
+      "question": "Khi vừa nhìn thấy một mối nguy hiểm bất ngờ, tim bạn lập tức đập thình thịch như đánh trống, mắt mở to trừng trừng, hơi thở dồn dập và toàn thân sẵn sàng bỏ chạy chỉ trong nửa giây! Các cơ quan đã phối hợp chớp nhoáng như thế nào?",
+      "observation": "Phản ứng toàn thân diễn ra đồng thời gần như tức thì mà không cần bạn phải suy nghĩ.",
+      "mechanism": "**Bản chất Sinh lý học (Cơ chế Phản ứng 'Chiến đấu hay Bỏ chạy - Fight or Flight'):**\n- Mắt (thụ quan thị giác) gửi tín hiệu nguy hiểm khẩn cấp lên Não bộ (hệ thần kinh).\n- Tuyến trên thận (hệ nội tiết) lập tức phóng thích hormone **Adrenaline** vào dòng máu.\n- Tim đập nhanh và mạnh hơn để bơm máu dồn dập đến các bắp cơ; phế quản giãn nở để hít thở nạp tối đa Oxy; đồng tử mắt giãn rộng để nhìn rõ hơn; trong khi hệ tiêu hóa tạm thời bị ức chế.\n- Toàn bộ các hệ cơ quan phối hợp thống nhất biến cơ thể thành một cỗ máy sinh học hoàn hảo sẵn sàng ứng phó với hiểm nguy.",
+      "application_safety": "💡 **Khả năng tự điều hòa:** Cơ thể người là một kiệt tác của tự nhiên, có khả năng tự bảo vệ và thích nghi kỳ diệu với môi trường sống."
+    }
+  ],
+  "Bai_31_He_van_dong_o_nguoi.md": [
+    {
+      "id": "phenom_31",
+      "title": "Bản chất cơn đau quằn quại của hiện tượng 'Chuột rút' (vọp bẻ) khi bơi lội hoặc đá bóng",
+      "question": "Tại sao các cầu thủ bóng đá vào những phút cuối trận đấu thường ngã gục xuống sân ôm chặt bắp chân vì chuột rút? Và tại sao chuột rút khi đang bơi dưới nước sâu lại là mối nguy hiểm chết người?",
+      "observation": "Bắp cơ chân co cứng đơ như khúc gỗ, đau buốt dữ dội và không thể co duỗi theo ý muốn.",
+      "mechanism": "**Bản chất Sinh - Hóa (Mỏi cơ và mất cân bằng ion điện giải):**\n- Khi vận động cường độ cao trong thời gian dài, cơ bắp thiếu khí Oxygen nên tế bào chuyển sang quá trình phân giải kị khí, tích tụ nhiều **Lactic acid** trong mô cơ gây ức chế thần kinh.\n- Đồng thời, mồ hôi toát ra nhiều làm cơ thể mất nước và các ion khoáng thiết yếu như $\\mathrm{Ca}^{2+}, \\mathrm{Mg}^{2+}, \\mathrm{K}^+, \\mathrm{Na}^+$ (các ion điều khiển tín hiệu co giãn cơ).\n- Tín hiệu thần kinh bị rối loạn làm các sợi cơ vân co rút liên tục cực mạnh ngoài tầm kiểm soát của não bộ.",
+      "application_safety": "💡 **Xử trí cấp cứu & Phòng ngừa:**\n- Khi bị chuột rút: Tuyệt đối không hoảng loạn. Hãy giữ chân thẳng, dùng tay kéo ngược các ngón chân về phía đầu gối để kéo giãn cơ bắp đang co cứng, sau đó xoa bóp nhẹ nhàng.\n- Trước khi tập thể thao hoặc xuống bể bơi: Bắt buộc phải khởi động làm nóng các khớp ít nhất 10 - 15 phút và bổ sung nước khoáng điện giải đều đặn."
+    }
+  ],
+  "Bai_01_Su_dung_hoa_chat_va_thiet_bi.md": [
+    {
+      "id": "phenom_bai1_01",
+      "title": "Quy tắc vàng sống còn: Tại sao TUYỆT ĐỐI KHÔNG ĐƯỢC rót nước vào acid đặc?",
+      "question": "Khi muốn pha loãng một lọ acid đặc để làm thí nghiệm, tại sao thầy cô luôn nhắc đi nhắc lại: 'Chỉ được rót từ từ acid vào nước, cấm làm ngược lại'?",
+      "observation": "Nếu nhỏ dù chỉ một giọt nước vào cốc acid đặc, giọt nước lập tức sôi nổ lẹt đẹt và bắn các giọt acid ăn mòn da ra xung quanh.",
+      "mechanism": "**Bản chất Khoa học (Hiệu ứng tỏa nhiệt cục bộ & Tỉ trọng):**\n- Acid sulfuric đặc (H2SO4) rất háo nước và nặng gần gấp đôi nước ($D \\approx 1{,}84\\text{ g/cm}^3$).\n- Khi nước gặp acid đặc, phản ứng hidrat hóa tỏa ra một lượng nhiệt cực lớn trong tích tắc.\n- Nếu **rót nước vào acid**: Nước nhẹ hơn nổi lên trên bề mặt acid. Nhiệt lượng tỏa ra dữ dội tập trung làm lớp nước sôi ngay lập tức, hơi nước giãn nở đột ngột bắn tung tóe các giọt acid đặc xung quanh gây bỏng hóa chất mù mắt nguy hiểm.\n- Ngược lại, khi **rót từ từ acid vào nước**: Acid nặng hơn chìm xuống đáy, nhiệt tỏa ra được khối nước lớn hấp thụ và phân tán đều, an toàn tuyệt đối.",
+      "application_safety": "⚠️ **Khắc cốt ghi tâm:** Luôn nhớ câu khẩu quyết: 'Rót acid vào nước, khuấy nhẹ bằng đũa thủy tinh. Tuyệt đối không làm ngược lại!'"
+    },
+    {
+      "id": "phenom_bai1_02",
+      "title": "Bí ẩn chiếc đèn LED thí nghiệm: Đổi đầu cắm thì tắt ngóm, cắm đúng đầu thì sáng rực?",
+      "question": "Tại sao bóng đèn pin dây tóc cắm cực nào của pin cũng sáng, nhưng chiếc đèn LED nhỏ trong bộ thí nghiệm chỉ chịu sáng khi cắm đúng một chiều nhất định?",
+      "observation": "Đèn LED chỉ phát sáng khi chân dài nối với cực dương (+) và chân ngắn nối với cực âm (-). Nếu đảo ngược lại thì đèn tối đen.",
+      "mechanism": "**Bản chất Vật lý (Tính dẫn điện một chiều của bán dẫn):**\n- Đèn LED (Light Emitting Diode) là linh kiện bán dẫn có cấu tạo gồm tiếp giáp p-n.\n- Dòng điện chỉ có thể chạy qua lớp tiếp giáp này theo một chiều thuận (từ vùng bán dẫn p sang vùng bán dẫn n).\n- Khi nối cực dương vào chân Anode (+) và cực âm vào chân Cathode (-), các hạt mang điện chuyển động qua tiếp giáp và giải phóng năng lượng dưới dạng photon ánh sáng.",
+      "application_safety": "💡 **Lưu ý thực hành:** Đèn LED rất nhạy và chịu dòng điện nhỏ. Bắt buộc phải mắc nối tiếp thêm một điện trở bảo vệ để tránh dòng điện quá lớn làm cháy đứt diode LED."
+    }
+  ],
+  "Bai_08_Acid.md": [
+    {
+      "id": "phenom_Bai_08_Acid.md",
+      "title": "Giải mã bí ẩn đời thường: Thí nghiệm kẽm (Zn) tác dụng với dung dịch Hydrochloric acid (HCl)",
+      "question": "Tại sao trong đời sống ta thường bắt gặp hiện tượng: Dịch vị dạ dày chứa acid $\\mathrm{HCl}$ nồng độ khoảng $0{,}001 - 0{,}01\\text{ M}$ giúp tiêu hóa thức ăn và diệt vi khuẩn; khi bị đau dạ dày dư acid, bác sĩ thường cho uống thuốc chứa muối kiềm yếu để trung hòa bớt acid?",
+      "observation": "Hiện tượng quan sát được rõ nét trong sinh hoạt hàng ngày hoặc qua các dụng cụ thí nghiệm.",
+      "mechanism": "**Bản chất Khoa học:**\nAcid là hợp chất mà phân tử gồm một hay nhiều nguyên tử hydrogen liên kết với gốc acid. Khi tan trong nước, acid phân li giải phóng ion $\\mathrm{H}^+$, làm quỳ tím hóa đỏ và tác dụng với kim loại đứng trước H giải phóng khí $\\mathrm{H}_2$.\n\n• Phân li: $\\mathrm{HCl} \\rightarrow \\mathrm{H}^+ + \\mathrm{Cl}^-$; $\\mathrm{H}_2\\mathrm{SO}_4 \\rightarrow 2\\mathrm{H}^+ + \\mathrm{SO}_4^{2-}$\n• Tác dụng kim loại: $\\mathrm{Zn} + 2\\mathrm{HCl} \\rightarrow \\mathrm{ZnCl}_2 + \\mathrm{H}_2 \\uparrow$\n• Tác dụng base (trung hòa): $\\mathrm{HCl} + \\mathrm{NaOH} \\rightarrow \\mathrm{NaCl} + \\mathrm{H}_2\\mathrm{O}$",
+      "application_safety": "💡 **Ứng dụng & Cảnh báo:**\n• Dịch vị dạ dày chứa acid $\\mathrm{HCl}$ nồng độ khoảng $0{,}001 - 0{,}01\\text{ M}$ giúp tiêu hóa thức ăn và diệt vi khuẩn; khi bị đau dạ dày dư acid, bác sĩ thường cho uống thuốc chứa muối kiềm yếu để trung hòa bớt acid.\n• Giấm ăn là dung dịch acetic acid $\\mathrm{CH}_3\\mathrm{COOH}$ nồng độ $2 - 5\\%$.\n\n⚠️ **Quy tắc an toàn pha loãng acid đặc:** TUYỆT ĐỐI KHÔNG ĐƯỢC RÓT NƯỚC VÀO ACID ĐẶC! Nước nhẹ hơn nổi lên trên, acid gặp nước tỏa nhiệt cực mạnh làm nước sôi cục bộ bắn tung tóe acid đậm đặc gây bỏng nặng. Phải **rót từ từ acid vào nước** và khuấy đều bằng đũa thủy tinh."
+    }
+  ],
+  "Bai_09_Base_Thang_pH.md": [
+    {
+      "id": "phenom_Bai_09_Base_Thang_pH.md",
+      "title": "Giải mã bí ẩn đời thường: Thí nghiệm phản ứng trung hoà giữa NaOH và HCl có chỉ thị phenolphthalein",
+      "question": "Tại sao trong đời sống ta thường bắt gặp hiện tượng: Đất trồng trọt bị chua ($\\\\mathrm{pH} < 6$) người nông dân bón vôi bột $\\mathrm{CaO}$ hoặc $\\mathrm{Ca(OH)}_2$ để nâng độ pH của đất?",
+      "observation": "Hiện tượng quan sát được rõ nét trong sinh hoạt hàng ngày hoặc qua các dụng cụ thí nghiệm.",
+      "mechanism": "**Bản chất Khoa học:**\nBase là hợp chất mà phân tử gồm nguyên tử kim loại liên kết với một hay nhiều nhóm hydroxide ($-\\mathrm{OH}$). Dung dịch base (kiềm) làm quỳ tím hóa xanh, phenolphtalein hóa hồng và tác dụng với acid tạo muối và nước.\n\n• Phân li kiềm: $\\mathrm{NaOH} \\rightarrow \\mathrm{Na}^+ + \\mathrm{OH}^-$\n• Phản ứng trung hoà: $\\mathrm{NaOH} + \\mathrm{HCl} \\rightarrow \\mathrm{NaCl} + \\mathrm{H}_2\\mathrm{O}$\n• Thang pH (1 đến 14): $\\mathrm{pH} < 7$ (Acid); $\\mathrm{pH} = 7$ (Trung tính); $\\mathrm{pH} > 7$ (Base)",
+      "application_safety": "💡 **Ứng dụng & Cảnh báo:**\n• Đất trồng trọt bị chua ($\\\\mathrm{pH} < 6$) người nông dân bón vôi bột $\\mathrm{CaO}$ hoặc $\\mathrm{Ca(OH)}_2$ để nâng độ pH của đất.\n• Xà phòng, nước rửa chén có tính kiềm nhẹ giúp hòa tan và rửa trôi dầu mỡ bám dính.\n\n⚠️ **Phân biệt kiềm và base:** Tất cả các kiềm đều là base, nhưng không phải base nào cũng là kiềm! Kiềm là các base tan trong nước ($\\\\mathrm{NaOH, KOH, Ba(OH)}_2, \\mathrm{Ca(OH)}_2$). Các base không tan như $\\mathrm{Cu(OH)}_2, \\mathrm{Fe(OH)}_3$ không làm đổi màu quỳ tím."
+    }
+  ],
+  "Bai_10_Oxide.md": [
+    {
+      "id": "phenom_Bai_10_Oxide.md",
+      "title": "Giải mã bí ẩn đời thường: Thí nghiệm sục khí CO2 vào nước vôi trong Ca(OH)2",
+      "question": "Tại sao trong đời sống ta thường bắt gặp hiện tượng: Khí $\\mathrm{SO}_2, \\mathrm{NO}_2$ do nhà máy xả ra hòa tan vào nước mưa tạo thành mưa acid hủy hoại mùa màng, ăn mòn tượng đài đá vôi?",
+      "observation": "Hiện tượng quan sát được rõ nét trong sinh hoạt hàng ngày hoặc qua các dụng cụ thí nghiệm.",
+      "mechanism": "**Bản chất Khoa học:**\nOxide là hợp chất gồm 2 nguyên tố, trong đó có một nguyên tố là oxygen. Phân loại: Oxide base (tác dụng acid), Oxide acid (tác dụng base kiềm), Oxide lưỡng tính và Oxide trung tính.\n\n• Oxide base + Acid: $\\mathrm{CuO} + 2\\mathrm{HCl} \\rightarrow \\mathrm{CuCl}_2 + \\mathrm{H}_2\\mathrm{O}$\n• Oxide acid + Kiềm: $\\mathrm{CO}_2 + \\mathrm{Ca(OH)}_2 \\rightarrow \\mathrm{CaCO}_3 \\downarrow + \\mathrm{H}_2\\mathrm{O}$\n• Oxide trung tính không tạo muối: $\\mathrm{CO, NO}$",
+      "application_safety": "💡 **Ứng dụng & Cảnh báo:**\n• Khí $\\mathrm{SO}_2, \\mathrm{NO}_2$ do nhà máy xả ra hòa tan vào nước mưa tạo thành mưa acid hủy hoại mùa màng, ăn mòn tượng đài đá vôi.\n• Vôi sống $\\mathrm{CaO}$ rải khử trùng chuồng trại và khử chua đất trồng.\n\n⚠️ **Lỗi phân loại:** Cho rằng mọi oxide kim loại đều là oxide base! Lưu ý: Một số oxide như $\\mathrm{Al}_2\\mathrm{O}_3, \\mathrm{ZnO}$ là oxide lưỡng tính; $\\mathrm{CrO}_3, \\mathrm{Mn}_2\\mathrm{O}_7$ là oxide acid."
+    }
+  ],
+  "Bai_11_Muoi.md": [
+    {
+      "id": "phenom_Bai_11_Muoi.md",
+      "title": "Giải mã bí ẩn đời thường: Thí nghiệm đinh sắt tác dụng với dung dịch Copper(II) sulfate (CuSO4)",
+      "question": "Tại sao trong đời sống ta thường bắt gặp hiện tượng: Muối ăn $\\mathrm{NaCl}$ dùng làm gia vị thiết yếu, bảo quản thực phẩm (muối dưa cà, ướp cá) và truyền dịch y tế?",
+      "observation": "Hiện tượng quan sát được rõ nét trong sinh hoạt hàng ngày hoặc qua các dụng cụ thí nghiệm.",
+      "mechanism": "**Bản chất Khoa học:**\nMuối là hợp chất gồm cation kim loại (hoặc $\\mathrm{NH}_4^+$) liên kết với anion gốc acid. Phản ứng trao đổi ion trong dung dịch xảy ra khi tạo thành chất kết tủa, chất khí hoặc nước.\n\n• Muối + Kim loại: $\\mathrm{Fe} + \\mathrm{CuSO}_4 \\rightarrow \\mathrm{FeSO}_4 + \\mathrm{Cu} \\downarrow$\n• Muối + Acid: $\\mathrm{CaCO}_3 + 2\\mathrm{HCl} \\rightarrow \\mathrm{CaCl}_2 + \\mathrm{CO}_2 \\uparrow + \\mathrm{H}_2\\mathrm{O}$\n• Muối + Muối: $\\mathrm{AgNO}_3 + \\mathrm{NaCl} \\rightarrow \\mathrm{AgCl} \\downarrow + \\mathrm{NaNO}_3$",
+      "application_safety": "💡 **Ứng dụng & Cảnh báo:**\n• Muối ăn $\\mathrm{NaCl}$ dùng làm gia vị thiết yếu, bảo quản thực phẩm (muối dưa cà, ướp cá) và truyền dịch y tế.\n• Thạch cao nung $\\mathrm{CaSO}_4 \\cdot 0{,}5\\mathrm{H}_2\\mathrm{O}$ dùng đúc tượng và bó bột khi gãy xương.\n\n⚠️ **Điều kiện phản ứng trao đổi:** Hai muối hoặc muối với base chỉ phản ứng được với nhau khi **cả hai chất ban đầu đều tan** và **sau phản ứng bắt buộc phải có chất kết tủa hoặc bay hơi**."
+    }
+  ],
+  "Bai_12_Phan_bon_hoa_hoc.md": [
+    {
+      "id": "phenom_Bai_12_Phan_bon_hoa_hoc.md",
+      "title": "Giải mã bí ẩn đời thường: Phân biệt phân đạm và phân kali bằng nhiệt phân",
+      "question": "Tại sao trong đời sống ta thường bắt gặp hiện tượng: Bón thừa phân đạm làm cây tốt lá lốp đòng, dễ bị sâu bệnh và tích tụ nitrate gây độc trong rau củ?",
+      "observation": "Hiện tượng quan sát được rõ nét trong sinh hoạt hàng ngày hoặc qua các dụng cụ thí nghiệm.",
+      "mechanism": "**Bản chất Khoa học:**\nPhân bón hoá học cung cấp các nguyên tố dinh dưỡng khoáng cần thiết cho cây trồng: Đạm (N - phát triển lá, cành), Lân (P - phát triển rễ, củ), Kali (K - chống rét, sâu bệnh, ngọt quả). Phân NPK cung cấp hỗn hợp cả 3 nguyên tố.\n\n• Phân đạm Urea: $(\\mathrm{NH}_2)_2\\mathrm{CO}$ (giàu đạm nhất $\\approx 46\\%\\text{ N}$)\n• Phân lân supephosphate: $\\mathrm{Ca(H}_2\\mathrm{PO}_4)_2$\n• Phân kali: $\\mathrm{KCl}$ hoặc $\\mathrm{K}_2\\mathrm{SO}_4$",
+      "application_safety": "💡 **Ứng dụng & Cảnh báo:**\n• Bón thừa phân đạm làm cây tốt lá lốp đòng, dễ bị sâu bệnh và tích tụ nitrate gây độc trong rau củ.\n• Cần bón đúng loại, đúng liều lượng, đúng thời điểm và đúng cách để bảo vệ môi trường đất nước.\n\n⚠️ **Không trộn chung phân đạm với vôi:** Bón đạm ammonium $\\mathrm{NH}_4^+$ cùng vôi kiềm $\\mathrm{Ca(OH)}_2$ sẽ sinh ra khí ammonia $\\mathrm{NH}_3 \\uparrow$ bay mất đạm làm mất tác dụng của phân."
+    }
+  ],
+  "Bai_14_Thuc_hanh_xac_dinh_khoi_luong_rieng.md": [
+    {
+      "id": "phenom_Bai_14_Thuc_hanh_xac_dinh_khoi_luong_rieng.md",
+      "title": "Giải mã bí ẩn đời thường: Quy trình đo khối lượng riêng của hòn sỏi bằng bình chia độ",
+      "question": "Tại sao trong đời sống ta thường bắt gặp hiện tượng: Thợ kim hoàn xác định vàng thật hay giả bằng cách thả vào bình tràn đo thể tích nước tràn ra và cân khối lượng để tính khối lượng riêng ($D_{\\text{vàng}} = 19\\,300\\text{ kg/m}^3$)?",
+      "observation": "Hiện tượng quan sát được rõ nét trong sinh hoạt hàng ngày hoặc qua các dụng cụ thí nghiệm.",
+      "mechanism": "**Bản chất Khoa học:**\nXác định khối lượng riêng bằng cách đo độc lập khối lượng $m$ (dùng cân) và thể tích $V$ (dùng thước hình hộp $V = a \\cdot b \\cdot c$ hoặc bình chia độ $V = V_2 - V_1$), sau đó áp dụng công thức $D = \\dfrac{m}{V}$.\n\n• Khối hộp chữ nhật: $V = a \\cdot b \\cdot c \\implies D = \\dfrac{m}{a \\cdot b \\cdot c}$\n• Vật bất kì: $V = V_2 - V_1 \\implies D = \\dfrac{m}{V_2 - V_1}$\n• Đổi đơn vị: $1\\text{ g/cm}^3 = 1000\\text{ kg/m}^3$",
+      "application_safety": "💡 **Ứng dụng & Cảnh báo:**\n• Thợ kim hoàn xác định vàng thật hay giả bằng cách thả vào bình tràn đo thể tích nước tràn ra và cân khối lượng để tính khối lượng riêng ($D_{\\text{vàng}} = 19\\,300\\text{ kg/m}^3$).\n\n⚠️ **Lỗi đọc thể tích chất lỏng:** Phải đặt mắt nhìn ngang bằng với đáy của màng khum chất lỏng, không nhìn chéo từ trên xuống hoặc từ dưới lên gây sai số lớn."
+    }
+  ],
+  "Bai_15_Ap_suat_tren_mot_be_mat.md": [
+    {
+      "id": "phenom_Bai_15_Ap_suat_tren_mot_be_mat.md",
+      "title": "Giải mã bí ẩn đời thường: Tính áp suất của một khối kim loại đặt trên mặt bàn",
+      "question": "Tại sao trong đời sống ta thường bắt gặp hiện tượng: Xe tăng nặng hàng chục tấn nhưng không bị lún trong bùn lầy vì diện tích tiếp xúc của dải xích rất lớn làm giảm áp suất lên mặt đất?",
+      "observation": "Hiện tượng quan sát được rõ nét trong sinh hoạt hàng ngày hoặc qua các dụng cụ thí nghiệm.",
+      "mechanism": "**Bản chất Khoa học:**\nÁp suất là độ lớn của áp lực trên một đơn vị diện tích bị ép: $p = \\dfrac{F}{S}$. Đơn vị chuẩn là Pascal ($\\text{Pa} = \\text{N/m}^2$). Muốn tăng áp suất ta giảm diện tích ép $S$ (mài sắc mũi nhọn); muốn giảm áp suất ta tăng diện tích $S$ (bản xích rộng).\n\n• Công thức áp suất: $p = \\dfrac{F}{S} \\;(\\mathrm{Pa} \\text{ hoặc } \\mathrm{N/m}^2)$\n• Áp lực vuông góc: $F = p \\cdot S \\;(\\mathrm{N})$\n• Diện tích bị ép: $S = \\dfrac{F}{p} \\;(\\mathrm{m}^2)$",
+      "application_safety": "💡 **Ứng dụng & Cảnh báo:**\n• Xe tăng nặng hàng chục tấn nhưng không bị lún trong bùn lầy vì diện tích tiếp xúc của dải xích rất lớn làm giảm áp suất lên mặt đất.\n• Đầu đinh và mũi kim khâu phải làm nhọn hoắt để diện tích tiếp xúc cực nhỏ tạo ra áp suất khổng lồ đâm thủng gỗ và vải dễ dàng.\n\n⚠️ **Lỗi đổi đơn vị diện tích:** $1\\text{ cm}^2 = 10^{-4}\\text{ m}^2 = 0{,}0001\\text{ m}^2$; $1\\text{ dm}^2 = 10^{-2}\\text{ m}^2 = 0{,}01\\text{ m}^2$. Rất nhiều bạn quên lũy thừa bậc 2 khi đổi từ $\\text{cm}^2$ sang $\\text{m}^2$!"
+    }
+  ],
+  "Bai_18_Tac_dung_lam_quay_cua_luc_Moment_luc.md": [
+    {
+      "id": "phenom_Bai_18_Tac_dung_lam_quay_cua_luc_Moment_luc.md",
+      "title": "Giải mã bí ẩn đời thường: Tính moment lực khi dùng cờ-lê xiết bu-lông",
+      "question": "Tại sao trong đời sống ta thường bắt gặp hiện tượng: Tay nắm cửa luôn đặt ở mép ngoài cánh cửa cách xa bản lề để tăng cánh tay đòn $d$, giúp mở cửa nhẹ nhàng nhất?",
+      "observation": "Hiện tượng quan sát được rõ nét trong sinh hoạt hàng ngày hoặc qua các dụng cụ thí nghiệm.",
+      "mechanism": "**Bản chất Khoa học:**\nTác dụng làm quay của lực đặc trưng bởi Moment lực: $M = F \\cdot d$. Moment lực càng lớn thì tác dụng làm quay càng mạnh. Cánh tay đòn $d$ là khoảng cách vuông góc từ trục quay đến giá của lực.\n\n• Moment lực: $M = F \\cdot d \\;(\\mathrm{N\\cdot m})$\n• $F$: Độ lớn lực tác dụng ($\\mathrm{N}$)\n• $d$: Cánh tay đòn (khoảng cách vuông góc, đơn vị mét $\\mathrm{m}$)",
+      "application_safety": "💡 **Ứng dụng & Cảnh báo:**\n• Tay nắm cửa luôn đặt ở mép ngoài cánh cửa cách xa bản lề để tăng cánh tay đòn $d$, giúp mở cửa nhẹ nhàng nhất.\n• Dùng cờ-lê cán dài mở bu lông gỉ sét dễ hơn cờ-lê cán ngắn gấp nhiều lần.\n\n⚠️ **Lực đi qua trục quay:** Nếu giá của lực đi qua trục quay hoặc song song với trục quay thì khoảng cách $d = 0 \\implies M = 0$, lực hoàn toàn **không có tác dụng làm quay**!"
+    }
+  ],
+  "Bai_20_Hien_tuong_nhiem_dien_do_co_xat.md": [
+    {
+      "id": "phenom_Bai_20_Hien_tuong_nhiem_dien_do_co_xat.md",
+      "title": "Giải mã bí ẩn đời thường: Thí nghiệm thước nhựa nhiễm điện hút vụn giấy và dòng nước mảnh",
+      "question": "Tại sao trong đời sống ta thường bắt gặp hiện tượng: Chải tóc bằng lược nhựa vào mùa đông khô hanh nghe tiếng lách tách và tóc bị hút dựng đứng theo răng lược?",
+      "observation": "Hiện tượng quan sát được rõ nét trong sinh hoạt hàng ngày hoặc qua các dụng cụ thí nghiệm.",
+      "mechanism": "**Bản chất Khoa học:**\nVật nhiễm điện có khả năng hút các vật nhẹ khác hoặc phóng tia lửa điện. Bản chất là sự dịch chuyển electron: Nhận thêm electron mang điện tích âm ($-$), mất bớt electron mang điện tích dương ($+$). Cùng dấu thì đẩy nhau, khác dấu thì hút nhau.\n\n• Nhận $e^- \\rightarrow$ Nhiễm điện âm ($-$).\n• Mất $e^- \\rightarrow$ Nhiễm điện dương ($+$).\n• Quy tắc tương tác: $(+) \\leftrightarrow (+)$ Đẩy; $(-) \\leftrightarrow (-)$ Đẩy; $(+) \\rightarrow \\leftarrow (-)$ Hút nhau.",
+      "application_safety": "💡 **Ứng dụng & Cảnh báo:**\n• Chải tóc bằng lược nhựa vào mùa đông khô hanh nghe tiếng lách tách và tóc bị hút dựng đứng theo răng lược.\n• Xe chở xăng dầu luôn thả một sợi xích sắt chạm đất để truyền các điện tích do ma sát xuống đất, tránh phát sinh tia lửa điện gây nổ cháy xe.\n\n⚠️ **Hiểu lầm về điện tích mới:** Cọ xát không tạo ra điện tích mới mà chỉ làm electron dịch chuyển từ vật này sang vật khác; tổng điện tích toàn hệ luôn được bảo toàn."
+    }
+  ],
+  "Bai_21_Dong_dien_nguon_dien.md": [
+    {
+      "id": "phenom_Bai_21_Dong_dien_nguon_dien.md",
+      "title": "Giải mã bí ẩn đời thường: Thí nghiệm kiểm tra vật dẫn điện và vật cách điện",
+      "question": "Tại sao trong đời sống ta thường bắt gặp hiện tượng: Lõi dây điện làm bằng đồng (dẫn điện cực tốt), vỏ ngoài bọc nhựa dẻo PVC (cách điện an toàn chống giật điện)?",
+      "observation": "Hiện tượng quan sát được rõ nét trong sinh hoạt hàng ngày hoặc qua các dụng cụ thí nghiệm.",
+      "mechanism": "**Bản chất Khoa học:**\nDòng điện là dòng chuyển dời có hướng của các điện tích. Nguồn điện tạo ra và duy trì dòng điện trong mạch kín, có hai cực dương ($+$) và âm ($-$). Kim loại dẫn điện nhờ các electron tự do.\n\n• Nguồn điện: Pin, acquy, dynamo, máy phát điện.\n• Vật dẫn điện: Đồng, nhôm, sắt, dung dịch điện li (acid, base, muối), cơ thể sống.\n• Vật cách điện: Nhựa, cao su, thủy tinh, sứ, không khí khô.",
+      "application_safety": "💡 **Ứng dụng & Cảnh báo:**\n• Lõi dây điện làm bằng đồng (dẫn điện cực tốt), vỏ ngoài bọc nhựa dẻo PVC (cách điện an toàn chống giật điện).\n• Cơ thể người dẫn điện tốt do chứa nhiều nước và ion muối khoáng, do đó chạm vào dây điện hở rất nguy hiểm.\n\n⚠️ **Nước nguyên chất vs Nước thường:** Nước cất nguyên chất dẫn điện cực kỳ kém (coi như cách điện), nhưng nước máy, nước mưa, nước ao hồ chứa nhiều ion muối khoáng hòa tan nên dẫn điện rất tốt!"
+    }
+  ],
+  "Bai_22_Mach_dien_don_gian.md": [
+    {
+      "id": "phenom_Bai_22_Mach_dien_don_gian.md",
+      "title": "Giải mã bí ẩn đời thường: Lắp ráp mạch điện chiếu sáng bóng đèn pin có khóa K",
+      "question": "Tại sao trong đời sống ta thường bắt gặp hiện tượng: Mạch điện chiếu sáng gia đình gồm cầu dao tổng, công tắc và bóng đèn mắc song song để bật tắt từng đèn độc lập?",
+      "observation": "Hiện tượng quan sát được rõ nét trong sinh hoạt hàng ngày hoặc qua các dụng cụ thí nghiệm.",
+      "mechanism": "**Bản chất Khoa học:**\nMạch điện đơn giản gồm nguồn điện, dây dẫn, công tắc và thiết bị tiêu thụ điện. Chiều dòng điện quy ước chạy từ cực dương qua dây dẫn và thiết bị điện tới cực âm của nguồn điện.\n\n• Chiều quy ước: Cực dương $(+) \\xrightarrow{\\text{mạch ngoài}} \\text{Thiết bị điện} \\xrightarrow{} \\text{Cực âm } (-)$\n• Chiều electron tự do trong kim loại: Từ cực âm $(-)$ sang cực dương $(+)$ (ngược chiều quy ước).",
+      "application_safety": "💡 **Ứng dụng & Cảnh báo:**\n• Mạch điện chiếu sáng gia đình gồm cầu dao tổng, công tắc và bóng đèn mắc song song để bật tắt từng đèn độc lập.\n• Cầu chì tự ngắt khi mạch bị chập ngắn mạch giúp ngăn chặn hỏa hoạn.\n\n⚠️ **Nhầm lẫn chiều dòng điện:** Chiều dòng điện quy ước lịch sử (từ dương sang âm) **ngược lại** với chiều chuyển động thực tế của các electron tự do trong kim loại (từ âm sang dương)."
+    }
+  ],
+  "Bai_23_Tac_dung_cua_dong_dien.md": [
+    {
+      "id": "phenom_Bai_23_Tac_dung_cua_dong_dien.md",
+      "title": "Giải mã bí ẩn đời thường: Chế tạo nam châm điện từ đinh sắt và cuộn dây đồng",
+      "question": "Tại sao trong đời sống ta thường bắt gặp hiện tượng: Cần cẩu nam châm điện nâng hàng chục tấn thép vụn lên cao trong chớp mắt chỉ bằng cách bật công tắc điện?",
+      "observation": "Hiện tượng quan sát được rõ nét trong sinh hoạt hàng ngày hoặc qua các dụng cụ thí nghiệm.",
+      "mechanism": "**Bản chất Khoa học:**\nDòng điện có 5 tác dụng chính: Tác dụng nhiệt (bàn là, bếp điện), phát sáng (đèn LED, đèn sợi đốt), từ (nam châm điện, chuông điện), hoá học (mạ điện, điện phân) và sinh lí (sốc tim, co giật cơ).\n\n• Tác dụng nhiệt: Điện năng $\\rightarrow$ Nhiệt năng ($Q = I^2 \\cdot R \\cdot t$)\n• Tác dụng từ: Dòng điện tạo ra từ trường xung quanh dây dẫn\n• Tác dụng hóa học: Tách ion kim loại bám lên cực âm (mạ điện)",
+      "application_safety": "💡 **Ứng dụng & Cảnh báo:**\n• Cần cẩu nam châm điện nâng hàng chục tấn thép vụn lên cao trong chớp mắt chỉ bằng cách bật công tắc điện.\n• Mạ vàng đồng hồ, trang sức bằng tác dụng hóa học của dòng điện.\n\n⚠️ **Tác dụng sinh lý cực kỳ nguy hiểm:** Dòng điện lưới $220\\text{ V}$ chạy qua cơ thể gây ngừng tim tức khắc. Tuyệt đối không chạm tay vào ổ cắm điện hoặc dây điện hở!"
+    }
+  ],
+  "Bai_24_Cuong_do_dong_dien_va_hieu_dien_the.md": [
+    {
+      "id": "phenom_Bai_24_Cuong_do_dong_dien_va_hieu_dien_the.md",
+      "title": "Giải mã bí ẩn đời thường: Đo cường độ dòng điện qua bóng đèn pin 3V",
+      "question": "Tại sao trong đời sống ta thường bắt gặp hiện tượng: Pin tiểu con thỏ có hiệu điện thế $1{,}5\\text{ V}$; Ắc quy xe máy là $12\\text{ V}$; Điện lưới sinh hoạt gia đình tại Việt Nam là $220\\text{ V}$?",
+      "observation": "Hiện tượng quan sát được rõ nét trong sinh hoạt hàng ngày hoặc qua các dụng cụ thí nghiệm.",
+      "mechanism": "**Bản chất Khoa học:**\nCường độ dòng điện ($I$, đơn vị Ampe $\\mathrm{A}$) đặc trưng cho độ mạnh yếu của dòng điện. Hiệu điện thế ($U$, đơn vị Vôn $\\mathrm{V}$) cho biết khả năng sinh công của nguồn điện. Ampe kế mắc nối tiếp, Vôn kế mắc song song.\n\n• Ampe kế: Mắc nối tiếp, chốt $(+)$ nối về phía cực dương nguồn.\n• Vôn kế: Mắc song song, chốt $(+)$ nối về phía điện thế cao.\n• Quy đổi: $1\\text{ A} = 1000\\text{ mA}$; $1\\text{ kV} = 1000\\text{ V} = 1\\,000\\,000\\text{ mV}$.",
+      "application_safety": "💡 **Ứng dụng & Cảnh báo:**\n• Pin tiểu con thỏ có hiệu điện thế $1{,}5\\text{ V}$; Ắc quy xe máy là $12\\text{ V}$; Điện lưới sinh hoạt gia đình tại Việt Nam là $220\\text{ V}$.\n\n⚠️ **Mắc nhầm Ampe kế song song với nguồn điện:** Gây ra hiện tượng đoản mạch (chập điện), dòng điện vọt lên cực đại làm cháy nổ đồng hồ đo và hỏng nguồn điện ngay lập tức!"
+    }
+  ],
+  "Bai_25_Thuc_hanh_do_cuong_do_dong_dien_va_hieu_dien_the.md": [
+    {
+      "id": "phenom_Bai_25_Thuc_hanh_do_cuong_do_dong_dien_va_hieu_dien_the.md",
+      "title": "Giải mã bí ẩn đời thường: Đo hiệu điện thế hai đầu hai bóng đèn mắc nối tiếp",
+      "question": "Tại sao trong đời sống ta thường bắt gặp hiện tượng: Các bóng đèn dây led trang trí Noel thường mắc nối tiếp (hỏng 1 bóng là cả dây tắt)?",
+      "observation": "Hiện tượng quan sát được rõ nét trong sinh hoạt hàng ngày hoặc qua các dụng cụ thí nghiệm.",
+      "mechanism": "**Bản chất Khoa học:**\nTrong đoạn mạch nối tiếp: Cường độ dòng điện bằng nhau tại mọi điểm ($I = I_1 = I_2$); Hiệu điện thế tổng bằng tổng các hiệu điện thế thành phần ($U = U_1 + U_2$). Trong đoạn mạch song song: $U = U_1 = U_2$ và $I = I_1 + I_2$.\n\n• Mạch nối tiếp: $I = I_1 = I_2; \\quad U = U_1 + U_2$\n• Mạch song song: $U = U_1 = U_2; \\quad I = I_1 + I_2$",
+      "application_safety": "💡 **Ứng dụng & Cảnh báo:**\n• Các bóng đèn dây led trang trí Noel thường mắc nối tiếp (hỏng 1 bóng là cả dây tắt).\n• Các thiết bị điện trong nhà (tivi, quạt, tủ lạnh) luôn mắc song song với nguồn $220\\text{ V}$ để hoạt động độc lập với cùng điện áp định mức.\n\n⚠️ **Quên tắt nguồn trước khi mắc mạch:** Khi lắp ráp hoặc thay đổi thiết bị trong mạch, bắt buộc phải ngắt công tắc để đảm bảo an toàn tuyệt đối."
+    }
+  ],
+  "Bai_26_Nang_luong_nhiet_va_noi_nang.md": [
+    {
+      "id": "phenom_Bai_26_Nang_luong_nhiet_va_noi_nang.md",
+      "title": "Giải mã bí ẩn đời thường: Thí nghiệm nén khí trong ống làm bốc cháy mẩu bông gòn",
+      "question": "Tại sao trong đời sống ta thường bắt gặp hiện tượng: Xoa hai bàn tay vào nhau thấy tay ấm lên (thực hiện công làm tăng nội năng)?",
+      "observation": "Hiện tượng quan sát được rõ nét trong sinh hoạt hàng ngày hoặc qua các dụng cụ thí nghiệm.",
+      "mechanism": "**Bản chất Khoa học:**\nNội năng của một vật là tổng động năng và thế năng của các phân tử cấu tạo nên vật. Nhiệt độ càng cao, các phân tử chuyển động càng hỗn loạn nhanh $\\rightarrow$ nội năng càng lớn. Có 2 cách làm thay đổi nội năng: Thực hiện công và Truyền nhiệt.\n\n• Nhiệt độ $T$ tăng $\\implies$ Động năng phân tử tăng $\\implies$ Nội năng $U$ tăng\n• Thực hiện công: Cơ năng $\\rightarrow$ Nội năng (cọ xát, nén khí)\n• Truyền nhiệt: Nhiệt năng truyền từ vật nóng hơn sang vật lạnh hơn không sinh công",
+      "application_safety": "💡 **Ứng dụng & Cảnh báo:**\n• Xoa hai bàn tay vào nhau thấy tay ấm lên (thực hiện công làm tăng nội năng).\n• Thả thìa inox vào bát canh nóng thấy cán thìa nóng lên (truyền nhiệt).\n\n⚠️ **Nhiệt lượng không phải là nội năng:** Nhiệt lượng là **phần nội năng tăng thêm hay mất đi** trong quá trình truyền nhiệt, chứ không phải là toàn bộ nội năng của vật."
+    }
+  ],
+  "Bai_27_Thuc_hanh_do_nang_luong_nhiet_bang_joulemeter.md": [
+    {
+      "id": "phenom_Bai_27_Thuc_hanh_do_nang_luong_nhiet_bang_joulemeter.md",
+      "title": "Giải mã bí ẩn đời thường: Xác định nhiệt lượng cần để đun nóng 150g nước tăng thêm 15°C",
+      "question": "Tại sao trong đời sống ta thường bắt gặp hiện tượng: Ấm siêu tốc đun sôi nước có hiệu suất khoảng $85 - 90\\%$, phần năng lượng hao phí bị thất thoát tỏa ra không khí xung quanh và đốt nóng vỏ ấm?",
+      "observation": "Hiện tượng quan sát được rõ nét trong sinh hoạt hàng ngày hoặc qua các dụng cụ thí nghiệm.",
+      "mechanism": "**Bản chất Khoa học:**\nJoulemeter đo điện năng tiêu thụ chuyển hóa thành nhiệt năng cấp cho nước trong nhiệt lượng kế: $A = Q$. Tính nhiệt lượng theo công thức $Q = m \\cdot c \\cdot \\Delta t$ và tính hiệu suất đun nóng.\n\n• Điện năng cung cấp: $A = U \\cdot I \\cdot t \\;(\\mathrm{J})$ (hiển thị trên Joulemeter)\n• Nhiệt lượng nước thu vào: $Q = m \\cdot c \\cdot (t_2 - t_1) \\;(\\mathrm{J})$\n  + $c_{\\text{nước}} \\approx 4180\\text{ J/(kg}\\cdot\\text{K)}$\n• Hiệu suất: $H = \\dfrac{Q_{\\text{thu}}}{A_{\\text{điện}}} \\times 100\\%$",
+      "application_safety": "💡 **Ứng dụng & Cảnh báo:**\n• Ấm siêu tốc đun sôi nước có hiệu suất khoảng $85 - 90\\%$, phần năng lượng hao phí bị thất thoát tỏa ra không khí xung quanh và đốt nóng vỏ ấm.\n\n⚠️ **Bỏ qua nhiệt lượng kế:** Thực tế vỏ bình nhiệt lượng kế và đũa khuấy cũng nhận một phần nhiệt lượng, do đó $A_{\\text{đo}} > Q_{\\text{nước}}$."
+    }
+  ],
+  "Bai_28_Su_truyen_nhiet.md": [
+    {
+      "id": "phenom_Bai_28_Su_truyen_nhiet.md",
+      "title": "Giải mã bí ẩn đời thường: Khảo sát khả năng dẫn nhiệt của đồng, nhôm và thủy tinh",
+      "question": "Tại sao trong đời sống ta thường bắt gặp hiện tượng: Phích nước (bình giữ nhiệt) có vỏ tráng bạc nhẵn bóng để phản xạ bức xạ nhiệt, giữa 2 lớp vỏ là chân không để ngăn cản dẫn nhiệt và đối lưu?",
+      "observation": "Hiện tượng quan sát được rõ nét trong sinh hoạt hàng ngày hoặc qua các dụng cụ thí nghiệm.",
+      "mechanism": "**Bản chất Khoa học:**\nCó 3 hình thức truyền nhiệt: Dẫn nhiệt (chủ yếu trong chất rắn, kim loại dẫn tốt nhất); Đối lưu (chủ yếu trong chất lỏng và khí, truyền bằng các dòng vật chất); Bức xạ nhiệt (truyền bằng tia nhiệt đi thẳng, truyền được cả trong chân không).\n\n• Dẫn nhiệt: Phân tử dao động truyền động năng cho nhau (chất rắn)\n• Đối lưu: Dòng nóng nhẹ hơn bốc lên, dòng lạnh nặng hơn chìm xuống (chất lưu)\n• Bức xạ nhiệt: Tia nhiệt Mặt Trời truyền qua chân không tới Trái Đất",
+      "application_safety": "💡 **Ứng dụng & Cảnh báo:**\n• Phích nước (bình giữ nhiệt) có vỏ tráng bạc nhẵn bóng để phản xạ bức xạ nhiệt, giữa 2 lớp vỏ là chân không để ngăn cản dẫn nhiệt và đối lưu.\n• Đun nước phải đun từ đáy ấm để tạo dòng đối lưu cuộn tròn sôi đều cả ấm.\n\n⚠️ **Hiểu sai về áo len mùa đông:** Áo len không tự sinh ra nhiệt! Áo len giữ ấm nhờ các lỗ xốp chứa nhiều lớp không khí tĩnh cách nhiệt rất tốt, ngăn nhiệt từ cơ thể truyền ra môi trường lạnh bên ngoài."
+    }
+  ],
+  "Bai_29_Su_no_vi_nhiet.md": [
+    {
+      "id": "phenom_Bai_29_Su_no_vi_nhiet.md",
+      "title": "Giải mã bí ẩn đời thường: Nguyên lý hoạt động của rơle nhiệt trong bàn là điện",
+      "question": "Tại sao trong đời sống ta thường bắt gặp hiện tượng: Khi rót nước sôi vào cốc thủy tinh dày rất dễ nứt vỡ vì lớp thủy tinh bên trong nở nhanh mà lớp bên ngoài chưa kịp nở gây ứng suất kéo nứt?",
+      "observation": "Hiện tượng quan sát được rõ nét trong sinh hoạt hàng ngày hoặc qua các dụng cụ thí nghiệm.",
+      "mechanism": "**Bản chất Khoa học:**\nChất khí nở vì nhiệt nhiều hơn chất lỏng, chất lỏng nở vì nhiệt nhiều hơn chất rắn: Khí > Lỏng > Rắn. Băng kép gồm hai kim loại nở vì nhiệt khác nhau tán chặt vào nhau, khi nóng hoặc lạnh sẽ bị uốn cong.\n\n• Thứ tự dãn nở thể tích khi tăng cùng nhiệt độ: $$\\Delta V_{\\text{khí}} > \\Delta V_{\\text{lỏng}} > \\Delta V_{\\text{rắn}}$$\n• Băng kép (Đồng - Thép): Đồng nở nhiều hơn thép $\\rightarrow$ Uốn cong về phía thép",
+      "application_safety": "💡 **Ứng dụng & Cảnh báo:**\n• Khi rót nước sôi vào cốc thủy tinh dày rất dễ nứt vỡ vì lớp thủy tinh bên trong nở nhanh mà lớp bên ngoài chưa kịp nở gây ứng suất kéo nứt.\n• Bơm lốp xe đạp quá căng để ngoài trời nắng dễ bị nổ lốp do không khí trong ruột xe nở mạnh.\n\n⚠️ **Nước đá nở ra dị thường:** Từ $0^\\circ\\text{C}$ đến $4^\\circ\\text{C}$, nước co lại khi nóng lên; ở $4^\\circ\\text{C}$ nước có khối lượng riêng lớn nhất ($1000\\text{ kg/m}^3$). Nhờ vậy mặt hồ đóng băng ở trên còn dưới đáy vẫn là nước lỏng $4^\\circ\\text{C}$ cho cá bơi lội mùa đông."
+    }
+  ],
+  "Bai_32_Dinh_duong_va_tieu_hoa_o_nguoi.md": [
+    {
+      "id": "phenom_Bai_32_Dinh_duong_va_tieu_hoa_o_nguoi.md",
+      "title": "Giải mã bí ẩn đời thường: Thí nghiệm chứng minh tác dụng của enzyme amylase trong nước bọt lên hồ tinh bột",
+      "question": "Tại sao trong đời sống ta thường bắt gặp hiện tượng: Nhai kĩ cơm trắng, bánh mì thấy có vị ngọt lợ trong miệng vì enzyme amylase trong nước bọt đã phân giải một phần tinh bột chín thành đường maltose?",
+      "observation": "Hiện tượng quan sát được rõ nét trong sinh hoạt hàng ngày hoặc qua các dụng cụ thí nghiệm.",
+      "mechanism": "**Bản chất Khoa học:**\nHệ tiêu hóa biến đổi thức ăn thành các chất dinh dưỡng hòa tan mà cơ thể hấp thụ được (qua nhai nghiền cơ học và enzyme hóa học). Ruột non là nơi hoàn thành tiêu hóa và hấp thụ chất dinh dưỡng chủ yếu nhờ hàng triệu vi nhung mao.\n\n• Tinh bột chín $\\xrightarrow{\\text{Amylase nước bọt / tụy}} \\text{Maltose} \\xrightarrow{\\text{Maltase}} \\text{Glucose}$\n• Protein $\\xrightarrow{\\text{Pepsin dạ dày / Trypsin tụy}} \\text{Peptide} \\xrightarrow{\\text{Peptidase}} \\text{Amino acid}$\n• Lipid $\\xrightarrow{\\text{Dịch mật}} \\text{Nhũ tương hóa} \\xrightarrow{\\text{Lipase}} \\text{Acid béo} + \\text{Glycerol}$",
+      "application_safety": "💡 **Ứng dụng & Cảnh báo:**\n• Nhai kĩ cơm trắng, bánh mì thấy có vị ngọt lợ trong miệng vì enzyme amylase trong nước bọt đã phân giải một phần tinh bột chín thành đường maltose.\n• Ăn đồ chua cay, thức khuya, stress kích thích dạ dày tăng tiết acid $\\mathrm{HCl}$ gây viêm loét dạ dày.\n\n⚠️ **Dịch mật không chứa enzyme tiêu hóa:** Dịch mật do gan tiết ra **không chứa enzyme**, nó chỉ có muối mật đóng vai trò nhũ tương hóa phân tán các giọt chất béo lớn thành các hạt mỡ li ti để enzyme lipase dễ dàng tấn công phân giải."
+    }
+  ],
+  "Bai_33_Mau_va_he_tuan_hoan_cua_co_the_nguoi.md": [
+    {
+      "id": "phenom_Bai_33_Mau_va_he_tuan_hoan_cua_co_the_nguoi.md",
+      "title": "Giải mã bí ẩn đời thường: Sơ đồ truyền máu an toàn hệ ABO",
+      "question": "Tại sao trong đời sống ta thường bắt gặp hiện tượng: Người thuộc nhóm máu O là 'người cho phổ thông' vì hồng cầu không có kháng nguyên A, B nên không bị kháng thể người nhận ngưng kết?",
+      "observation": "Hiện tượng quan sát được rõ nét trong sinh hoạt hàng ngày hoặc qua các dụng cụ thí nghiệm.",
+      "mechanism": "**Bản chất Khoa học:**\nMáu gồm huyết tương (55%) và tế bào máu (45%: Hồng cầu mang O2/CO2, Bạch cầu miễn dịch thực bào, Tiểu cầu đông máu). Tim 4 ngăn co bóp nhịp nhàng bơm máu qua 2 vòng tuần hoàn kín.\n\n• 4 nhóm máu: A (kháng nguyên A), B (kháng nguyên B), AB (kháng nguyên A và B), O (không có kháng nguyên)\n• Nguyên tắc truyền máu: Không để kháng nguyên trên hồng cầu người cho bị kháng thể trong huyết tương người nhận ngưng kết\n• Vòng tuần hoàn lớn: Thất trái $\\rightarrow$ ĐM chủ $\\rightarrow$ Tế bào $\\rightarrow$ TM chủ $\\rightarrow$ Nhĩ phải",
+      "application_safety": "💡 **Ứng dụng & Cảnh báo:**\n• Người thuộc nhóm máu O là 'người cho phổ thông' vì hồng cầu không có kháng nguyên A, B nên không bị kháng thể người nhận ngưng kết.\n• Đứt tay chảy máu sau 3-5 phút máu tự đông lại thành cục nhờ mạng lưới sợi tơ huyết fibrin của tiểu cầu bịt kín vết thương.\n\n⚠️ **Nhầm lẫn máu đỏ tươi và đỏ thẫm:** Máu đỏ tươi là máu giàu oxy ($\\mathrm{HbO}_2$) chảy trong động mạch chủ và tĩnh mạch phổi; máu đỏ thẫm là máu nghèo oxy, giàu $\\mathrm{CO}_2$ chảy trong tĩnh mạch chủ và động mạch phổi."
+    }
+  ],
+  "Bai_34_He_ho_hap_o_nguoi.md": [
+    {
+      "id": "phenom_Bai_34_He_ho_hap_o_nguoi.md",
+      "title": "Giải mã bí ẩn đời thường: Mô hình hoạt động của phổi bằng chai nhựa và bóng bay",
+      "question": "Tại sao trong đời sống ta thường bắt gặp hiện tượng: Hít thở bằng mũi tốt hơn bằng miệng vì mũi có lớp lông giữ bụi, tuyến nhầy diệt khuẩn và mao mạch sưởi ấm không khí trước khi vào phổi?",
+      "observation": "Hiện tượng quan sát được rõ nét trong sinh hoạt hàng ngày hoặc qua các dụng cụ thí nghiệm.",
+      "mechanism": "**Bản chất Khoa học:**\nHệ hô hấp gồm đường dẫn khí (mũi, họng, thanh quản, khí quản, phế quản - làm ấm, ẩm, lọc bụi) và hai lá phổi. Phổi có hàng trăm triệu phế nang tạo bề mặt trao đổi khí khổng lồ $70 - 80\\text{ m}^2$ giữa máu và không khí.\n\n• Trao đổi khí theo cơ chế khuếch tán: Từ nơi có phân áp cao sang nơi có phân áp thấp\n• Tại phế nang: $\\mathrm{O}_2$ từ phế nang $\\rightarrow$ Máu; $\\mathrm{CO}_2$ từ máu $\\rightarrow$ Phế nang\n• Tại tế bào: $\\mathrm{O}_2$ từ máu $\\rightarrow$ Tế bào; $\\mathrm{CO}_2$ từ tế bào $\\rightarrow$ Máu",
+      "application_safety": "💡 **Ứng dụng & Cảnh báo:**\n• Hít thở bằng mũi tốt hơn bằng miệng vì mũi có lớp lông giữ bụi, tuyến nhầy diệt khuẩn và mao mạch sưởi ấm không khí trước khi vào phổi.\n• Khói thuốc lá chứa hàng ngàn chất độc (nicotine, hắc ín, khí CO) làm tê liệt lông rung khí quản và gây ung thư phổi.\n\n⚠️ **Cơ chế hít vào - thở ra:** Khi hít vào, cơ hoành và cơ liên sườn **co lại** làm thể tích lồng ngực tăng lên $\\rightarrow$ áp suất trong phổi giảm thấp hơn khí quyển làm không khí tràn vào (chứ không phải không khí tràn vào làm ngực nở ra)."
+    }
+  ],
+  "Bai_35_He_bai_tiet_o_nguoi.md": [
+    {
+      "id": "phenom_Bai_35_He_bai_tiet_o_nguoi.md",
+      "title": "Giải mã bí ẩn đời thường: Phân tích dấu hiệu bệnh lý qua xét nghiệm nước tiểu",
+      "question": "Tại sao trong đời sống ta thường bắt gặp hiện tượng: Uống ít nước và ăn mặn kéo dài làm khoáng chất lắng đọng kết tinh thành sỏi thận làm tắc đường tiểu gây đau đớn dữ dội?",
+      "observation": "Hiện tượng quan sát được rõ nét trong sinh hoạt hàng ngày hoặc qua các dụng cụ thí nghiệm.",
+      "mechanism": "**Bản chất Khoa học:**\nThận là cơ quan bài tiết nước tiểu chủ yếu của cơ thể. Mỗi quả thận có khoảng 1 triệu đơn vị chức năng (Nephron). Nước tiểu hình thành qua 3 bước: Lọc máu ở cầu thận (nước tiểu đầu) $\\rightarrow$ Tái hấp thụ ở ống thận $\\rightarrow$ Bài tiết tiếp tạo nước tiểu chính thức.\n\n• Lọc máu (cầu thận): $\\approx 170 - 180\\text{ L/ngày}$ nước tiểu đầu\n• Tái hấp thụ (ống thận): Hấp thu lại $99\\%$ nước, glucose, ion khoáng vào máu\n• Nước tiểu chính thức: $\\approx 1{,}5\\text{ L/ngày}$ chứa urea, acid uric, chất cặn bã",
+      "application_safety": "💡 **Ứng dụng & Cảnh báo:**\n• Uống ít nước và ăn mặn kéo dài làm khoáng chất lắng đọng kết tinh thành sỏi thận làm tắc đường tiểu gây đau đớn dữ dội.\n• Khi cơ thể thiếu nước, thận tăng cường tái hấp thu nước làm nước tiểu có màu vàng sẫm đặc trưng.\n\n⚠️ **Thành phần nước tiểu đầu vs Huyết tương:** Nước tiểu đầu có thành phần gần như tương tự huyết tương, **chỉ khác là không có tế bào máu và các phân tử protein kích thước lớn** (do màng lọc cầu thận giữ lại)."
+    }
+  ],
+  "Bai_36_Dieu_hoa_moi_truong_trong_cua_co_the_nguoi.md": [
+    {
+      "id": "phenom_Bai_36_Dieu_hoa_moi_truong_trong_cua_co_the_nguoi.md",
+      "title": "Giải mã bí ẩn đời thường: Cơ chế tự điều hòa đường huyết hoàn hảo của cơ thể",
+      "question": "Tại sao trong đời sống ta thường bắt gặp hiện tượng: Khi ăn nhiều muối mặn, áp suất thẩm thấu máu tăng kích thích trung khu thần kinh tạo cảm giác khát nước dữ dội và thận giảm bài tiết nước để giữ nước cân bằng nồng độ?",
+      "observation": "Hiện tượng quan sát được rõ nét trong sinh hoạt hàng ngày hoặc qua các dụng cụ thí nghiệm.",
+      "mechanism": "**Bản chất Khoa học:**\nMôi trường trong cơ thể (nội môi) gồm máu, dịch mô và bạch huyết. Cân bằng nội môi (duy trì ổn định pH, thân nhiệt 37°C, huyết áp, đường huyết 0,12%) là điều kiện tiên quyết cho sự sống của tế bào.\n\n• Môi trường trong = Máu + Dịch mô (dịch kẽ) + Bạch huyết\n• Đường huyết tăng cao $\\xrightarrow{\\text{Tuyến tụy tiết Insulin}} \\text{Gan biến Glucose} \\rightarrow \\text{Glycogen (Hạ đường huyết)}$\n• Đường huyết giảm thấp $\\xrightarrow{\\text{Tuyến tụy tiết Glucagon}} \\text{Gan biến Glycogen} \\rightarrow \\text{Glucose (Tăng đường huyết)}$",
+      "application_safety": "💡 **Ứng dụng & Cảnh báo:**\n• Khi ăn nhiều muối mặn, áp suất thẩm thấu máu tăng kích thích trung khu thần kinh tạo cảm giác khát nước dữ dội và thận giảm bài tiết nước để giữ nước cân bằng nồng độ.\n\n⚠️ **Bệnh tiểu đường:** Do tuyến tụy thiếu hụt hormone insulin hoặc tế bào kháng insulin làm đường không vào được tế bào mà tích tụ trong máu rồi thải ra nước tiểu."
+    }
+  ],
+  "Bai_37_He_than_kinh_va_cac_giac_quan_o_nguoi.md": [
+    {
+      "id": "phenom_Bai_37_He_than_kinh_va_cac_giac_quan_o_nguoi.md",
+      "title": "Giải mã bí ẩn đời thường: Thử nghiệm phản xạ gân bánh chè (đầu gối)",
+      "question": "Tại sao trong đời sống ta thường bắt gặp hiện tượng: Chạm tay vào vật nóng lập tức rụt tay lại là phản xạ không điều kiện bẩm sinh do tủy sống điều khiển giúp tránh bỏng?",
+      "observation": "Hiện tượng quan sát được rõ nét trong sinh hoạt hàng ngày hoặc qua các dụng cụ thí nghiệm.",
+      "mechanism": "**Bản chất Khoa học:**\nHệ thần kinh gồm trung ương (Não bộ, Tủy sống) và ngoại biên (Dây thần kinh, Hạch thần kinh). Phản xạ là phản ứng của cơ thể trả lời kích thích. Mắt (thị giác) và Tai (thính giác) là hai giác quan tiếp nhận thông tin môi trường chủ yếu.\n\n• Cung phản xạ gồm 5 khâu: Thụ quan $\\rightarrow$ Neuron hướng tâm $\\rightarrow$ Trung ương thần kinh $\\rightarrow$ Neuron li tâm $\\rightarrow$ Cơ quan đáp ứng (cơ/tuyến)\n• Cận thị: Ảnh rơi trước võng mạc $\\rightarrow$ Khắc phục bằng kính phân kì (kính lõm)\n• Viễn thị: Ảnh rơi sau võng mạc $\\rightarrow$ Khắc phục bằng kính hội tụ (kính lồi)",
+      "application_safety": "💡 **Ứng dụng & Cảnh báo:**\n• Chạm tay vào vật nóng lập tức rụt tay lại là phản xạ không điều kiện bẩm sinh do tủy sống điều khiển giúp tránh bỏng.\n• Thói quen nhìn điện thoại quá gần trong bóng tối là thủ phạm hàng đầu gây cận thị học đường.\n\n⚠️ **Phản xạ có điều kiện vs không điều kiện:** Tiết nước bọt khi nhai kẹo chanh là phản xạ không điều kiện; chỉ cần nghe ai nhắc đến 'quả chanh chua' mà ứa nước miếng là phản xạ có điều kiện hình thành qua trải nghiệm."
+    }
+  ],
+  "Bai_38_He_noi_tiet_o_nguoi.md": [
+    {
+      "id": "phenom_Bai_38_He_noi_tiet_o_nguoi.md",
+      "title": "Giải mã bí ẩn đời thường: Hiệu ứng hormone Adrenaline khi đối mặt với tình huống khẩn cấp",
+      "question": "Tại sao trong đời sống ta thường bắt gặp hiện tượng: Thiếu Iodine trong khẩu phần ăn khiến tuyến giáp phì đại tạo thành khối u bướu ở cổ (bệnh bướu cổ) và trẻ em chậm phát triển trí tuệ?",
+      "observation": "Hiện tượng quan sát được rõ nét trong sinh hoạt hàng ngày hoặc qua các dụng cụ thí nghiệm.",
+      "mechanism": "**Bản chất Khoa học:**\nHệ nội tiết điều hòa các quá trình sinh lý thông qua các hormone tiết thẳng vào máu. Tuyến yên là tuyến nhạc trưởng; Tuyến giáp tiết thyroxine; Tuyến tụy tiết insulin/glucagon; Tuyến thượng thận tiết adrenaline; Tuyến sinh dục tiết testosterone/estrogen.\n\n• Tuyến yên: Tiết hormone tăng trưởng GH, hormone kích thích tuyến giáp TSH, kích dục gonadotropin\n• Tuyến giáp: Tiết Thyroxine (chứa Iodine) điều hòa chuyển hóa năng lượng\n• Tuyến thượng thận: Tiết Adrenaline (tăng huyết áp, nhịp tim khi căng thẳng, cấp cứu)",
+      "application_safety": "💡 **Ứng dụng & Cảnh báo:**\n• Thiếu Iodine trong khẩu phần ăn khiến tuyến giáp phì đại tạo thành khối u bướu ở cổ (bệnh bướu cổ) và trẻ em chậm phát triển trí tuệ.\n• Sử dụng muối ăn có bổ sung Iodine là giải pháp quốc gia phòng chống bệnh bướu cổ.\n\n⚠️ **Phân biệt tuyến nội tiết và ngoại tiết:** Tuyến ngoại tiết (như tuyến nước bọt, tuyến mồ hôi) có **ống dẫn** đổ dịch ra bề mặt; Tuyến nội tiết **không có ống dẫn**, hormone ngấm trực tiếp vào các mao mạch máu."
+    }
+  ],
+  "Bai_39_Da_va_dieu_hoa_than_nhiet_o_nguoi.md": [
+    {
+      "id": "phenom_Bai_39_Da_va_dieu_hoa_than_nhiet_o_nguoi.md",
+      "title": "Giải mã bí ẩn đời thường: Quan sát hiện tượng sởn gai ốc và run cơ khi bị lạnh đột ngột",
+      "question": "Tại sao trong đời sống ta thường bắt gặp hiện tượng: Người vận động mạnh đổ mồ hôi nhễ nhại, khi có gió thoảng qua cảm thấy mát lạnh ngay vì mồ hôi bay hơi hấp thụ nhiệt lượng rất lớn từ bề mặt da?",
+      "observation": "Hiện tượng quan sát được rõ nét trong sinh hoạt hàng ngày hoặc qua các dụng cụ thí nghiệm.",
+      "mechanism": "**Bản chất Khoa học:**\nDa gồm 3 lớp: Biểu bì (tầng sừng, tế bào sắc tố melanin chống tia UV), Lớp bì (thụ quan, tuyến mồ hôi, nang lông, mạch máu) và Lớp mỡ dưới da. Thân nhiệt ổn định ở 37°C nhờ cơ chế cân bằng giữa sinh nhiệt và tỏa nhiệt.\n\n• Trời nóng: Giãn mao mạch dưới da (đỏ mặt) + Tiết mồ hôi bay hơi tỏa nhiệt\n• Trời lạnh: Co mao mạch dưới da (tái mặt) + Co cơ chân lông (sởn gai ốc) + Run cơ sinh nhiệt",
+      "application_safety": "💡 **Ứng dụng & Cảnh báo:**\n• Người vận động mạnh đổ mồ hôi nhễ nhại, khi có gió thoảng qua cảm thấy mát lạnh ngay vì mồ hôi bay hơi hấp thụ nhiệt lượng rất lớn từ bề mặt da.\n• Say nắng (cảm nắng) xảy ra khi đi ngoài trời nắng gay gắt làm trung khu điều hòa thân nhiệt bị tê liệt gây sốt cao, mê sảng.\n\n⚠️ **Tắm ngay nước lạnh khi đang toát mồ hôi:** Các mao mạch đang giãn nở đột ngột bị co thắt cục bộ, lỗ chân lông đóng kín làm nhiệt không thoát được, rất dễ dẫn đến đột quỵ, cảm lạnh hoặc tai biến mạch máu não!"
+    }
+  ],
+  "Bai_40_Sinh_san_o_nguoi.md": [
+    {
+      "id": "phenom_Bai_40_Sinh_san_o_nguoi.md",
+      "title": "Giải mã bí ẩn đời thường: Hiểu biết khoa học về chu kỳ kinh nguyệt và bảo vệ bản thân",
+      "question": "Tại sao trong đời sống ta thường bắt gặp hiện tượng: Vệ sinh cơ quan sinh dục sạch sẽ hàng ngày bằng nước sạch giúp ngăn ngừa viêm nhiễm phụ khoa và nam khoa?",
+      "observation": "Hiện tượng quan sát được rõ nét trong sinh hoạt hàng ngày hoặc qua các dụng cụ thí nghiệm.",
+      "mechanism": "**Bản chất Khoa học:**\nHệ sinh dục nam tạo tinh trùng (tinh hoàn); Hệ sinh dục nữ tạo trứng (buồng trứng). Thụ tinh là sự kết hợp giữa tinh trùng và trứng ở 1/3 ngoài ống dẫn trứng tạo hợp tử; Thụ thai là hợp tử làm tổ ở niêm mạc tử cung.\n\n• Thụ tinh: $\\text{Tinh trùng } (n) + \\text{Trứng } (n) \\rightarrow \\text{Hợp tử } (2n)$\n• Tuổi dậy thì: Nam xuất tinh lần đầu, vỡ giọng; Nữ xuất hiện kinh nguyệt, phát triển ngực, hông",
+      "application_safety": "💡 **Ứng dụng & Cảnh báo:**\n• Vệ sinh cơ quan sinh dục sạch sẽ hàng ngày bằng nước sạch giúp ngăn ngừa viêm nhiễm phụ khoa và nam khoa.\n• Mang thai ở tuổi vị thành niên ảnh hưởng nghiêm trọng đến sức khỏe thể chất của mẹ và bé, làm gián đoạn việc học tập.\n\n⚠️ **Nhầm lẫn thụ tinh và thụ thai:** Thụ tinh chỉ là trứng gặp tinh trùng; còn thụ thai là hợp tử đã di chuyển vào tử cung và cắm rễ làm tổ an toàn trong lớp niêm mạc tử cung thì thai kỳ mới chính thức bắt đầu."
+    }
+  ],
+  "Bai_41_Moi_truong_va_cac_nhan_to_sinh_thai.md": [
+    {
+      "id": "phenom_Bai_41_Moi_truong_va_cac_nhan_to_sinh_thai.md",
+      "title": "Giải mã bí ẩn đời thường: Thí nghiệm so sánh cây trồng trong bóng râm và ngoài sáng",
+      "question": "Tại sao trong đời sống ta thường bắt gặp hiện tượng: Cá rô phi ở Việt Nam chết ở nhiệt độ dưới $5{,}6^\\circ\\text{C}$ (giới hạn dưới) và trên $42^\\circ\\text{C}$ (giới hạn trên); phát triển thuận lợi nhất ở $30^\\circ\\text{C}$?",
+      "observation": "Hiện tượng quan sát được rõ nét trong sinh hoạt hàng ngày hoặc qua các dụng cụ thí nghiệm.",
+      "mechanism": "**Bản chất Khoa học:**\nMôi trường là nơi sinh sống của sinh vật gồm 4 loại: Môi trường cạn, nước, đất và sinh vật. Nhân tố sinh thái gồm: Nhân tố vô sinh (ánh sáng, nhiệt độ, nước...) và Nhân tố hữu sinh (sinh vật xung quanh và con người). Giới hạn sinh thái là khoảng giá trị của một nhân tố mà sinh vật có thể tồn tại và phát triển.\n\n• 4 Môi trường: Trên cạn, Dưới nước, Trong đất, Sinh vật\n• Giới hạn sinh thái: Giới hạn dưới $\\rightarrow$ Khoảng thuận lợi $\\rightarrow$ Giới hạn trên (ngoài giới hạn sinh vật sẽ chết)",
+      "application_safety": "💡 **Ứng dụng & Cảnh báo:**\n• Cá rô phi ở Việt Nam chết ở nhiệt độ dưới $5{,}6^\\circ\\text{C}$ (giới hạn dưới) và trên $42^\\circ\\text{C}$ (giới hạn trên); phát triển thuận lợi nhất ở $30^\\circ\\text{C}$.\n• Xương rồng sa mạc biến lá thành gai để giảm thoát hơi nước thích nghi với môi trường khô hạn.\n\n⚠️ **Nhân tố con người:** Con người thuộc nhóm nhân tố hữu sinh nhưng được tách thành một nhóm nhân tố sinh thái đặc biệt vì con người có trí tuệ, có thể cải tạo hoặc phá hủy môi trường trên quy mô toàn cầu."
+    }
+  ],
+  "Bai_42_Quan_the_sinh_vat.md": [
+    {
+      "id": "phenom_Bai_42_Quan_the_sinh_vat.md",
+      "title": "Giải mã bí ẩn đời thường: Đánh giá mật độ quần thể cá mè trong ao nuôi",
+      "question": "Tại sao trong đời sống ta thường bắt gặp hiện tượng: Đàn trâu rừng quây thành vòng tròn bảo vệ trâu con khỏi bầy sư tử là biểu hiện hỗ trợ cùng loài tuyệt đẹp?",
+      "observation": "Hiện tượng quan sát được rõ nét trong sinh hoạt hàng ngày hoặc qua các dụng cụ thí nghiệm.",
+      "mechanism": "**Bản chất Khoa học:**\nQuần thể sinh vật là tập hợp các cá thể cùng loài, cùng sống trong một khu vực xác định ở một thời điểm nhất định và có khả năng sinh sản. Các đặc trưng cơ bản: Tỉ lệ giới tính, Nhóm tuổi, Mật độ cá thể.\n\n• Mật độ cá thể: Số lượng cá thể / Đơn vị diện tích hoặc thể tích\n• 3 nhóm tuổi: Trước sinh sản, Đang sinh sản, Sau sinh sản\n• Quan hệ trong quần thể: Hỗ trợ cùng loài và Cạnh tranh cùng loài",
+      "application_safety": "💡 **Ứng dụng & Cảnh báo:**\n• Đàn trâu rừng quây thành vòng tròn bảo vệ trâu con khỏi bầy sư tử là biểu hiện hỗ trợ cùng loài tuyệt đẹp.\n• Khi mật độ quá dày đặc, cá con ăn thịt lẫn nhau hoặc cây tự tỉa thưa để san sẻ nguồn sống.\n\n⚠️ **Nhầm lẫn giữa tập hợp ngẫu nhiên và quần thể:** Đàn cá trong chậu ở chợ hay thú trong vườn bách thú **không phải là quần thể** vì chúng thuộc nhiều nguồn gốc khác nhau, không có khả năng sinh sản duy trì nòi giống lâu dài."
+    }
+  ],
+  "Bai_43_Quan_xa_sinh_vat.md": [
+    {
+      "id": "phenom_Bai_43_Quan_xa_sinh_vat.md",
+      "title": "Giải mã bí ẩn đời thường: Phân tích cấu trúc phân tầng thẳng đứng của rừng nhiệt đới",
+      "question": "Tại sao trong đời sống ta thường bắt gặp hiện tượng: Cây phong lan bám vào thân cây cổ thụ để lấy ánh sáng mà không hút chất dinh dưỡng của cây chủ là quan hệ hội sinh?",
+      "observation": "Hiện tượng quan sát được rõ nét trong sinh hoạt hàng ngày hoặc qua các dụng cụ thí nghiệm.",
+      "mechanism": "**Bản chất Khoa học:**\nQuần xã sinh vật là tập hợp các quần thể thuộc nhiều loài khác nhau cùng sống trong một sinh cảnh. Đặc trưng: Độ phong phú loài, Loài ưu thế (chiếm số lượng lớn, chi phối quần xã), Loài đặc trưng (chỉ có ở quần xã đó). Các mối quan hệ: Cộng sinh, Hội sinh, Cạnh tranh, Vật ăn thịt - con mồi.\n\n• Hỗ trợ: Cộng sinh $(+/+)$, Hội sinh $(+/0)$, Hợp tác $(+/+)$\n• Đối kháng: Cạnh tranh $(-/-)$, Kí sinh $(+/-)$, Vật ăn thịt $(+/-)$",
+      "application_safety": "💡 **Ứng dụng & Cảnh báo:**\n• Cây phong lan bám vào thân cây cổ thụ để lấy ánh sáng mà không hút chất dinh dưỡng của cây chủ là quan hệ hội sinh.\n• Nấm và tảo lam gắn bó tạo thành địa y là quan hệ cộng sinh mật thiết, tách rời ra cả hai đều chết.\n\n⚠️ **Loài ưu thế vs Loài đặc trưng:** Cây thông là loài ưu thế ở rừng thông Đà Lạt vì số lượng đông đúc chi phối khí hậu; còn cá cóc Tam Đảo là loài đặc trưng vì chỉ có ở vùng núi Tam Đảo mà hầu như không tìm thấy ở nơi khác."
+    }
+  ],
+  "Bai_44_He_sinh_thai.md": [
+    {
+      "id": "phenom_Bai_44_He_sinh_thai.md",
+      "title": "Giải mã bí ẩn đời thường: Vẽ lưới thức ăn của hệ sinh thái đồng ruộng",
+      "question": "Tại sao trong đời sống ta thường bắt gặp hiện tượng: Đầm sen mùa hạ là một hệ sinh thái nước ngọt tuyệt đẹp gồm bùn nước, ánh nắng, hoa sen, cá cờ, ốc bươu, ếch nhái và vi sinh vật đáy bùn phối hợp tuần hoàn vật chất?",
+      "observation": "Hiện tượng quan sát được rõ nét trong sinh hoạt hàng ngày hoặc qua các dụng cụ thí nghiệm.",
+      "mechanism": "**Bản chất Khoa học:**\nHệ sinh thái = Quần xã sinh vật + Sinh cảnh (Môi trường vô sinh). Thành phần gồm: Sinh vật sản xuất (cây xanh tự dưỡng), Sinh vật tiêu thụ (động vật ăn thực vật và ăn thịt), Sinh vật phân giải (vi khuẩn, nấm). Dòng năng lượng truyền qua chuỗi và lưới thức ăn.\n\n• Chuỗi thức ăn: $\\text{Cỏ (Sản xuất)} \\rightarrow \\text{Châu chấu (Tiêu thụ 1)} \\rightarrow \\text{Ếch (Tiêu thụ 2)} \\rightarrow \\text{Rắn (Tiêu thụ 3)}$\n• Mắt xích chung liên kết các chuỗi tạo thành Lưới thức ăn phức tạp\n• Năng lượng Mặt Trời được thực vật cố định và hao phí dần qua mỗi bậc dinh dưỡng",
+      "application_safety": "💡 **Ứng dụng & Cảnh báo:**\n• Đầm sen mùa hạ là một hệ sinh thái nước ngọt tuyệt đẹp gồm bùn nước, ánh nắng, hoa sen, cá cờ, ốc bươu, ếch nhái và vi sinh vật đáy bùn phối hợp tuần hoàn vật chất.\n\n⚠️ **Mắt xích đầu tiên:** Đa số các chuỗi thức ăn trên cạn bắt đầu bằng **sinh vật sản xuất (cây xanh)**; một số chuỗi ở đáy bùn hoặc hang tối bắt đầu bằng chất mùn hữu cơ phân giải."
+    }
+  ],
+  "Bai_45_Sinh_quyen.md": [
+    {
+      "id": "phenom_Bai_45_Sinh_quyen.md",
+      "title": "Giải mã bí ẩn đời thường: Khảo sát sự thay đổi thảm thực vật theo vĩ độ từ xích đạo về hai cực",
+      "question": "Tại sao trong đời sống ta thường bắt gặp hiện tượng: Rừng nhiệt đới Amazon được ví là 'Lá phổi xanh của Trái Đất' vì sản xuất ra hơn 20% lượng dưỡng khí oxygen cho toàn bộ sinh quyển?",
+      "observation": "Hiện tượng quan sát được rõ nét trong sinh hoạt hàng ngày hoặc qua các dụng cụ thí nghiệm.",
+      "mechanism": "**Bản chất Khoa học:**\nSinh quyển là quyển chứa toàn bộ sự sống trên Trái Đất, dày khoảng 20km, bao gồm lớp vỏ phong hóa (thạch quyển), toàn bộ thủy quyển và phần dưới khí quyển. Chia thành các khu sinh học (biome) trên cạn và dưới nước.\n\n• Thạch quyển (vài chục mét) + Thủy quyển (sâu 11km) + Khí quyển (đối lưu tới tầng ozone)\n• Các khu sinh học trên cạn: Rừng mưa nhiệt đới $\\rightarrow$ Rừng rụng lá ôn đới $\\rightarrow$ Thảo nguyên $\\rightarrow$ Sa mạc $\\rightarrow$ Đài nguyên hàn đới",
+      "application_safety": "💡 **Ứng dụng & Cảnh báo:**\n• Rừng nhiệt đới Amazon được ví là 'Lá phổi xanh của Trái Đất' vì sản xuất ra hơn 20% lượng dưỡng khí oxygen cho toàn bộ sinh quyển.\n\n⚠️ **Sự phân bố sinh vật:** Sinh vật không phân bố đều khắp mọi nơi trong sinh quyển mà tập trung dày đặc nhất ở bề mặt Trái Đất nơi có sự giao thoa giữa đất, nước và không khí tràn ngập ánh sáng."
+    }
+  ],
+  "Bai_46_Can_bang_tu_nhien.md": [
+    {
+      "id": "phenom_Bai_46_Can_bang_tu_nhien.md",
+      "title": "Giải mã bí ẩn đời thường: Bài học từ chiến dịch tiêu diệt chim sẻ năm 1958",
+      "question": "Tại sao trong đời sống ta thường bắt gặp hiện tượng: Ở Úc, thỏ hoang không có thiên địch tự nhiên đã sinh sôi hàng trăm triệu con cắn trọc đồng cỏ làm chết hàng loạt cừu bò, buộc chính phủ phải đưa virus Myxoma vào để khống chế đàn thỏ?",
+      "observation": "Hiện tượng quan sát được rõ nét trong sinh hoạt hàng ngày hoặc qua các dụng cụ thí nghiệm.",
+      "mechanism": "**Bản chất Khoa học:**\nCân bằng tự nhiên là trạng thái ổn định động của hệ sinh thái, số lượng cá thể dao động quanh mức cân bằng nhờ khống chế sinh học. Mất cân bằng tự nhiên do thiên tai và tác động của con người (phá rừng, ô nhiễm).\n\n• Khống chế sinh học: Con mồi tăng $\\implies$ Kẻ săn mồi tăng $\\implies$ Con mồi giảm $\\implies$ Kẻ săn mồi giảm $\\implies$ Cân bằng\n• Tự điều chỉnh: Hệ sinh thái càng đa dạng loài thì khả năng tự điều chỉnh cân bằng càng bền vững",
+      "application_safety": "💡 **Ứng dụng & Cảnh báo:**\n• Ở Úc, thỏ hoang không có thiên địch tự nhiên đã sinh sôi hàng trăm triệu con cắn trọc đồng cỏ làm chết hàng loạt cừu bò, buộc chính phủ phải đưa virus Myxoma vào để khống chế đàn thỏ.\n\n⚠️ **Cân bằng không phải là bất biến:** Cân bằng tự nhiên là **cân bằng động**, luôn có sự biến động nhấp nhô của các quần thể xoay quanh vị trí cân bằng theo mùa và chu kỳ thức ăn."
+    }
+  ],
+  "Bai_47_Bao_ve_moi_truong.md": [
+    {
+      "id": "phenom_Bai_47_Bao_ve_moi_truong.md",
+      "title": "Giải mã bí ẩn đời thường: Dự án nhỏ của học sinh: Phân loại rác tại nguồn ở trường học",
+      "question": "Tại sao trong đời sống ta thường bắt gặp hiện tượng: Rác thải nhựa mất từ 400 đến 1000 năm mới phân hủy rã thành các hạt vi nhựa cực độc chui vào cá tôm và quay lại bàn ăn con người?",
+      "observation": "Hiện tượng quan sát được rõ nét trong sinh hoạt hàng ngày hoặc qua các dụng cụ thí nghiệm.",
+      "mechanism": "**Bản chất Khoa học:**\nBảo vệ môi trường là trách nhiệm sống còn. Ô nhiễm môi trường (không khí, nước, đất, rác thải nhựa) dẫn đến biến đổi khí hậu, hiệu ứng nhà kính và tuyệt chủng hàng loạt. Giải pháp: Năng lượng sạch, Kinh tế tuần hoàn 3R (Giảm thiểu, Tái sử dụng, Tái chế).\n\n• Khí nhà kính $\\mathrm{CO}_2, \\mathrm{CH}_4 \\rightarrow$ Giữ nhiệt Trái Đất $\\rightarrow$ Băng tan, nước biển dâng\n• Mưa acid: Khí $\\mathrm{SO}_2, \\mathrm{NO}_2 + \\mathrm{H}_2\\mathrm{O} \\rightarrow \\mathrm{H}_2\\mathrm{SO}_4, \\mathrm{HNO}_3$\n• Quy tắc 3R: Reduce (Giảm thiểu) - Reuse (Tái sử dụng) - Recycle (Tái chế)",
+      "application_safety": "💡 **Ứng dụng & Cảnh báo:**\n• Rác thải nhựa mất từ 400 đến 1000 năm mới phân hủy rã thành các hạt vi nhựa cực độc chui vào cá tôm và quay lại bàn ăn con người.\n• Trồng cây xanh quanh trường học giúp hấp thụ khí $\\mathrm{CO}_2$, cản bụi mịn và hạ nhiệt độ sân trường vào mùa hè.\n\n⚠️ **Hiểu lầm về hành động:** Nghĩ rằng bảo vệ môi trường là việc của các nhà khoa học lớn; thực tế bảo vệ môi trường bắt đầu từ những việc nhỏ nhất của mỗi học sinh: không vứt rác bừa bãi, tắt bóng đèn khi ra khỏi phòng học."
+    }
+  ]
+}

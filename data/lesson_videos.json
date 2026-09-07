@@ -1,0 +1,613 @@
+{
+  "Bai_02_Phan_ung_hoa_hoc.md": {
+    "lecture": {
+      "video_title": "Khoa học tự nhiên 8 Bài 2: Phản ứng hóa học | Kết nối tri thức",
+      "teacher_channel": "VietJack Tiểu học & THCS",
+      "youtube_url": "https://www.youtube.com/watch?v=wYgS37jBV8k",
+      "description": "Bài giảng chi tiết về biến đổi vật lí, biến đổi hoá học và phản ứng toả nhiệt/thu nhiệt."
+    },
+    "experiment": {
+      "title": "Thí nghiệm: Sulfur (Lưu huỳnh) Phản Ứng Với Iron (Sắt) | Fe + S",
+      "youtube_url": "https://www.youtube.com/watch?v=TXg47SSw1HQ",
+      "description": "Quan sát cận cảnh bột Fe và S cháy rực tạo thành FeS và kiểm tra bằng nam châm."
+    }
+  },
+  "Bai_03_Mol_va_ti_khoi_chat_khi.md": {
+    "lecture": {
+      "video_title": "Khoa học tự nhiên 8 Bài 3: Mol và tỉ khối chất khí | Kết nối tri thức",
+      "teacher_channel": "VietJack Tiểu học & THCS",
+      "youtube_url": "https://www.youtube.com/watch?v=YRSDdiEHsWU",
+      "description": "Bản chất khái niệm Mol, hằng số Avogadro và thể tích chất khí ở điều kiện chuẩn 24,79 L."
+    },
+    "experiment": {
+      "title": "Thí nghiệm: Rót khí CO2 dập tắt ngọn nến (Minh chứng tỉ khối chất khí)",
+      "youtube_url": "https://www.youtube.com/watch?v=9PxuPAQ4AqI",
+      "description": "Rót khí CO2 nặng hơn không khí làm tắt các ngọn nến ở độ cao khác nhau."
+    }
+  },
+  "Bai_04_Dung_dich_va_nong_do.md": {
+    "lecture": {
+      "video_title": "Khoa học tự nhiên 8 Bài 4: Dung dịch và nồng độ | Kết nối tri thức",
+      "teacher_channel": "VietJack Tiểu học & THCS",
+      "youtube_url": "https://www.youtube.com/watch?v=QeL8uqPndyA",
+      "description": "Định nghĩa chất tan, dung môi, độ tan và công thức tính nồng độ C%, CM."
+    },
+    "experiment": {
+      "title": "Thí nghiệm: Cách pha nước muối sinh lí 0,9% và pha chế dung dịch chuẩn",
+      "youtube_url": "https://www.youtube.com/watch?v=beaPMoTnXBg",
+      "description": "Quy trình cân đo hóa chất và hòa tan tạo dung dịch nồng độ xác định."
+    }
+  },
+  "Bai_05_Dinh_luat_bao_toan_khoi_luong_va_PTHH.md": {
+    "lecture": {
+      "video_title": "KHTN 8 Bài 5: Định luật bảo toàn khối lượng và phương trình hóa học",
+      "teacher_channel": "Thầy Nguyễn Chí Sơn",
+      "youtube_url": "https://www.youtube.com/watch?v=teALgIk7MRg",
+      "description": "Phương pháp lập phương trình hoá học chuẩn mực và bảo toàn nguyên tử."
+    },
+    "experiment": {
+      "title": "Thí nghiệm: Định luật bảo toàn khối lượng (BaCl2 + Na2SO4)",
+      "youtube_url": "https://www.youtube.com/watch?v=HHctVwfKwVs",
+      "description": "Cân điện tử kiểm chứng khối lượng trước và sau khi tạo kết tủa BaSO4."
+    }
+  },
+  "Bai_06_Tinh_theo_phuong_trinh_hoa_hoc.md": {
+    "lecture": {
+      "video_title": "Khoa học tự nhiên 8 Bài 6: Tính theo phương trình hóa học | Kết nối tri thức",
+      "teacher_channel": "VietJack Tiểu học & THCS",
+      "youtube_url": "https://www.youtube.com/watch?v=lP_9Zu1K-Q0",
+      "description": "Kỹ năng tính theo PTHH 4 bước và công thức hiệu suất phản ứng H%."
+    },
+    "experiment": {
+      "title": "Thí nghiệm: Đốt kim loại Magie (Mg) cháy sáng chói trong không khí",
+      "youtube_url": "https://www.youtube.com/watch?v=OSc-C0iqsvI",
+      "description": "Quan sát phản ứng đốt cháy kim loại tạo tro trắng MgO."
+    }
+  },
+  "Bai_07_Toc_do_phan_ung_va_chat_xuc_tac.md": {
+    "lecture": {
+      "video_title": "Khoa học tự nhiên 8 Bài 7: Tốc độ phản ứng và chất xúc tác | Kết nối tri thức",
+      "teacher_channel": "VietJack Tiểu học & THCS",
+      "youtube_url": "https://www.youtube.com/watch?v=SrJAeKX8sgg",
+      "description": "5 yếu tố ảnh hưởng tốc độ phản ứng: nồng độ, nhiệt độ, diện tích, áp suất, chất xúc tác."
+    },
+    "experiment": {
+      "title": "Thí nghiệm: Bột MnO2 xúc tác phân hủy H2O2 tạo cột bọt khí Oxygen",
+      "youtube_url": "https://www.youtube.com/watch?v=584r3CtX80s",
+      "description": "Thêm xúc tác MnO2 giải phóng O2 mãnh liệt làm bùng cháy tàn đóm."
+    }
+  },
+  "Bai_13_Khoi_luong_rieng.md": {
+    "lecture": {
+      "video_title": "Khoa học tự nhiên 8 Bài 13: Khối lượng riêng | Kết nối tri thức",
+      "teacher_channel": "VietJack Tiểu học & THCS",
+      "youtube_url": "https://www.youtube.com/watch?v=0oY96KxHkM8",
+      "description": "Công thức D = m/V và các phương pháp đo khối lượng riêng trong thực tế."
+    },
+    "experiment": {
+      "title": "Thí nghiệm: Đo khối lượng riêng bằng thực nghiệm và bình chia độ",
+      "youtube_url": "https://www.youtube.com/watch?v=CisYsM3Vdro",
+      "description": "Đo thể tích bằng bình tràn và cân khối lượng để tính khối lượng riêng."
+    }
+  },
+  "Bai_16_Ap_suat_chat_long_Ap_suat_khi_quyen.md": {
+    "lecture": {
+      "video_title": "KHTN 8 Bài 16: Áp suất chất lỏng - Áp suất khí quyển | Kết nối tri thức",
+      "teacher_channel": "VietJack Tiểu học & THCS",
+      "youtube_url": "https://www.youtube.com/watch?v=Nai_xxP2bfI",
+      "description": "Công thức p = d.h, nguyên lí bình thông nhau và giải thích hiện tượng lặn sâu."
+    },
+    "experiment": {
+      "title": "Thí nghiệm: Áp suất chất lỏng theo độ sâu và mô hình bình thông nhau",
+      "youtube_url": "https://www.youtube.com/watch?v=WksRUSLS4j4",
+      "description": "Màng cao su biến dạng theo độ sâu minh chứng áp suất chất lỏng tăng theo chiều sâu."
+    }
+  },
+  "Bai_17_Luc_day_Archimedes.md": {
+    "lecture": {
+      "video_title": "Khoa học tự nhiên 8 Bài 17: Lực đẩy Archimedes | Kết nối tri thức",
+      "teacher_channel": "VietJack Tiểu học & THCS",
+      "youtube_url": "https://www.youtube.com/watch?v=z4MIi6tTKY0",
+      "description": "Công thức FA = d.V và điều kiện vật chìm, lơ lửng, nổi."
+    },
+    "experiment": {
+      "title": "Thí nghiệm: Quả trứng chìm trong nước ngọt và nổi trong nước muối",
+      "youtube_url": "https://www.youtube.com/watch?v=kXHxheo_qfc",
+      "description": "Tăng khối lượng riêng chất lỏng làm tăng lực đẩy Archimedes nâng quả trứng nổi lên."
+    }
+  },
+  "Bai_19_Don_bay_va_ung_dung.md": {
+    "lecture": {
+      "video_title": "Khoa học tự nhiên 8 Bài 19: Đòn bẩy và ứng dụng | Kết nối tri thức",
+      "teacher_channel": "VietJack Tiểu học & THCS",
+      "youtube_url": "https://www.youtube.com/watch?v=8gzgxx8GmaI",
+      "description": "Quy tắc đòn bẩy F1.d1 = F2.d2 và các ứng dụng trong đời sống."
+    },
+    "experiment": {
+      "title": "Thí nghiệm: 6 ứng dụng khoa học thực tế của quy tắc đòn bẩy",
+      "youtube_url": "https://www.youtube.com/watch?v=iGi3tRriNI0",
+      "description": "Trực quan hóa cách đòn bẩy khuếch đại lực nâng vật nặng."
+    }
+  },
+  "Bai_30_Khai_quat_ve_co_the_nguoi.md": {
+    "lecture": {
+      "video_title": "Khoa học tự nhiên 8 Bài 30: Khái quát về cơ thể người | Kết nối tri thức",
+      "teacher_channel": "VietJack Tiểu học & THCS",
+      "youtube_url": "https://www.youtube.com/watch?v=3bKo3peAjqE",
+      "description": "Cấu tạo khoang ngực, khoang bụng và sự phối hợp giữa các hệ cơ quan."
+    },
+    "experiment": {
+      "title": "Mô hình 3D: Giải phẫu trực quan các cơ quan bên trong cơ thể người",
+      "youtube_url": "https://www.youtube.com/watch?v=PC5G1M1f-pM",
+      "description": "Quan sát đồ họa 3D vị trí và chức năng của các hệ cơ quan."
+    }
+  },
+  "Bai_31_He_van_dong_o_nguoi.md": {
+    "lecture": {
+      "video_title": "Khoa học tự nhiên 8 Bài 31: Hệ vận động ở người | Kết nối tri thức",
+      "teacher_channel": "VietJack Tiểu học & THCS",
+      "youtube_url": "https://www.youtube.com/watch?v=1k716WZNhmk",
+      "description": "Bộ xương 206 chiếc, 3 loại khớp, cơ chế co cơ và phòng chống cong vẹo cột sống."
+    },
+    "experiment": {
+      "title": "Mô phỏng: Hệ vận động ở con người - Tại sao chúng ta cử động được?",
+      "youtube_url": "https://www.youtube.com/watch?v=AGjKGEHMBU4",
+      "description": "Phim khoa học hoạt hình trực quan cơ chế khớp đòn bẩy và sự co giãn cơ."
+    }
+  },
+  "Bai_01_Su_dung_hoa_chat_va_thiet_bi.md": {
+    "lecture": {
+      "video_title": "KHTN 8 Bài 1: Sử dụng một số hoá chất, thiết bị cơ bản trong phòng thí nghiệm",
+      "teacher_channel": "VietJack Tiểu học & THCS",
+      "youtube_url": "https://www.youtube.com/watch?v=qX9Qd9xXvCg",
+      "description": "Hướng dẫn nhận biết hoá chất, quy tắc an toàn, dụng cụ thí nghiệm và thiết bị đo điện, đo pH."
+    },
+    "experiment": {
+      "title": "Kỹ thuật đun nóng ống nghiệm & sử dụng thiết bị đo an toàn",
+      "youtube_url": "https://www.youtube.com/watch?v=b0wF1kY4j9Q",
+      "description": "Thực hành cầm ống nghiệm, lấy hóa chất rắn lỏng và đo đạc thông số chính xác."
+    }
+  },
+  "Bai_08_Acid.md": {
+    "lecture": {
+      "video_title": "KHTN 8 Bai 08 Acid | Kết nối tri thức với cuộc sống",
+      "teacher_channel": "VietJack Tiểu học & THCS",
+      "youtube_url": "https://www.youtube.com/watch?v=qX9Qd9xXvCg",
+      "description": "Bài giảng chi tiết chuẩn chương trình GDPT mới: Acid là hợp chất mà phân tử gồm một hay nhiều nguyên tử hydrogen liên kết với gốc acid. Khi tan tron..."
+    },
+    "experiment": {
+      "title": "Clip Thí Nghiệm & Mô Phỏng Thực Tế: Bai 08 Acid",
+      "youtube_url": "https://www.youtube.com/watch?v=b0wF1kY4j9Q",
+      "description": "Quan sát cận cảnh hiện tượng: Thí nghiệm kẽm (Zn) tác dụng với dung dịch Hydrochloric acid (HCl)"
+    }
+  },
+  "Bai_09_Base_Thang_pH.md": {
+    "lecture": {
+      "video_title": "KHTN 8 Bai 09 Base Thang pH | Kết nối tri thức với cuộc sống",
+      "teacher_channel": "VietJack Tiểu học & THCS",
+      "youtube_url": "https://www.youtube.com/watch?v=qX9Qd9xXvCg",
+      "description": "Bài giảng chi tiết chuẩn chương trình GDPT mới: Base là hợp chất mà phân tử gồm nguyên tử kim loại liên kết với một hay nhiều nhóm hydroxide ($-\\mat..."
+    },
+    "experiment": {
+      "title": "Clip Thí Nghiệm & Mô Phỏng Thực Tế: Bai 09 Base Thang pH",
+      "youtube_url": "https://www.youtube.com/watch?v=b0wF1kY4j9Q",
+      "description": "Quan sát cận cảnh hiện tượng: Thí nghiệm phản ứng trung hoà giữa NaOH và HCl có chỉ thị phenolphthalein"
+    }
+  },
+  "Bai_10_Oxide.md": {
+    "lecture": {
+      "video_title": "KHTN 8 Bai 10 Oxide | Kết nối tri thức với cuộc sống",
+      "teacher_channel": "VietJack Tiểu học & THCS",
+      "youtube_url": "https://www.youtube.com/watch?v=qX9Qd9xXvCg",
+      "description": "Bài giảng chi tiết chuẩn chương trình GDPT mới: Oxide là hợp chất gồm 2 nguyên tố, trong đó có một nguyên tố là oxygen. Phân loại: Oxide base (tác d..."
+    },
+    "experiment": {
+      "title": "Clip Thí Nghiệm & Mô Phỏng Thực Tế: Bai 10 Oxide",
+      "youtube_url": "https://www.youtube.com/watch?v=b0wF1kY4j9Q",
+      "description": "Quan sát cận cảnh hiện tượng: Thí nghiệm sục khí CO2 vào nước vôi trong Ca(OH)2"
+    }
+  },
+  "Bai_11_Muoi.md": {
+    "lecture": {
+      "video_title": "KHTN 8 Bai 11 Muoi | Kết nối tri thức với cuộc sống",
+      "teacher_channel": "VietJack Tiểu học & THCS",
+      "youtube_url": "https://www.youtube.com/watch?v=qX9Qd9xXvCg",
+      "description": "Bài giảng chi tiết chuẩn chương trình GDPT mới: Muối là hợp chất gồm cation kim loại (hoặc $\\mathrm{NH}_4^+$) liên kết với anion gốc acid. Phản ứng ..."
+    },
+    "experiment": {
+      "title": "Clip Thí Nghiệm & Mô Phỏng Thực Tế: Bai 11 Muoi",
+      "youtube_url": "https://www.youtube.com/watch?v=b0wF1kY4j9Q",
+      "description": "Quan sát cận cảnh hiện tượng: Thí nghiệm đinh sắt tác dụng với dung dịch Copper(II) sulfate (CuSO4)"
+    }
+  },
+  "Bai_12_Phan_bon_hoa_hoc.md": {
+    "lecture": {
+      "video_title": "KHTN 8 Bai 12 Phan bon hoa hoc | Kết nối tri thức với cuộc sống",
+      "teacher_channel": "VietJack Tiểu học & THCS",
+      "youtube_url": "https://www.youtube.com/watch?v=qX9Qd9xXvCg",
+      "description": "Bài giảng chi tiết chuẩn chương trình GDPT mới: Phân bón hoá học cung cấp các nguyên tố dinh dưỡng khoáng cần thiết cho cây trồng: Đạm (N - phát tri..."
+    },
+    "experiment": {
+      "title": "Clip Thí Nghiệm & Mô Phỏng Thực Tế: Bai 12 Phan bon hoa hoc",
+      "youtube_url": "https://www.youtube.com/watch?v=b0wF1kY4j9Q",
+      "description": "Quan sát cận cảnh hiện tượng: Phân biệt phân đạm và phân kali bằng nhiệt phân"
+    }
+  },
+  "Bai_14_Thuc_hanh_xac_dinh_khoi_luong_rieng.md": {
+    "lecture": {
+      "video_title": "KHTN 8 Bai 14 Thuc hanh xac dinh khoi luong rieng | Kết nối tri thức với cuộc sống",
+      "teacher_channel": "VietJack Tiểu học & THCS",
+      "youtube_url": "https://www.youtube.com/watch?v=qX9Qd9xXvCg",
+      "description": "Bài giảng chi tiết chuẩn chương trình GDPT mới: Xác định khối lượng riêng bằng cách đo độc lập khối lượng $m$ (dùng cân) và thể tích $V$ (dùng thước..."
+    },
+    "experiment": {
+      "title": "Clip Thí Nghiệm & Mô Phỏng Thực Tế: Bai 14 Thuc hanh xac dinh khoi luong rieng",
+      "youtube_url": "https://www.youtube.com/watch?v=b0wF1kY4j9Q",
+      "description": "Quan sát cận cảnh hiện tượng: Quy trình đo khối lượng riêng của hòn sỏi bằng bình chia độ"
+    }
+  },
+  "Bai_15_Ap_suat_tren_mot_be_mat.md": {
+    "lecture": {
+      "video_title": "KHTN 8 Bai 15 Ap suat tren mot be mat | Kết nối tri thức với cuộc sống",
+      "teacher_channel": "VietJack Tiểu học & THCS",
+      "youtube_url": "https://www.youtube.com/watch?v=qX9Qd9xXvCg",
+      "description": "Bài giảng chi tiết chuẩn chương trình GDPT mới: Áp suất là độ lớn của áp lực trên một đơn vị diện tích bị ép: $p = \\dfrac{F}{S}$. Đơn vị chuẩn là Pa..."
+    },
+    "experiment": {
+      "title": "Clip Thí Nghiệm & Mô Phỏng Thực Tế: Bai 15 Ap suat tren mot be mat",
+      "youtube_url": "https://www.youtube.com/watch?v=b0wF1kY4j9Q",
+      "description": "Quan sát cận cảnh hiện tượng: Tính áp suất của một khối kim loại đặt trên mặt bàn"
+    }
+  },
+  "Bai_18_Tac_dung_lam_quay_cua_luc_Moment_luc.md": {
+    "lecture": {
+      "video_title": "KHTN 8 Bai 18 Tac dung lam quay cua luc Moment luc | Kết nối tri thức với cuộc sống",
+      "teacher_channel": "VietJack Tiểu học & THCS",
+      "youtube_url": "https://www.youtube.com/watch?v=qX9Qd9xXvCg",
+      "description": "Bài giảng chi tiết chuẩn chương trình GDPT mới: Tác dụng làm quay của lực đặc trưng bởi Moment lực: $M = F \\cdot d$. Moment lực càng lớn thì tác dụn..."
+    },
+    "experiment": {
+      "title": "Clip Thí Nghiệm & Mô Phỏng Thực Tế: Bai 18 Tac dung lam quay cua luc Moment luc",
+      "youtube_url": "https://www.youtube.com/watch?v=b0wF1kY4j9Q",
+      "description": "Quan sát cận cảnh hiện tượng: Tính moment lực khi dùng cờ-lê xiết bu-lông"
+    }
+  },
+  "Bai_20_Hien_tuong_nhiem_dien_do_co_xat.md": {
+    "lecture": {
+      "video_title": "KHTN 8 Bai 20 Hien tuong nhiem dien do co xat | Kết nối tri thức với cuộc sống",
+      "teacher_channel": "VietJack Tiểu học & THCS",
+      "youtube_url": "https://www.youtube.com/watch?v=qX9Qd9xXvCg",
+      "description": "Bài giảng chi tiết chuẩn chương trình GDPT mới: Vật nhiễm điện có khả năng hút các vật nhẹ khác hoặc phóng tia lửa điện. Bản chất là sự dịch chuyển ..."
+    },
+    "experiment": {
+      "title": "Clip Thí Nghiệm & Mô Phỏng Thực Tế: Bai 20 Hien tuong nhiem dien do co xat",
+      "youtube_url": "https://www.youtube.com/watch?v=b0wF1kY4j9Q",
+      "description": "Quan sát cận cảnh hiện tượng: Thí nghiệm thước nhựa nhiễm điện hút vụn giấy và dòng nước mảnh"
+    }
+  },
+  "Bai_21_Dong_dien_nguon_dien.md": {
+    "lecture": {
+      "video_title": "KHTN 8 Bai 21 Dong dien nguon dien | Kết nối tri thức với cuộc sống",
+      "teacher_channel": "VietJack Tiểu học & THCS",
+      "youtube_url": "https://www.youtube.com/watch?v=qX9Qd9xXvCg",
+      "description": "Bài giảng chi tiết chuẩn chương trình GDPT mới: Dòng điện là dòng chuyển dời có hướng của các điện tích. Nguồn điện tạo ra và duy trì dòng điện tron..."
+    },
+    "experiment": {
+      "title": "Clip Thí Nghiệm & Mô Phỏng Thực Tế: Bai 21 Dong dien nguon dien",
+      "youtube_url": "https://www.youtube.com/watch?v=b0wF1kY4j9Q",
+      "description": "Quan sát cận cảnh hiện tượng: Thí nghiệm kiểm tra vật dẫn điện và vật cách điện"
+    }
+  },
+  "Bai_22_Mach_dien_don_gian.md": {
+    "lecture": {
+      "video_title": "KHTN 8 Bai 22 Mach dien don gian | Kết nối tri thức với cuộc sống",
+      "teacher_channel": "VietJack Tiểu học & THCS",
+      "youtube_url": "https://www.youtube.com/watch?v=qX9Qd9xXvCg",
+      "description": "Bài giảng chi tiết chuẩn chương trình GDPT mới: Mạch điện đơn giản gồm nguồn điện, dây dẫn, công tắc và thiết bị tiêu thụ điện. Chiều dòng điện quy ..."
+    },
+    "experiment": {
+      "title": "Clip Thí Nghiệm & Mô Phỏng Thực Tế: Bai 22 Mach dien don gian",
+      "youtube_url": "https://www.youtube.com/watch?v=b0wF1kY4j9Q",
+      "description": "Quan sát cận cảnh hiện tượng: Lắp ráp mạch điện chiếu sáng bóng đèn pin có khóa K"
+    }
+  },
+  "Bai_23_Tac_dung_cua_dong_dien.md": {
+    "lecture": {
+      "video_title": "KHTN 8 Bai 23 Tac dung cua dong dien | Kết nối tri thức với cuộc sống",
+      "teacher_channel": "VietJack Tiểu học & THCS",
+      "youtube_url": "https://www.youtube.com/watch?v=qX9Qd9xXvCg",
+      "description": "Bài giảng chi tiết chuẩn chương trình GDPT mới: Dòng điện có 5 tác dụng chính: Tác dụng nhiệt (bàn là, bếp điện), phát sáng (đèn LED, đèn sợi đốt), ..."
+    },
+    "experiment": {
+      "title": "Clip Thí Nghiệm & Mô Phỏng Thực Tế: Bai 23 Tac dung cua dong dien",
+      "youtube_url": "https://www.youtube.com/watch?v=b0wF1kY4j9Q",
+      "description": "Quan sát cận cảnh hiện tượng: Chế tạo nam châm điện từ đinh sắt và cuộn dây đồng"
+    }
+  },
+  "Bai_24_Cuong_do_dong_dien_va_hieu_dien_the.md": {
+    "lecture": {
+      "video_title": "KHTN 8 Bai 24 Cuong do dong dien va hieu dien the | Kết nối tri thức với cuộc sống",
+      "teacher_channel": "VietJack Tiểu học & THCS",
+      "youtube_url": "https://www.youtube.com/watch?v=qX9Qd9xXvCg",
+      "description": "Bài giảng chi tiết chuẩn chương trình GDPT mới: Cường độ dòng điện ($I$, đơn vị Ampe $\\mathrm{A}$) đặc trưng cho độ mạnh yếu của dòng điện. Hiệu điệ..."
+    },
+    "experiment": {
+      "title": "Clip Thí Nghiệm & Mô Phỏng Thực Tế: Bai 24 Cuong do dong dien va hieu dien the",
+      "youtube_url": "https://www.youtube.com/watch?v=b0wF1kY4j9Q",
+      "description": "Quan sát cận cảnh hiện tượng: Đo cường độ dòng điện qua bóng đèn pin 3V"
+    }
+  },
+  "Bai_25_Thuc_hanh_do_cuong_do_dong_dien_va_hieu_dien_the.md": {
+    "lecture": {
+      "video_title": "KHTN 8 Bai 25 Thuc hanh do cuong do dong dien va hieu dien the | Kết nối tri thức với cuộc sống",
+      "teacher_channel": "VietJack Tiểu học & THCS",
+      "youtube_url": "https://www.youtube.com/watch?v=qX9Qd9xXvCg",
+      "description": "Bài giảng chi tiết chuẩn chương trình GDPT mới: Trong đoạn mạch nối tiếp: Cường độ dòng điện bằng nhau tại mọi điểm ($I = I_1 = I_2$); Hiệu điện thế..."
+    },
+    "experiment": {
+      "title": "Clip Thí Nghiệm & Mô Phỏng Thực Tế: Bai 25 Thuc hanh do cuong do dong dien va hieu dien the",
+      "youtube_url": "https://www.youtube.com/watch?v=b0wF1kY4j9Q",
+      "description": "Quan sát cận cảnh hiện tượng: Đo hiệu điện thế hai đầu hai bóng đèn mắc nối tiếp"
+    }
+  },
+  "Bai_26_Nang_luong_nhiet_va_noi_nang.md": {
+    "lecture": {
+      "video_title": "KHTN 8 Bai 26 Nang luong nhiet va noi nang | Kết nối tri thức với cuộc sống",
+      "teacher_channel": "VietJack Tiểu học & THCS",
+      "youtube_url": "https://www.youtube.com/watch?v=qX9Qd9xXvCg",
+      "description": "Bài giảng chi tiết chuẩn chương trình GDPT mới: Nội năng của một vật là tổng động năng và thế năng của các phân tử cấu tạo nên vật. Nhiệt độ càng ca..."
+    },
+    "experiment": {
+      "title": "Clip Thí Nghiệm & Mô Phỏng Thực Tế: Bai 26 Nang luong nhiet va noi nang",
+      "youtube_url": "https://www.youtube.com/watch?v=b0wF1kY4j9Q",
+      "description": "Quan sát cận cảnh hiện tượng: Thí nghiệm nén khí trong ống làm bốc cháy mẩu bông gòn"
+    }
+  },
+  "Bai_27_Thuc_hanh_do_nang_luong_nhiet_bang_joulemeter.md": {
+    "lecture": {
+      "video_title": "KHTN 8 Bai 27 Thuc hanh do nang luong nhiet bang joulemeter | Kết nối tri thức với cuộc sống",
+      "teacher_channel": "VietJack Tiểu học & THCS",
+      "youtube_url": "https://www.youtube.com/watch?v=qX9Qd9xXvCg",
+      "description": "Bài giảng chi tiết chuẩn chương trình GDPT mới: Joulemeter đo điện năng tiêu thụ chuyển hóa thành nhiệt năng cấp cho nước trong nhiệt lượng kế: $A =..."
+    },
+    "experiment": {
+      "title": "Clip Thí Nghiệm & Mô Phỏng Thực Tế: Bai 27 Thuc hanh do nang luong nhiet bang joulemeter",
+      "youtube_url": "https://www.youtube.com/watch?v=b0wF1kY4j9Q",
+      "description": "Quan sát cận cảnh hiện tượng: Xác định nhiệt lượng cần để đun nóng 150g nước tăng thêm 15°C"
+    }
+  },
+  "Bai_28_Su_truyen_nhiet.md": {
+    "lecture": {
+      "video_title": "KHTN 8 Bai 28 Su truyen nhiet | Kết nối tri thức với cuộc sống",
+      "teacher_channel": "VietJack Tiểu học & THCS",
+      "youtube_url": "https://www.youtube.com/watch?v=qX9Qd9xXvCg",
+      "description": "Bài giảng chi tiết chuẩn chương trình GDPT mới: Có 3 hình thức truyền nhiệt: Dẫn nhiệt (chủ yếu trong chất rắn, kim loại dẫn tốt nhất); Đối lưu (chủ..."
+    },
+    "experiment": {
+      "title": "Clip Thí Nghiệm & Mô Phỏng Thực Tế: Bai 28 Su truyen nhiet",
+      "youtube_url": "https://www.youtube.com/watch?v=b0wF1kY4j9Q",
+      "description": "Quan sát cận cảnh hiện tượng: Khảo sát khả năng dẫn nhiệt của đồng, nhôm và thủy tinh"
+    }
+  },
+  "Bai_29_Su_no_vi_nhiet.md": {
+    "lecture": {
+      "video_title": "KHTN 8 Bai 29 Su no vi nhiet | Kết nối tri thức với cuộc sống",
+      "teacher_channel": "VietJack Tiểu học & THCS",
+      "youtube_url": "https://www.youtube.com/watch?v=qX9Qd9xXvCg",
+      "description": "Bài giảng chi tiết chuẩn chương trình GDPT mới: Chất khí nở vì nhiệt nhiều hơn chất lỏng, chất lỏng nở vì nhiệt nhiều hơn chất rắn: Khí > Lỏng > Rắn..."
+    },
+    "experiment": {
+      "title": "Clip Thí Nghiệm & Mô Phỏng Thực Tế: Bai 29 Su no vi nhiet",
+      "youtube_url": "https://www.youtube.com/watch?v=b0wF1kY4j9Q",
+      "description": "Quan sát cận cảnh hiện tượng: Nguyên lý hoạt động của rơle nhiệt trong bàn là điện"
+    }
+  },
+  "Bai_32_Dinh_duong_va_tieu_hoa_o_nguoi.md": {
+    "lecture": {
+      "video_title": "KHTN 8 Bai 32 Dinh duong va tieu hoa o nguoi | Kết nối tri thức với cuộc sống",
+      "teacher_channel": "VietJack Tiểu học & THCS",
+      "youtube_url": "https://www.youtube.com/watch?v=qX9Qd9xXvCg",
+      "description": "Bài giảng chi tiết chuẩn chương trình GDPT mới: Hệ tiêu hóa biến đổi thức ăn thành các chất dinh dưỡng hòa tan mà cơ thể hấp thụ được (qua nhai nghi..."
+    },
+    "experiment": {
+      "title": "Clip Thí Nghiệm & Mô Phỏng Thực Tế: Bai 32 Dinh duong va tieu hoa o nguoi",
+      "youtube_url": "https://www.youtube.com/watch?v=b0wF1kY4j9Q",
+      "description": "Quan sát cận cảnh hiện tượng: Thí nghiệm chứng minh tác dụng của enzyme amylase trong nước bọt lên hồ tinh bột"
+    }
+  },
+  "Bai_33_Mau_va_he_tuan_hoan_cua_co_the_nguoi.md": {
+    "lecture": {
+      "video_title": "KHTN 8 Bai 33 Mau va he tuan hoan cua co the nguoi | Kết nối tri thức với cuộc sống",
+      "teacher_channel": "VietJack Tiểu học & THCS",
+      "youtube_url": "https://www.youtube.com/watch?v=qX9Qd9xXvCg",
+      "description": "Bài giảng chi tiết chuẩn chương trình GDPT mới: Máu gồm huyết tương (55%) và tế bào máu (45%: Hồng cầu mang O2/CO2, Bạch cầu miễn dịch thực bào, Tiể..."
+    },
+    "experiment": {
+      "title": "Clip Thí Nghiệm & Mô Phỏng Thực Tế: Bai 33 Mau va he tuan hoan cua co the nguoi",
+      "youtube_url": "https://www.youtube.com/watch?v=b0wF1kY4j9Q",
+      "description": "Quan sát cận cảnh hiện tượng: Sơ đồ truyền máu an toàn hệ ABO"
+    }
+  },
+  "Bai_34_He_ho_hap_o_nguoi.md": {
+    "lecture": {
+      "video_title": "KHTN 8 Bai 34 He ho hap o nguoi | Kết nối tri thức với cuộc sống",
+      "teacher_channel": "VietJack Tiểu học & THCS",
+      "youtube_url": "https://www.youtube.com/watch?v=qX9Qd9xXvCg",
+      "description": "Bài giảng chi tiết chuẩn chương trình GDPT mới: Hệ hô hấp gồm đường dẫn khí (mũi, họng, thanh quản, khí quản, phế quản - làm ấm, ẩm, lọc bụi) và hai..."
+    },
+    "experiment": {
+      "title": "Clip Thí Nghiệm & Mô Phỏng Thực Tế: Bai 34 He ho hap o nguoi",
+      "youtube_url": "https://www.youtube.com/watch?v=b0wF1kY4j9Q",
+      "description": "Quan sát cận cảnh hiện tượng: Mô hình hoạt động của phổi bằng chai nhựa và bóng bay"
+    }
+  },
+  "Bai_35_He_bai_tiet_o_nguoi.md": {
+    "lecture": {
+      "video_title": "KHTN 8 Bai 35 He bai tiet o nguoi | Kết nối tri thức với cuộc sống",
+      "teacher_channel": "VietJack Tiểu học & THCS",
+      "youtube_url": "https://www.youtube.com/watch?v=qX9Qd9xXvCg",
+      "description": "Bài giảng chi tiết chuẩn chương trình GDPT mới: Thận là cơ quan bài tiết nước tiểu chủ yếu của cơ thể. Mỗi quả thận có khoảng 1 triệu đơn vị chức nă..."
+    },
+    "experiment": {
+      "title": "Clip Thí Nghiệm & Mô Phỏng Thực Tế: Bai 35 He bai tiet o nguoi",
+      "youtube_url": "https://www.youtube.com/watch?v=b0wF1kY4j9Q",
+      "description": "Quan sát cận cảnh hiện tượng: Phân tích dấu hiệu bệnh lý qua xét nghiệm nước tiểu"
+    }
+  },
+  "Bai_36_Dieu_hoa_moi_truong_trong_cua_co_the_nguoi.md": {
+    "lecture": {
+      "video_title": "KHTN 8 Bai 36 Dieu hoa moi truong trong cua co the nguoi | Kết nối tri thức với cuộc sống",
+      "teacher_channel": "VietJack Tiểu học & THCS",
+      "youtube_url": "https://www.youtube.com/watch?v=qX9Qd9xXvCg",
+      "description": "Bài giảng chi tiết chuẩn chương trình GDPT mới: Môi trường trong cơ thể (nội môi) gồm máu, dịch mô và bạch huyết. Cân bằng nội môi (duy trì ổn định ..."
+    },
+    "experiment": {
+      "title": "Clip Thí Nghiệm & Mô Phỏng Thực Tế: Bai 36 Dieu hoa moi truong trong cua co the nguoi",
+      "youtube_url": "https://www.youtube.com/watch?v=b0wF1kY4j9Q",
+      "description": "Quan sát cận cảnh hiện tượng: Cơ chế tự điều hòa đường huyết hoàn hảo của cơ thể"
+    }
+  },
+  "Bai_37_He_than_kinh_va_cac_giac_quan_o_nguoi.md": {
+    "lecture": {
+      "video_title": "KHTN 8 Bai 37 He than kinh va cac giac quan o nguoi | Kết nối tri thức với cuộc sống",
+      "teacher_channel": "VietJack Tiểu học & THCS",
+      "youtube_url": "https://www.youtube.com/watch?v=qX9Qd9xXvCg",
+      "description": "Bài giảng chi tiết chuẩn chương trình GDPT mới: Hệ thần kinh gồm trung ương (Não bộ, Tủy sống) và ngoại biên (Dây thần kinh, Hạch thần kinh). Phản x..."
+    },
+    "experiment": {
+      "title": "Clip Thí Nghiệm & Mô Phỏng Thực Tế: Bai 37 He than kinh va cac giac quan o nguoi",
+      "youtube_url": "https://www.youtube.com/watch?v=b0wF1kY4j9Q",
+      "description": "Quan sát cận cảnh hiện tượng: Thử nghiệm phản xạ gân bánh chè (đầu gối)"
+    }
+  },
+  "Bai_38_He_noi_tiet_o_nguoi.md": {
+    "lecture": {
+      "video_title": "KHTN 8 Bai 38 He noi tiet o nguoi | Kết nối tri thức với cuộc sống",
+      "teacher_channel": "VietJack Tiểu học & THCS",
+      "youtube_url": "https://www.youtube.com/watch?v=qX9Qd9xXvCg",
+      "description": "Bài giảng chi tiết chuẩn chương trình GDPT mới: Hệ nội tiết điều hòa các quá trình sinh lý thông qua các hormone tiết thẳng vào máu. Tuyến yên là tu..."
+    },
+    "experiment": {
+      "title": "Clip Thí Nghiệm & Mô Phỏng Thực Tế: Bai 38 He noi tiet o nguoi",
+      "youtube_url": "https://www.youtube.com/watch?v=b0wF1kY4j9Q",
+      "description": "Quan sát cận cảnh hiện tượng: Hiệu ứng hormone Adrenaline khi đối mặt với tình huống khẩn cấp"
+    }
+  },
+  "Bai_39_Da_va_dieu_hoa_than_nhiet_o_nguoi.md": {
+    "lecture": {
+      "video_title": "KHTN 8 Bai 39 Da va dieu hoa than nhiet o nguoi | Kết nối tri thức với cuộc sống",
+      "teacher_channel": "VietJack Tiểu học & THCS",
+      "youtube_url": "https://www.youtube.com/watch?v=qX9Qd9xXvCg",
+      "description": "Bài giảng chi tiết chuẩn chương trình GDPT mới: Da gồm 3 lớp: Biểu bì (tầng sừng, tế bào sắc tố melanin chống tia UV), Lớp bì (thụ quan, tuyến mồ hô..."
+    },
+    "experiment": {
+      "title": "Clip Thí Nghiệm & Mô Phỏng Thực Tế: Bai 39 Da va dieu hoa than nhiet o nguoi",
+      "youtube_url": "https://www.youtube.com/watch?v=b0wF1kY4j9Q",
+      "description": "Quan sát cận cảnh hiện tượng: Quan sát hiện tượng sởn gai ốc và run cơ khi bị lạnh đột ngột"
+    }
+  },
+  "Bai_40_Sinh_san_o_nguoi.md": {
+    "lecture": {
+      "video_title": "KHTN 8 Bai 40 Sinh san o nguoi | Kết nối tri thức với cuộc sống",
+      "teacher_channel": "VietJack Tiểu học & THCS",
+      "youtube_url": "https://www.youtube.com/watch?v=qX9Qd9xXvCg",
+      "description": "Bài giảng chi tiết chuẩn chương trình GDPT mới: Hệ sinh dục nam tạo tinh trùng (tinh hoàn); Hệ sinh dục nữ tạo trứng (buồng trứng). Thụ tinh là sự k..."
+    },
+    "experiment": {
+      "title": "Clip Thí Nghiệm & Mô Phỏng Thực Tế: Bai 40 Sinh san o nguoi",
+      "youtube_url": "https://www.youtube.com/watch?v=b0wF1kY4j9Q",
+      "description": "Quan sát cận cảnh hiện tượng: Hiểu biết khoa học về chu kỳ kinh nguyệt và bảo vệ bản thân"
+    }
+  },
+  "Bai_41_Moi_truong_va_cac_nhan_to_sinh_thai.md": {
+    "lecture": {
+      "video_title": "KHTN 8 Bai 41 Moi truong va cac nhan to sinh thai | Kết nối tri thức với cuộc sống",
+      "teacher_channel": "VietJack Tiểu học & THCS",
+      "youtube_url": "https://www.youtube.com/watch?v=qX9Qd9xXvCg",
+      "description": "Bài giảng chi tiết chuẩn chương trình GDPT mới: Môi trường là nơi sinh sống của sinh vật gồm 4 loại: Môi trường cạn, nước, đất và sinh vật. Nhân tố ..."
+    },
+    "experiment": {
+      "title": "Clip Thí Nghiệm & Mô Phỏng Thực Tế: Bai 41 Moi truong va cac nhan to sinh thai",
+      "youtube_url": "https://www.youtube.com/watch?v=b0wF1kY4j9Q",
+      "description": "Quan sát cận cảnh hiện tượng: Thí nghiệm so sánh cây trồng trong bóng râm và ngoài sáng"
+    }
+  },
+  "Bai_42_Quan_the_sinh_vat.md": {
+    "lecture": {
+      "video_title": "KHTN 8 Bai 42 Quan the sinh vat | Kết nối tri thức với cuộc sống",
+      "teacher_channel": "VietJack Tiểu học & THCS",
+      "youtube_url": "https://www.youtube.com/watch?v=qX9Qd9xXvCg",
+      "description": "Bài giảng chi tiết chuẩn chương trình GDPT mới: Quần thể sinh vật là tập hợp các cá thể cùng loài, cùng sống trong một khu vực xác định ở một thời đ..."
+    },
+    "experiment": {
+      "title": "Clip Thí Nghiệm & Mô Phỏng Thực Tế: Bai 42 Quan the sinh vat",
+      "youtube_url": "https://www.youtube.com/watch?v=b0wF1kY4j9Q",
+      "description": "Quan sát cận cảnh hiện tượng: Đánh giá mật độ quần thể cá mè trong ao nuôi"
+    }
+  },
+  "Bai_43_Quan_xa_sinh_vat.md": {
+    "lecture": {
+      "video_title": "KHTN 8 Bai 43 Quan xa sinh vat | Kết nối tri thức với cuộc sống",
+      "teacher_channel": "VietJack Tiểu học & THCS",
+      "youtube_url": "https://www.youtube.com/watch?v=qX9Qd9xXvCg",
+      "description": "Bài giảng chi tiết chuẩn chương trình GDPT mới: Quần xã sinh vật là tập hợp các quần thể thuộc nhiều loài khác nhau cùng sống trong một sinh cảnh. Đ..."
+    },
+    "experiment": {
+      "title": "Clip Thí Nghiệm & Mô Phỏng Thực Tế: Bai 43 Quan xa sinh vat",
+      "youtube_url": "https://www.youtube.com/watch?v=b0wF1kY4j9Q",
+      "description": "Quan sát cận cảnh hiện tượng: Phân tích cấu trúc phân tầng thẳng đứng của rừng nhiệt đới"
+    }
+  },
+  "Bai_44_He_sinh_thai.md": {
+    "lecture": {
+      "video_title": "KHTN 8 Bai 44 He sinh thai | Kết nối tri thức với cuộc sống",
+      "teacher_channel": "VietJack Tiểu học & THCS",
+      "youtube_url": "https://www.youtube.com/watch?v=qX9Qd9xXvCg",
+      "description": "Bài giảng chi tiết chuẩn chương trình GDPT mới: Hệ sinh thái = Quần xã sinh vật + Sinh cảnh (Môi trường vô sinh). Thành phần gồm: Sinh vật sản xuất ..."
+    },
+    "experiment": {
+      "title": "Clip Thí Nghiệm & Mô Phỏng Thực Tế: Bai 44 He sinh thai",
+      "youtube_url": "https://www.youtube.com/watch?v=b0wF1kY4j9Q",
+      "description": "Quan sát cận cảnh hiện tượng: Vẽ lưới thức ăn của hệ sinh thái đồng ruộng"
+    }
+  },
+  "Bai_45_Sinh_quyen.md": {
+    "lecture": {
+      "video_title": "KHTN 8 Bai 45 Sinh quyen | Kết nối tri thức với cuộc sống",
+      "teacher_channel": "VietJack Tiểu học & THCS",
+      "youtube_url": "https://www.youtube.com/watch?v=qX9Qd9xXvCg",
+      "description": "Bài giảng chi tiết chuẩn chương trình GDPT mới: Sinh quyển là quyển chứa toàn bộ sự sống trên Trái Đất, dày khoảng 20km, bao gồm lớp vỏ phong hóa (t..."
+    },
+    "experiment": {
+      "title": "Clip Thí Nghiệm & Mô Phỏng Thực Tế: Bai 45 Sinh quyen",
+      "youtube_url": "https://www.youtube.com/watch?v=b0wF1kY4j9Q",
+      "description": "Quan sát cận cảnh hiện tượng: Khảo sát sự thay đổi thảm thực vật theo vĩ độ từ xích đạo về hai cực"
+    }
+  },
+  "Bai_46_Can_bang_tu_nhien.md": {
+    "lecture": {
+      "video_title": "KHTN 8 Bai 46 Can bang tu nhien | Kết nối tri thức với cuộc sống",
+      "teacher_channel": "VietJack Tiểu học & THCS",
+      "youtube_url": "https://www.youtube.com/watch?v=qX9Qd9xXvCg",
+      "description": "Bài giảng chi tiết chuẩn chương trình GDPT mới: Cân bằng tự nhiên là trạng thái ổn định động của hệ sinh thái, số lượng cá thể dao động quanh mức câ..."
+    },
+    "experiment": {
+      "title": "Clip Thí Nghiệm & Mô Phỏng Thực Tế: Bai 46 Can bang tu nhien",
+      "youtube_url": "https://www.youtube.com/watch?v=b0wF1kY4j9Q",
+      "description": "Quan sát cận cảnh hiện tượng: Bài học từ chiến dịch tiêu diệt chim sẻ năm 1958"
+    }
+  },
+  "Bai_47_Bao_ve_moi_truong.md": {
+    "lecture": {
+      "video_title": "KHTN 8 Bai 47 Bao ve moi truong | Kết nối tri thức với cuộc sống",
+      "teacher_channel": "VietJack Tiểu học & THCS",
+      "youtube_url": "https://www.youtube.com/watch?v=qX9Qd9xXvCg",
+      "description": "Bài giảng chi tiết chuẩn chương trình GDPT mới: Bảo vệ môi trường là trách nhiệm sống còn. Ô nhiễm môi trường (không khí, nước, đất, rác thải nhựa) ..."
+    },
+    "experiment": {
+      "title": "Clip Thí Nghiệm & Mô Phỏng Thực Tế: Bai 47 Bao ve moi truong",
+      "youtube_url": "https://www.youtube.com/watch?v=b0wF1kY4j9Q",
+      "description": "Quan sát cận cảnh hiện tượng: Dự án nhỏ của học sinh: Phân loại rác tại nguồn ở trường học"
+    }
+  }
+}

@@ -1,0 +1,2007 @@
+{
+  "Bai_02_Phan_ung_hoa_hoc.md": [
+    {
+      "id": "q2_1",
+      "level": "Dễ",
+      "question": "Hiện tượng nào sau đây là **biến đổi hoá học**?",
+      "options": [
+        "Nước đá tan chảy thành nước lỏng",
+        "Thổi thủy tinh nóng chảy thành chai lọ",
+        "Sắt để lâu ngày ngoài không khí ẩm bị gỉ sét",
+        "Hòa tan đường cát vào nước thu được nước đường"
+      ],
+      "correct": 2,
+      "explanation": "Sắt gỉ là do phản ứng giữa Fe với O2 và hơi nước tạo thành chất mới là gỉ sắt (Fe2O3.nH2O). Các trường hợp còn lại chỉ biến đổi trạng thái vật lí."
+    },
+    {
+      "id": "q2_2",
+      "level": "Dễ",
+      "question": "Trong một phản ứng hoá học, các chất ban đầu tham gia biến đổi được gọi là:",
+      "options": [
+        "Sản phẩm",
+        "Chất xúc tác",
+        "Chất phản ứng (hoặc chất tham gia)",
+        "Dung môi"
+      ],
+      "correct": 2,
+      "explanation": "Chất ban đầu bị biến đổi trong phản ứng gọi là chất phản ứng (hoặc chất tham gia); chất mới sinh ra gọi là sản phẩm."
+    },
+    {
+      "id": "q2_3",
+      "level": "Vừa",
+      "question": "Dấu hiệu nào sau đây **chắc chắn** chứng tỏ có phản ứng hoá học xảy ra?",
+      "options": [
+        "Chất chuyển từ thể rắn sang thể lỏng khi đun nóng",
+        "Có sự tạo thành chất mới (kết tủa, chất khí mới, đổi màu hóa học)",
+        "Thể tích chất bị giãn nở ra khi nhiệt độ tăng",
+        "Chất bị nghiền nhỏ thành các hạt mịn"
+      ],
+      "correct": 1,
+      "explanation": "Bản chất duy nhất của biến đổi hoá học là có chất mới sinh ra với tính chất khác hẳn chất ban đầu."
+    },
+    {
+      "id": "q2_4",
+      "level": "Vừa",
+      "question": "Phản ứng tôi vôi sống: $\\mathrm{CaO} + \\mathrm{H}_2\\mathrm{O} \\rightarrow \\mathrm{Ca(OH)}_2$ làm nước sôi sùng sục và tỏa nhiệt dữ dội thuộc loại phản ứng gì?",
+      "options": [
+        "Phản ứng thu nhiệt",
+        "Phản ứng toả nhiệt",
+        "Biến đổi vật lí",
+        "Phản ứng quang hợp"
+      ],
+      "correct": 1,
+      "explanation": "Phản ứng giải phóng năng lượng ra môi trường dưới dạng nhiệt năng làm nhiệt độ tăng lên gọi là phản ứng toả nhiệt."
+    },
+    {
+      "id": "q2_5",
+      "level": "Thử thách",
+      "question": "Trong phản ứng hoá học giữa khí hydrogen và khí oxygen tạo thành nước: $2\\mathrm{H}_2 + \\mathrm{O}_2 \\xrightarrow{t^\\circ} 2\\mathrm{H}_2\\mathrm{O}$, yếu tố nào sau đây **thay đổi** và yếu tố nào **giữ nguyên**?",
+      "options": [
+        "Số nguyên tử mỗi nguyên tố thay đổi; liên kết giữa các nguyên tử giữ nguyên",
+        "Liên kết giữa các nguyên tử thay đổi; số lượng nguyên tử của mỗi nguyên tố giữ nguyên",
+        "Cả số lượng nguyên tử và liên kết giữa các nguyên tử đều thay đổi",
+        "Cả số lượng nguyên tử và liên kết giữa các nguyên tử đều giữ nguyên"
+      ],
+      "correct": 1,
+      "explanation": "Trong phản ứng hoá học, liên kết giữa các nguyên tử bị bẻ gãy và tái tạo liên kết mới, trong khi số lượng nguyên tử của từng nguyên tố được bảo toàn tuyệt đối."
+    }
+  ],
+  "Bai_03_Mol_va_ti_khoi_chat_khi.md": [
+    {
+      "id": "q3_1",
+      "level": "Dễ",
+      "question": "Ở điều kiện chuẩn ($25^\\circ\\mathrm{C}, 1\\mathrm{ bar}$), thể tích của $1\\text{ mol}$ chất khí bất kì là bao nhiêu?",
+      "options": [
+        "22,4 lít",
+        "24,79 lít",
+        "25,0 lít",
+        "1,0 lít"
+      ],
+      "correct": 1,
+      "explanation": "Theo chuẩn IUPAC mới trong bộ sách Kết nối tri thức, ở điều kiện chuẩn (25°C, 1 bar), 1 mol chất khí bất kì đều chiếm thể tích là 24,79 lít."
+    },
+    {
+      "id": "q3_2",
+      "level": "Dễ",
+      "question": "Hằng số Avogadro ($N_A$) có giá trị xấp xỉ bằng bao nhiêu?",
+      "options": [
+        "$6{,}022 \\times 10^{23}$",
+        "$6{,}022 \\times 10^{22}$",
+        "$3{,}14 \\times 10^{23}$",
+        "$9{,}81 \\times 10^{23}$"
+      ],
+      "correct": 0,
+      "explanation": "Hằng số Avogadro ký hiệu là $N_A \\approx 6{,}022 \\times 10^{23}$, là số hạt vi mô (nguyên tử/phân tử) có trong 1 mol chất."
+    },
+    {
+      "id": "q3_3",
+      "level": "Vừa",
+      "question": "Tính thể tích của $0{,}4\\text{ mol}$ khí $\\mathrm{N}_2$ ở điều kiện chuẩn ($25^\\circ\\mathrm{C}, 1\\mathrm{ bar}$):",
+      "options": [
+        "8,96 lít",
+        "9,916 lít",
+        "11,2 lít",
+        "12,395 lít"
+      ],
+      "correct": 1,
+      "explanation": "$V = n \\cdot 24{,}79 = 0{,}4 \\cdot 24{,}79 = 9{,}916\\text{ (lít)}$."
+    },
+    {
+      "id": "q3_4",
+      "level": "Vừa",
+      "question": "Tỉ khối của khí Methane ($\\mathrm{CH}_4$, khối lượng mol $16\\mathrm{ g/mol}$) đối với không khí ($M_{\\text{kk}} \\approx 29$) bằng:",
+      "options": [
+        "xấp xỉ 0,55 (nhẹ hơn không khí)",
+        "xấp xỉ 1,81 (nặng hơn không khí)",
+        "xấp xỉ 1,00 (bằng không khí)",
+        "xấp xỉ 2,00 (nặng hơn không khí)"
+      ],
+      "correct": 0,
+      "explanation": "$d = 16 / 29 \\approx 0{,}55 < 1$, do đó khí methane nhẹ gần bằng một nửa không khí và bay lên cao."
+    },
+    {
+      "id": "q3_5",
+      "level": "Thử thách",
+      "question": "Một hỗn hợp khí X gồm $0{,}1\\text{ mol } \\mathrm{O}_2$ và $0{,}4\\text{ mol } \\mathrm{N}_2$. Khối lượng mol trung bình của hỗn hợp khí X là bao nhiêu?",
+      "options": [
+        "28,8 g/mol",
+        "30,0 g/mol",
+        "29,0 g/mol",
+        "30,4 g/mol"
+      ],
+      "correct": 0,
+      "explanation": "Tổng khối lượng: $m = 0{,}1 \\cdot 32 + 0{,}4 \\cdot 28 = 3{,}2 + 11{,}2 = 14{,}4\\text{ (g)}$. Tổng số mol: $n = 0{,}1 + 0{,}4 = 0{,}5\\text{ (mol)}$. Khối lượng mol trung bình: $M = m / n = 14{,}4 / 0{,}5 = 28{,}8\\mathrm{ (g/mol)}$."
+    }
+  ],
+  "Bai_04_Dung_dich_va_nong_do.md": [
+    {
+      "id": "q4_1",
+      "level": "Dễ",
+      "question": "Hòa tan muối ăn vào nước thu được nước muối. Trong đó nước đóng vai trò là:",
+      "options": [
+        "Chất tan",
+        "Dung môi",
+        "Chất xúc tác",
+        "Nhũ tương"
+      ],
+      "correct": 1,
+      "explanation": "Nước là môi trường phân tán hòa tan muối nên nước là dung môi; muối ăn là chất tan."
+    },
+    {
+      "id": "q4_2",
+      "level": "Dễ",
+      "question": "Dung dịch bão hoà ở một nhiệt độ xác định là dung dịch:",
+      "options": [
+        "Không thể hòa tan thêm chất tan đó nữa",
+        "Có thể hòa tan thêm rất nhiều chất tan đó",
+        "Chỉ chứa chất lỏng mà không có chất tan",
+        "Đang ở nhiệt độ sôi 100°C"
+      ],
+      "correct": 0,
+      "explanation": "Dung dịch bão hoà là dung dịch không thể hòa tan thêm chất tan đó ở nhiệt độ và áp suất xác định."
+    },
+    {
+      "id": "q4_3",
+      "level": "Vừa",
+      "question": "Hòa tan $25\\text{ gam } \\mathrm{KCl}$ vào $100\\text{ gam nước}$. Nồng độ phần trăm ($C\\%$) của dung dịch là:",
+      "options": [
+        "25%",
+        "20%",
+        "15%",
+        "30%"
+      ],
+      "correct": 1,
+      "explanation": "Khối lượng dung dịch $m_{\\text{dd}} = 25 + 100 = 125\\text{ (g)}$. Nồng độ phần trăm: $C\\% = (25 / 125) \\cdot 100\\% = 20\\%$."
+    },
+    {
+      "id": "q4_4",
+      "level": "Vừa",
+      "question": "Hòa tan $0{,}5\\text{ mol } \\mathrm{NaOH}$ vào nước để được $250\\text{ mL}$ dung dịch. Nồng độ mol ($C_M$) của dung dịch là:",
+      "options": [
+        "0,5 M",
+        "1,0 M",
+        "2,0 M",
+        "4,0 M"
+      ],
+      "correct": 2,
+      "explanation": "Đổi thể tích $V = 250\\text{ mL} = 0{,}25\\text{ L}$. Nồng độ mol: $C_M = n / V = 0{,}5 / 0{,}25 = 2{,}0\\mathrm{ (mol/L)}$ (hay 2M)."
+    },
+    {
+      "id": "q4_5",
+      "level": "Thử thách",
+      "question": "Cần lấy bao nhiêu gam nước để hòa tan $40\\text{ gam } \\mathrm{NaCl}$ thu được dung dịch có nồng độ $16\\%$?",
+      "options": [
+        "250 gam",
+        "210 gam",
+        "200 gam",
+        "160 gam"
+      ],
+      "correct": 1,
+      "explanation": "Khối lượng dung dịch: $m_{\\text{dd}} = (m_{\\text{ct}} \\cdot 100\\%) / C\\% = (40 \\cdot 100) / 16 = 250\\text{ (g)}$. Lượng nước cần lấy: $m_{\\text{nước}} = m_{\\text{dd}} - m_{\\text{ct}} = 250 - 40 = 210\\text{ (g)}$."
+    }
+  ],
+  "Bai_05_Dinh_luat_bao_toan_khoi_luong_va_PTHH.md": [
+    {
+      "id": "q5_1",
+      "level": "Dễ",
+      "question": "Nội dung định luật bảo toàn khối lượng khẳng định điều gì trong một phản ứng hoá học?",
+      "options": [
+        "Tổng khối lượng các chất sản phẩm bằng tổng khối lượng các chất phản ứng",
+        "Khối lượng của từng chất tham gia không đổi",
+        "Khối lượng sản phẩm luôn lớn hơn khối lượng chất phản ứng",
+        "Số lượng phân tử trước và sau phản ứng luôn bằng nhau"
+      ],
+      "correct": 0,
+      "explanation": "Trong phản ứng hoá học, tổng khối lượng các chất sản phẩm luôn bằng tổng khối lượng các chất phản ứng."
+    },
+    {
+      "id": "q5_2",
+      "level": "Dễ",
+      "question": "Khi cân bằng phương trình hoá học, ta chỉ được phép làm thao tác nào?",
+      "options": [
+        "Thay đổi chỉ số chân trong công thức hoá học",
+        "Thêm hệ số nguyên ở phía trước công thức hoá học",
+        "Xóa bớt nguyên tử của chất phản ứng",
+        "Viết hoa toàn bộ các ký hiệu nguyên tố"
+      ],
+      "correct": 1,
+      "explanation": "Chỉ được thêm hệ số nguyên ở phía trước công thức hoá học. Tuyệt đối không được thay đổi các chỉ số chân trong công thức."
+    },
+    {
+      "id": "q5_3",
+      "level": "Vừa",
+      "question": "Cho phản ứng: $a\\mathrm{Al} + b\\mathrm{O}_2 \\xrightarrow{t^\\circ} c\\mathrm{Al}_2\\mathrm{O}_3$. Bộ hệ số tối giản $(a, b, c)$ lần lượt là:",
+      "options": [
+        "2, 3, 1",
+        "4, 3, 2",
+        "2, 1, 2",
+        "4, 2, 3"
+      ],
+      "correct": 1,
+      "explanation": "Để cân bằng số nguyên tử O: bên phải có 3, bên trái có 2 $\\rightarrow$ BCNN là 6. Hệ số của O2 là 3, hệ số của Al2O3 là 2. Khi đó có 4 nguyên tử Al $\\rightarrow$ Hệ số của Al là 4: $4\\mathrm{Al} + 3\\mathrm{O}_2 \\rightarrow 2\\mathrm{Al}_2\\mathrm{O}_3$."
+    },
+    {
+      "id": "q5_4",
+      "level": "Vừa",
+      "question": "Nung $20\\text{ gam } \\mathrm{CaCO}_3$ thu được $11{,}2\\text{ gam } \\mathrm{CaO}$ và khí $\\mathrm{CO}_2$. Khối lượng khí $\\mathrm{CO}_2$ thoát ra là:",
+      "options": [
+        "8,8 gam",
+        "10,0 gam",
+        "11,2 gam",
+        "31,2 gam"
+      ],
+      "correct": 0,
+      "explanation": "Theo định luật bảo toàn khối lượng: $m_{\\mathrm{CO}_2} = m_{\\mathrm{CaCO}_3} - m_{\\mathrm{CaO}} = 20 - 11{,}2 = 8{,}8\\text{ (g)}$."
+    },
+    {
+      "id": "q5_5",
+      "level": "Thử thách",
+      "question": "Đốt cháy hoàn toàn $m\\text{ gam}$ kim loại sắt (Fe) trong bình kín chứa $4{,}8\\text{ gam}$ khí oxygen ($\\mathrm{O}_2$) tạo ra $11{,}6\\text{ gam}$ oxit sắt từ ($\\mathrm{Fe}_3\\mathrm{O}_4$). Giá trị của $m$ là:",
+      "options": [
+        "16,4 gam",
+        "6,8 gam",
+        "8,4 gam",
+        "5,6 gam"
+      ],
+      "correct": 1,
+      "explanation": "Theo định luật bảo toàn khối lượng: $m_{\\mathrm{Fe}} + m_{\\mathrm{O}_2} = m_{\\mathrm{Fe}_3\\mathrm{O}_4} \\implies m = 11{,}6 - 4{,}8 = 6{,}8\\text{ (gam)}$."
+    }
+  ],
+  "Bai_06_Tinh_theo_phuong_trinh_hoa_hoc.md": [
+    {
+      "id": "q6_1",
+      "level": "Dễ",
+      "question": "Bước đầu tiên trong quy trình giải bài toán tính theo phương trình hoá học là:",
+      "options": [
+        "Tính số mol của chất mà đề bài đã cho dữ kiện",
+        "Tính ngay khối lượng sản phẩm",
+        "Vẽ đồ thị phản ứng",
+        "Đo nhiệt độ của phản ứng"
+      ],
+      "correct": 0,
+      "explanation": "Bước 1 luôn là chuyển đổi dữ kiện đề bài (khối lượng gam hoặc thể tích lít) về số mol qua công thức $n = m/M$ hoặc $n = V/24{,}79$."
+    },
+    {
+      "id": "q6_2",
+      "level": "Vừa",
+      "question": "Đốt cháy hoàn toàn $1{,}2\\text{ gam}$ carbon trong khí oxygen: $\\mathrm{C} + \\mathrm{O}_2 \\xrightarrow{t^\\circ} \\mathrm{CO}_2$. Thể tích khí $\\mathrm{CO}_2$ thu được ở điều kiện chuẩn ($25^\\circ\\mathrm{C}, 1\\mathrm{ bar}$) là:",
+      "options": [
+        "2,24 lít",
+        "2,479 lít",
+        "24,79 lít",
+        "1,2395 lít"
+      ],
+      "correct": 1,
+      "explanation": "Số mol C: $n_{\\mathrm{C}} = 1{,}2 / 12 = 0{,}1\\text{ (mol)}$. Theo PTHH: $n_{\\mathrm{CO}_2} = n_{\\mathrm{C}} = 0{,}1\\text{ (mol)}$. Thể tích khí ở đkc: $V = 0{,}1 \\cdot 24{,}79 = 2{,}479\\text{ (lít)}$."
+    },
+    {
+      "id": "q6_3",
+      "level": "Thử thách",
+      "question": "Nung $50\\text{ gam } \\mathrm{CaCO}_3$, theo lí thuyết thu được $28\\text{ gam } \\mathrm{CaO}$. Nhưng thực tế chỉ thu được $21\\text{ gam } \\mathrm{CaO}$. Hiệu suất ($H\\%$) của phản ứng là:",
+      "options": [
+        "75%",
+        "80%",
+        "60%",
+        "85%"
+      ],
+      "correct": 0,
+      "explanation": "Hiệu suất: $H\\% = (m_{\\text{thực tế}} / m_{\\text{lí thuyết}}) \\cdot 100\\% = (21 / 28) \\cdot 100\\% = 75\\%$."
+    }
+  ],
+  "Bai_13_Khoi_luong_rieng.md": [
+    {
+      "id": "q13_1",
+      "level": "Dễ",
+      "question": "Công thức tính khối lượng riêng của một chất là:",
+      "options": [
+        "$D = \\frac{m}{V}$",
+        "$D = m \\cdot V$",
+        "$D = \\frac{V}{m}$",
+        "$D = m + V$"
+      ],
+      "correct": 0,
+      "explanation": "Khối lượng riêng $D$ bằng thương số giữa khối lượng $m$ và thể tích $V$: $D = m / V$."
+    },
+    {
+      "id": "q13_2",
+      "level": "Vừa",
+      "question": "Một lít nước ($1\\text{ L} = 0{,}001\\mathrm{ m^3}$) có khối lượng là $1\\text{ kg}$. Khối lượng riêng của nước là:",
+      "options": [
+        "$100\\mathrm{ kg/m^3}$",
+        "$1000\\mathrm{ kg/m^3}$",
+        "$10000\\mathrm{ kg/m^3}$",
+        "$1\\mathrm{ kg/m^3}$"
+      ],
+      "correct": 1,
+      "explanation": "$D = 1 / 0{,}001 = 1000\\mathrm{ kg/m^3}$."
+    },
+    {
+      "id": "q13_3",
+      "level": "Thử thách",
+      "question": "Một khối nhôm có khối lượng $540\\text{ gam}$. Biết khối lượng riêng của nhôm là $D = 2{,}7\\mathrm{ g/cm^3}$. Thể tích của khối nhôm là:",
+      "options": [
+        "$200\\mathrm{ cm^3}$",
+        "$1458\\mathrm{ cm^3}$",
+        "$540\\mathrm{ cm^3}$",
+        "$20\\mathrm{ cm^3}$"
+      ],
+      "correct": 0,
+      "explanation": "$V = m / D = 540 / 2{,}7 = 200\\mathrm{ cm^3}$."
+    }
+  ],
+  "Bai_16_Ap_suat_chat_long_Ap_suat_khi_quyen.md": [
+    {
+      "id": "q16_1",
+      "level": "Dễ",
+      "question": "Công thức tính áp suất chất lỏng ở độ sâu $h$ là:",
+      "options": [
+        "$p = d \\cdot h$",
+        "$p = \\frac{d}{h}$",
+        "$p = \\frac{F}{S}$",
+        "$p = d + h$"
+      ],
+      "correct": 0,
+      "explanation": "Áp suất chất lỏng tỉ lệ thuận với độ sâu $h$ và trọng lượng riêng của chất lỏng $d$: $p = d \\cdot h$."
+    },
+    {
+      "id": "q16_2",
+      "level": "Vừa",
+      "question": "Khi lặn càng sâu dưới lòng biển, người thợ lặn cảm thấy lồng ngực càng bị tức ép là do:",
+      "options": [
+        "Nhiệt độ nước biển càng sâu càng nóng",
+        "Áp suất chất lỏng tăng tỉ lệ thuận với độ sâu $h$",
+        "Lực ma sát của nước cản trở",
+        "Nước biển thiếu muối"
+      ],
+      "correct": 1,
+      "explanation": "Càng xuống sâu, độ sâu $h$ càng lớn làm áp suất nước $p = d \\cdot h$ càng tăng mạnh, ép lên lồng ngực thợ lặn."
+    },
+    {
+      "id": "q16_3",
+      "level": "Thử thách",
+      "question": "Một thùng cao $1{,}2\\text{ m}$ chứa đầy nước biển ($d = 10300\\mathrm{ N/m^3}$). Áp suất nước tác dụng lên một điểm cách đáy thùng $0{,}2\\text{ m}$ là:",
+      "options": [
+        "10300 Pa",
+        "12360 Pa",
+        "2060 Pa",
+        "14420 Pa"
+      ],
+      "correct": 0,
+      "explanation": "Độ sâu $h$ tính từ mặt thoáng: $h = 1{,}2 - 0{,}2 = 1{,}0\\text{ m}$. Áp suất: $p = d \\cdot h = 10300 \\cdot 1{,}0 = 10300\\mathrm{ Pa}$."
+    }
+  ],
+  "Bai_17_Luc_day_Archimedes.md": [
+    {
+      "id": "q17_1",
+      "level": "Dễ",
+      "question": "Lực đẩy Archimedes tác dụng lên một vật nhúng trong chất lỏng có phương và chiều như thế nào?",
+      "options": [
+        "Phương thẳng đứng, chiều từ dưới lên trên",
+        "Phương thẳng đứng, chiều từ trên xuống dưới",
+        "Phương nằm ngang",
+        "Theo mọi phương bất kì"
+      ],
+      "correct": 0,
+      "explanation": "Lực đẩy Archimedes luôn có phương thẳng đứng và chiều hướng từ dưới lên trên."
+    },
+    {
+      "id": "q17_2",
+      "level": "Vừa",
+      "question": "Một vật sẽ **nổi lên mặt chất lỏng** khi nào?",
+      "options": [
+        "Khối lượng riêng của vật lớn hơn khối lượng riêng của chất lỏng ($D_{\\text{vật}} > D_{\\text{lỏng}}$)",
+        "Khối lượng riêng của vật nhỏ hơn khối lượng riêng của chất lỏng ($D_{\\text{vật}} < D_{\\text{lỏng}}$)",
+        "Trọng lực lớn hơn lực đẩy Archimedes ($P > F_A$)",
+        "Thể tích của vật lớn hơn thể tích của chất lỏng"
+      ],
+      "correct": 1,
+      "explanation": "Vật nổi lên khi trọng lượng riêng/khối lượng riêng của vật nhỏ hơn chất lỏng, lúc này lực đẩy Archimedes cực đại lớn hơn trọng lực."
+    },
+    {
+      "id": "q17_3",
+      "level": "Thử thách",
+      "question": "Thả một khối gỗ có thể tích $0{,}01\\mathrm{ m^3}$ vào nước ($d = 10000\\mathrm{ N/m^3}$). Khối gỗ nổi và phần chìm chiếm một nửa thể tích. Lực đẩy Archimedes tác dụng lên khối gỗ là:",
+      "options": [
+        "100 N",
+        "50 N",
+        "10 N",
+        "500 N"
+      ],
+      "correct": 1,
+      "explanation": "Thể tích phần chìm: $V_{\\text{chìm}} = 0{,}01 / 2 = 0{,}005\\mathrm{ m^3}$. Lực đẩy Archimedes: $F_A = d \\cdot V_{\\text{chìm}} = 10000 \\cdot 0{,}005 = 50\\mathrm{ N}$."
+    }
+  ],
+  "Bai_19_Don_bay_va_ung_dung.md": [
+    {
+      "id": "q19_1",
+      "level": "Dễ",
+      "question": "Muốn dùng đòn bẩy để được lợi về lực ($F_2 < F_1$), ta cần bố trí cánh tay đòn như thế nào?",
+      "options": [
+        "Cánh tay đòn của tay người dài hơn cánh tay đòn của vật ($d_2 > d_1$)",
+        "Cánh tay đòn của tay người ngắn hơn cánh tay đòn của vật ($d_2 < d_1$)",
+        "Hai cánh tay đòn bằng nhau ($d_1 = d_2$)",
+        "Không phụ thuộc vào cánh tay đòn"
+      ],
+      "correct": 0,
+      "explanation": "Theo quy tắc đòn bẩy $F_1 \\cdot d_1 = F_2 \\cdot d_2 \\implies F_2 = F_1 \\cdot (d_1 / d_2)$. Để $F_2 < F_1$ thì $d_2$ phải lớn hơn $d_1$."
+    },
+    {
+      "id": "q19_2",
+      "level": "Vừa",
+      "question": "Dụng cụ nào sau đây là đòn bẩy được thiết kế để **được lợi về đường đi** (chấp nhận tốn lực hơn)?",
+      "options": [
+        "Kìm nhổ đinh",
+        "Kéo cắt kim loại",
+        "Kéo cắt vải",
+        "Xà beng bẩy đá"
+      ],
+      "correct": 2,
+      "explanation": "Kéo cắt vải có tay cầm ngắn và lưỡi kéo dài ($d_1 > d_2$) giúp đường cắt dài và nhanh hơn, được lợi về đường đi."
+    },
+    {
+      "id": "q19_3",
+      "level": "Thử thách",
+      "question": "Một người dùng đòn bẩy dài $1{,}5\\text{ m}$ để bẩy vật nặng $1200\\text{ N}$. Điểm tựa cách vật $0{,}3\\text{ m}$. Lực tay cần tác dụng vào đầu đòn bẩy là:",
+      "options": [
+        "300 N",
+        "240 N",
+        "400 N",
+        "120 N"
+      ],
+      "correct": 0,
+      "explanation": "$d_1 = 0{,}3\\text{ m}$, $d_2 = 1{,}5 - 0{,}3 = 1{,}2\\text{ m}$. $F_2 = (F_1 \\cdot d_1) / d_2 = (1200 \\cdot 0{,}3) / 1{,}2 = 300\\mathrm{ N}$."
+    }
+  ],
+  "Bai_30_Khai_quat_ve_co_the_nguoi.md": [
+    {
+      "id": "q30_1",
+      "level": "Dễ",
+      "question": "Cơ hoành ngăn cách khoang thân của cơ thể người thành hai khoang nào?",
+      "options": [
+        "Khoang ngực và khoang sọ",
+        "Khoang ngực và khoang bụng",
+        "Khoang bụng và khoang chậu",
+        "Khoang lưng và khoang bụng"
+      ],
+      "correct": 1,
+      "explanation": "Cơ hoành là cơ dẹt ngăn khoang thân thành khoang ngực (chứa tim, phổi) và khoang bụng (chứa hệ tiêu hóa, bài tiết...)."
+    },
+    {
+      "id": "q30_2",
+      "level": "Vừa",
+      "question": "Hệ cơ quan nào đóng vai trò tiếp nhận kích thích từ môi trường, điều khiển và phối hợp hoạt động của tất cả các hệ cơ quan khác?",
+      "options": [
+        "Hệ tuần hoàn",
+        "Hệ hô hấp",
+        "Hệ thần kinh và nội tiết",
+        "Hệ vận động"
+      ],
+      "correct": 2,
+      "explanation": "Hệ thần kinh và hệ nội tiết phối hợp điều khiển, thống nhất mọi hoạt động sinh lý trong cơ thể."
+    }
+  ],
+  "Bai_31_He_van_dong_o_nguoi.md": [
+    {
+      "id": "q31_1",
+      "level": "Dễ",
+      "question": "Khớp xương giữa các đốt sống là loại khớp nào?",
+      "options": [
+        "Khớp động",
+        "Khớp bán động",
+        "Khớp bất động",
+        "Khớp sọ"
+      ],
+      "correct": 1,
+      "explanation": "Khớp giữa các đốt sống là khớp bán động, cử động có giới hạn giúp cột sống vừa uốn cong linh hoạt vừa nâng đỡ cơ thể."
+    },
+    {
+      "id": "q31_2",
+      "level": "Vừa",
+      "question": "Hiện tượng mỏi cơ khi vận động thể thao quá sức là do sự tích tụ chất nào trong mô cơ?",
+      "options": [
+        "Glucose",
+        "Lactic acid",
+        "Calcium",
+        "Carbon dioxide dạng rắn"
+      ],
+      "correct": 1,
+      "explanation": "Khi cơ hoạt động thiếu oxygen, quá trình hô hấp kị khí tích tụ lactic acid gây ức chế và đau mỏi cơ."
+    }
+  ],
+  "Bai_01_Su_dung_hoa_chat_va_thiet_bi.md": [
+    {
+      "id": "q_b1_easy_1",
+      "level": "Dễ 🍬",
+      "question": "Để lấy hoá chất rắn ở dạng bột ra khỏi lọ, dụng cụ nào sau đây là phù hợp và an toàn nhất?",
+      "options": [
+        "A. Dùng tay trực tiếp bốc hóa chất",
+        "B. Dùng thìa kim loại hoặc thìa thuỷ tinh",
+        "C. Dùng phễu lọc",
+        "D. Dùng ống hút nhỏ giọt"
+      ],
+      "answer": "B",
+      "explanation": "Theo quy tắc an toàn phòng thí nghiệm, tuyệt đối không dùng tay bốc hóa chất; hóa chất rắn dạng bột phải dùng thìa kim loại hoặc thủy tinh sạch để xúc."
+    },
+    {
+      "id": "q_b1_med_1",
+      "level": "Vừa 🌟",
+      "question": "Khi đun nóng chất lỏng trong ống nghiệm bằng ngọn lửa đèn cồn, thao tác nào sau đây là ĐÚNG chuẩn kỹ thuật?",
+      "options": [
+        "A. Đặt đáy ống nghiệm sát vào bấc đèn cồn ngay từ đầu",
+        "B. Kẹp ống nghiệm ở 1/3 từ miệng ống, hơ nóng đều ống trước rồi mới đun đáy",
+        "C. Hướng miệng ống nghiệm thẳng vào mặt bạn đối diện",
+        "D. Kẹp ống nghiệm ở sát đáy và đun ngay tại chỗ"
+      ],
+      "answer": "B",
+      "explanation": "Kẹp ở 1/3 miệng ống giúp giữ chắc chắn và cách xa vùng đun nhiệt. Hơ nóng đều thân ống nghiệm giúp thủy tinh giãn nở đồng đều, tránh sốc nhiệt làm vỡ nứt ống nghiệm."
+    },
+    {
+      "id": "q_b1_hard_1",
+      "level": "Thử thách 🚀",
+      "question": "Muốn đo cường độ dòng điện chạy qua một bóng đèn và hiệu điện thế giữa hai đầu bóng đèn đó, cách mắc các thiết bị nào sau đây là chính xác?",
+      "options": [
+        "A. Ampe kế mắc nối tiếp với đèn, Vôn kế mắc song song với đèn",
+        "B. Ampe kế mắc song song với đèn, Vôn kế mắc nối tiếp với đèn",
+        "C. Cả Ampe kế và Vôn kế đều mắc nối tiếp với đèn",
+        "D. Cả Ampe kế và Vôn kế đều mắc song song với đèn"
+      ],
+      "answer": "A",
+      "explanation": "Ampe kế có điện trở rất nhỏ nên bắt buộc phải mắc nối tiếp để đo toàn bộ dòng điện qua tải. Vôn kế có điện trở rất lớn nên phải mắc song song để đo độ chênh lệch điện thế mà không làm ngắn mạch."
+    }
+  ],
+  "Bai_07_Toc_do_phan_ung_va_chat_xuc_tac.md": [
+    {
+      "id": "q_Bai_07_Toc_do_phan_ung_va_chat_xuc_tac.md_easy",
+      "level": "Dễ 🍬",
+      "question": "Nội dung trọng tâm then chốt nào sau đây mô tả ĐÚNG nhất bản chất kiến thức của bài học?",
+      "options": [
+        "A. Tốc độ phản ứng là đại lượng đặc trưng cho độ nhanh hay chậm của phản ứng hoá học. 5 yếu t...",
+        "B. Hiện tượng chỉ xảy ra ngẫu nhiên và không tuân theo quy luật khoa học nào",
+        "C. Không có sự liên hệ giữa lý thuyết trong sách giáo khoa với thực tế đời sống",
+        "D. Toàn bộ các chất đều biến đổi mà không có sự bảo toàn năng lượng"
+      ],
+      "answer": "A",
+      "explanation": "Khái niệm trọng tâm của bài: Tốc độ phản ứng là đại lượng đặc trưng cho độ nhanh hay chậm của phản ứng hoá học. 5 yếu tố làm tăng tốc độ phản ứng: nồng độ, nhiệt độ, diện tích tiếp xúc, áp suất (với chất khí) và chất xúc tác."
+    },
+    {
+      "id": "q_Bai_07_Toc_do_phan_ung_va_chat_xuc_tac.md_med",
+      "level": "Vừa 🌟",
+      "question": "Trong thực tế đời sống, ứng dụng hoặc hiện tượng nào sau đây gắn liền với bài học?",
+      "options": [
+        "A. Bỏ thức ăn vào tủ lạnh để giảm nhiệt độ, làm chậm tốc độ phản ứng ôi thiu phân hủy thức ăn",
+        "B. Đổ nước lạnh vào dầu sôi để dập tắt đám cháy dầu mỡ",
+        "C. Sử dụng điện không cần thiết bị đóng ngắt bảo vệ cầu chì",
+        "D. Để thực phẩm tươi sống ở nhiệt độ cao ẩm ướt để bảo quản lâu"
+      ],
+      "answer": "A",
+      "explanation": "Bản chất ứng dụng: • Bỏ thức ăn vào tủ lạnh để giảm nhiệt độ, làm chậm tốc độ phản ứng ôi thiu phân hủy thức ăn.\n• Nấu súp dùng nồi áp suất để tăng áp suất và nhiệt độ sôi của nước, giúp thức ăn nhanh nhừ gấp 3 lần.\n• Thổi quạt vào bếp than cung cấp thêm oxygen và tăng diện tích tiếp xúc làm than cháy bùng lên."
+    },
+    {
+      "id": "q_Bai_07_Toc_do_phan_ung_va_chat_xuc_tac.md_hard",
+      "level": "Thử thách 🚀",
+      "question": "Học sinh THCS cần đặc biệt lưu ý bẫy sai lầm kinh điển nào sau đây khi làm bài tập hoặc thực hành?",
+      "options": [
+        "A. Hiểu lầm về chất xúc tác: Nghĩ rằng chất xúc tác biến đổi thành chất khác; thực tế chất xúc tác chỉ đóng vai trò xúc tác",
+        "B. Luôn luôn cân bằng phương trình và kiểm tra đầy đủ đơn vị đo",
+        "C. Đọc kỹ nhãn hóa chất và tuân thủ tuyệt đối an toàn phòng thí nghiệm",
+        "D. Ghi chép trung thực số liệu đo đạc thực nghiệm"
+      ],
+      "answer": "A",
+      "explanation": "Bác học lưu ý: ⚠️ **Hiểu lầm về chất xúc tác:** Nghĩ rằng chất xúc tác biến đổi thành chất khác; thực tế chất xúc tác chỉ đóng vai trò xúc tác làm giảm năng lượng hoạt hóa, sau phản ứng nó vẫn nguyên vẹn về khối lượng và tính chất hóa học."
+    }
+  ],
+  "Bai_08_Acid.md": [
+    {
+      "id": "q_Bai_08_Acid.md_easy",
+      "level": "Dễ 🍬",
+      "question": "Nội dung trọng tâm then chốt nào sau đây mô tả ĐÚNG nhất bản chất kiến thức của bài học?",
+      "options": [
+        "A. Acid là hợp chất mà phân tử gồm một hay nhiều nguyên tử hydrogen liên kết với gốc acid. Kh...",
+        "B. Hiện tượng chỉ xảy ra ngẫu nhiên và không tuân theo quy luật khoa học nào",
+        "C. Không có sự liên hệ giữa lý thuyết trong sách giáo khoa với thực tế đời sống",
+        "D. Toàn bộ các chất đều biến đổi mà không có sự bảo toàn năng lượng"
+      ],
+      "answer": "A",
+      "explanation": "Khái niệm trọng tâm của bài: Acid là hợp chất mà phân tử gồm một hay nhiều nguyên tử hydrogen liên kết với gốc acid. Khi tan trong nước, acid phân li giải phóng ion $\\mathrm{H}^+$, làm quỳ tím hóa đỏ và tác dụng với kim loại đứng trước H giải phóng khí $\\mathrm{H}_2$."
+    },
+    {
+      "id": "q_Bai_08_Acid.md_med",
+      "level": "Vừa 🌟",
+      "question": "Trong thực tế đời sống, ứng dụng hoặc hiện tượng nào sau đây gắn liền với bài học?",
+      "options": [
+        "A. Dịch vị dạ dày chứa acid $\\mathrm{HCl}$ nồng độ khoảng $0{,}001 - 0{,}01\\text{ M}$ giúp tiêu hóa thức ăn và diệt vi khuẩn; khi bị đau dạ dày dư acid, bác sĩ thường cho uống thuốc chứa muối kiềm yếu để trung hòa bớt acid",
+        "B. Đổ nước lạnh vào dầu sôi để dập tắt đám cháy dầu mỡ",
+        "C. Sử dụng điện không cần thiết bị đóng ngắt bảo vệ cầu chì",
+        "D. Để thực phẩm tươi sống ở nhiệt độ cao ẩm ướt để bảo quản lâu"
+      ],
+      "answer": "A",
+      "explanation": "Bản chất ứng dụng: • Dịch vị dạ dày chứa acid $\\mathrm{HCl}$ nồng độ khoảng $0{,}001 - 0{,}01\\text{ M}$ giúp tiêu hóa thức ăn và diệt vi khuẩn; khi bị đau dạ dày dư acid, bác sĩ thường cho uống thuốc chứa muối kiềm yếu để trung hòa bớt acid.\n• Giấm ăn là dung dịch acetic acid $\\mathrm{CH}_3\\mathrm{COOH}$ nồng độ $2 - 5\\%$."
+    },
+    {
+      "id": "q_Bai_08_Acid.md_hard",
+      "level": "Thử thách 🚀",
+      "question": "Học sinh THCS cần đặc biệt lưu ý bẫy sai lầm kinh điển nào sau đây khi làm bài tập hoặc thực hành?",
+      "options": [
+        "A. Quy tắc an toàn pha loãng acid đặc: TUYỆT ĐỐI KHÔNG ĐƯỢC RÓT NƯỚC VÀO ACID ĐẶC! Nước nhẹ hơn nổi lên trên, acid gặp nước",
+        "B. Luôn luôn cân bằng phương trình và kiểm tra đầy đủ đơn vị đo",
+        "C. Đọc kỹ nhãn hóa chất và tuân thủ tuyệt đối an toàn phòng thí nghiệm",
+        "D. Ghi chép trung thực số liệu đo đạc thực nghiệm"
+      ],
+      "answer": "A",
+      "explanation": "Bác học lưu ý: ⚠️ **Quy tắc an toàn pha loãng acid đặc:** TUYỆT ĐỐI KHÔNG ĐƯỢC RÓT NƯỚC VÀO ACID ĐẶC! Nước nhẹ hơn nổi lên trên, acid gặp nước tỏa nhiệt cực mạnh làm nước sôi cục bộ bắn tung tóe acid đậm đặc gây bỏng nặng. Phải **rót từ từ acid vào nước** và khuấy đều bằng đũa thủy tinh."
+    }
+  ],
+  "Bai_09_Base_Thang_pH.md": [
+    {
+      "id": "q_Bai_09_Base_Thang_pH.md_easy",
+      "level": "Dễ 🍬",
+      "question": "Nội dung trọng tâm then chốt nào sau đây mô tả ĐÚNG nhất bản chất kiến thức của bài học?",
+      "options": [
+        "A. Base là hợp chất mà phân tử gồm nguyên tử kim loại liên kết với một hay nhiều nhóm hydroxi...",
+        "B. Hiện tượng chỉ xảy ra ngẫu nhiên và không tuân theo quy luật khoa học nào",
+        "C. Không có sự liên hệ giữa lý thuyết trong sách giáo khoa với thực tế đời sống",
+        "D. Toàn bộ các chất đều biến đổi mà không có sự bảo toàn năng lượng"
+      ],
+      "answer": "A",
+      "explanation": "Khái niệm trọng tâm của bài: Base là hợp chất mà phân tử gồm nguyên tử kim loại liên kết với một hay nhiều nhóm hydroxide ($-\\mathrm{OH}$). Dung dịch base (kiềm) làm quỳ tím hóa xanh, phenolphtalein hóa hồng và tác dụng với acid tạo muối và nước."
+    },
+    {
+      "id": "q_Bai_09_Base_Thang_pH.md_med",
+      "level": "Vừa 🌟",
+      "question": "Trong thực tế đời sống, ứng dụng hoặc hiện tượng nào sau đây gắn liền với bài học?",
+      "options": [
+        "A. Đất trồng trọt bị chua ($\\\\mathrm{pH} < 6$) người nông dân bón vôi bột $\\mathrm{CaO}$ hoặc $\\mathrm{Ca(OH)}_2$ để nâng độ pH của đất",
+        "B. Đổ nước lạnh vào dầu sôi để dập tắt đám cháy dầu mỡ",
+        "C. Sử dụng điện không cần thiết bị đóng ngắt bảo vệ cầu chì",
+        "D. Để thực phẩm tươi sống ở nhiệt độ cao ẩm ướt để bảo quản lâu"
+      ],
+      "answer": "A",
+      "explanation": "Bản chất ứng dụng: • Đất trồng trọt bị chua ($\\\\mathrm{pH} < 6$) người nông dân bón vôi bột $\\mathrm{CaO}$ hoặc $\\mathrm{Ca(OH)}_2$ để nâng độ pH của đất.\n• Xà phòng, nước rửa chén có tính kiềm nhẹ giúp hòa tan và rửa trôi dầu mỡ bám dính."
+    },
+    {
+      "id": "q_Bai_09_Base_Thang_pH.md_hard",
+      "level": "Thử thách 🚀",
+      "question": "Học sinh THCS cần đặc biệt lưu ý bẫy sai lầm kinh điển nào sau đây khi làm bài tập hoặc thực hành?",
+      "options": [
+        "A. Phân biệt kiềm và base: Tất cả các kiềm đều là base, nhưng không phải base nào cũng là kiềm! Kiềm là các base tan trong ",
+        "B. Luôn luôn cân bằng phương trình và kiểm tra đầy đủ đơn vị đo",
+        "C. Đọc kỹ nhãn hóa chất và tuân thủ tuyệt đối an toàn phòng thí nghiệm",
+        "D. Ghi chép trung thực số liệu đo đạc thực nghiệm"
+      ],
+      "answer": "A",
+      "explanation": "Bác học lưu ý: ⚠️ **Phân biệt kiềm và base:** Tất cả các kiềm đều là base, nhưng không phải base nào cũng là kiềm! Kiềm là các base tan trong nước ($\\\\mathrm{NaOH, KOH, Ba(OH)}_2, \\mathrm{Ca(OH)}_2$). Các base không tan như $\\mathrm{Cu(OH)}_2, \\mathrm{Fe(OH)}_3$ không làm đổi màu quỳ tím."
+    }
+  ],
+  "Bai_10_Oxide.md": [
+    {
+      "id": "q_Bai_10_Oxide.md_easy",
+      "level": "Dễ 🍬",
+      "question": "Nội dung trọng tâm then chốt nào sau đây mô tả ĐÚNG nhất bản chất kiến thức của bài học?",
+      "options": [
+        "A. Oxide là hợp chất gồm 2 nguyên tố, trong đó có một nguyên tố là oxygen. Phân loại: Oxide b...",
+        "B. Hiện tượng chỉ xảy ra ngẫu nhiên và không tuân theo quy luật khoa học nào",
+        "C. Không có sự liên hệ giữa lý thuyết trong sách giáo khoa với thực tế đời sống",
+        "D. Toàn bộ các chất đều biến đổi mà không có sự bảo toàn năng lượng"
+      ],
+      "answer": "A",
+      "explanation": "Khái niệm trọng tâm của bài: Oxide là hợp chất gồm 2 nguyên tố, trong đó có một nguyên tố là oxygen. Phân loại: Oxide base (tác dụng acid), Oxide acid (tác dụng base kiềm), Oxide lưỡng tính và Oxide trung tính."
+    },
+    {
+      "id": "q_Bai_10_Oxide.md_med",
+      "level": "Vừa 🌟",
+      "question": "Trong thực tế đời sống, ứng dụng hoặc hiện tượng nào sau đây gắn liền với bài học?",
+      "options": [
+        "A. Khí $\\mathrm{SO}_2, \\mathrm{NO}_2$ do nhà máy xả ra hòa tan vào nước mưa tạo thành mưa acid hủy hoại mùa màng, ăn mòn tượng đài đá vôi",
+        "B. Đổ nước lạnh vào dầu sôi để dập tắt đám cháy dầu mỡ",
+        "C. Sử dụng điện không cần thiết bị đóng ngắt bảo vệ cầu chì",
+        "D. Để thực phẩm tươi sống ở nhiệt độ cao ẩm ướt để bảo quản lâu"
+      ],
+      "answer": "A",
+      "explanation": "Bản chất ứng dụng: • Khí $\\mathrm{SO}_2, \\mathrm{NO}_2$ do nhà máy xả ra hòa tan vào nước mưa tạo thành mưa acid hủy hoại mùa màng, ăn mòn tượng đài đá vôi.\n• Vôi sống $\\mathrm{CaO}$ rải khử trùng chuồng trại và khử chua đất trồng."
+    },
+    {
+      "id": "q_Bai_10_Oxide.md_hard",
+      "level": "Thử thách 🚀",
+      "question": "Học sinh THCS cần đặc biệt lưu ý bẫy sai lầm kinh điển nào sau đây khi làm bài tập hoặc thực hành?",
+      "options": [
+        "A. Lỗi phân loại: Cho rằng mọi oxide kim loại đều là oxide base! Lưu ý: Một số oxide như $\\mathrm{Al}_2\\mathrm{O}_3, \\mathr",
+        "B. Luôn luôn cân bằng phương trình và kiểm tra đầy đủ đơn vị đo",
+        "C. Đọc kỹ nhãn hóa chất và tuân thủ tuyệt đối an toàn phòng thí nghiệm",
+        "D. Ghi chép trung thực số liệu đo đạc thực nghiệm"
+      ],
+      "answer": "A",
+      "explanation": "Bác học lưu ý: ⚠️ **Lỗi phân loại:** Cho rằng mọi oxide kim loại đều là oxide base! Lưu ý: Một số oxide như $\\mathrm{Al}_2\\mathrm{O}_3, \\mathrm{ZnO}$ là oxide lưỡng tính; $\\mathrm{CrO}_3, \\mathrm{Mn}_2\\mathrm{O}_7$ là oxide acid."
+    }
+  ],
+  "Bai_11_Muoi.md": [
+    {
+      "id": "q_Bai_11_Muoi.md_easy",
+      "level": "Dễ 🍬",
+      "question": "Nội dung trọng tâm then chốt nào sau đây mô tả ĐÚNG nhất bản chất kiến thức của bài học?",
+      "options": [
+        "A. Muối là hợp chất gồm cation kim loại (hoặc $\\mathrm{NH}_4^+$) liên kết với anion gốc acid....",
+        "B. Hiện tượng chỉ xảy ra ngẫu nhiên và không tuân theo quy luật khoa học nào",
+        "C. Không có sự liên hệ giữa lý thuyết trong sách giáo khoa với thực tế đời sống",
+        "D. Toàn bộ các chất đều biến đổi mà không có sự bảo toàn năng lượng"
+      ],
+      "answer": "A",
+      "explanation": "Khái niệm trọng tâm của bài: Muối là hợp chất gồm cation kim loại (hoặc $\\mathrm{NH}_4^+$) liên kết với anion gốc acid. Phản ứng trao đổi ion trong dung dịch xảy ra khi tạo thành chất kết tủa, chất khí hoặc nước."
+    },
+    {
+      "id": "q_Bai_11_Muoi.md_med",
+      "level": "Vừa 🌟",
+      "question": "Trong thực tế đời sống, ứng dụng hoặc hiện tượng nào sau đây gắn liền với bài học?",
+      "options": [
+        "A. Muối ăn $\\mathrm{NaCl}$ dùng làm gia vị thiết yếu, bảo quản thực phẩm (muối dưa cà, ướp cá) và truyền dịch y tế",
+        "B. Đổ nước lạnh vào dầu sôi để dập tắt đám cháy dầu mỡ",
+        "C. Sử dụng điện không cần thiết bị đóng ngắt bảo vệ cầu chì",
+        "D. Để thực phẩm tươi sống ở nhiệt độ cao ẩm ướt để bảo quản lâu"
+      ],
+      "answer": "A",
+      "explanation": "Bản chất ứng dụng: • Muối ăn $\\mathrm{NaCl}$ dùng làm gia vị thiết yếu, bảo quản thực phẩm (muối dưa cà, ướp cá) và truyền dịch y tế.\n• Thạch cao nung $\\mathrm{CaSO}_4 \\cdot 0{,}5\\mathrm{H}_2\\mathrm{O}$ dùng đúc tượng và bó bột khi gãy xương."
+    },
+    {
+      "id": "q_Bai_11_Muoi.md_hard",
+      "level": "Thử thách 🚀",
+      "question": "Học sinh THCS cần đặc biệt lưu ý bẫy sai lầm kinh điển nào sau đây khi làm bài tập hoặc thực hành?",
+      "options": [
+        "A. Điều kiện phản ứng trao đổi: Hai muối hoặc muối với base chỉ phản ứng được với nhau khi cả hai chất ban đầu đều tan và s",
+        "B. Luôn luôn cân bằng phương trình và kiểm tra đầy đủ đơn vị đo",
+        "C. Đọc kỹ nhãn hóa chất và tuân thủ tuyệt đối an toàn phòng thí nghiệm",
+        "D. Ghi chép trung thực số liệu đo đạc thực nghiệm"
+      ],
+      "answer": "A",
+      "explanation": "Bác học lưu ý: ⚠️ **Điều kiện phản ứng trao đổi:** Hai muối hoặc muối với base chỉ phản ứng được với nhau khi **cả hai chất ban đầu đều tan** và **sau phản ứng bắt buộc phải có chất kết tủa hoặc bay hơi**."
+    }
+  ],
+  "Bai_12_Phan_bon_hoa_hoc.md": [
+    {
+      "id": "q_Bai_12_Phan_bon_hoa_hoc.md_easy",
+      "level": "Dễ 🍬",
+      "question": "Nội dung trọng tâm then chốt nào sau đây mô tả ĐÚNG nhất bản chất kiến thức của bài học?",
+      "options": [
+        "A. Phân bón hoá học cung cấp các nguyên tố dinh dưỡng khoáng cần thiết cho cây trồng: Đạm (N ...",
+        "B. Hiện tượng chỉ xảy ra ngẫu nhiên và không tuân theo quy luật khoa học nào",
+        "C. Không có sự liên hệ giữa lý thuyết trong sách giáo khoa với thực tế đời sống",
+        "D. Toàn bộ các chất đều biến đổi mà không có sự bảo toàn năng lượng"
+      ],
+      "answer": "A",
+      "explanation": "Khái niệm trọng tâm của bài: Phân bón hoá học cung cấp các nguyên tố dinh dưỡng khoáng cần thiết cho cây trồng: Đạm (N - phát triển lá, cành), Lân (P - phát triển rễ, củ), Kali (K - chống rét, sâu bệnh, ngọt quả). Phân NPK cung cấp hỗn hợp cả 3 nguyên tố."
+    },
+    {
+      "id": "q_Bai_12_Phan_bon_hoa_hoc.md_med",
+      "level": "Vừa 🌟",
+      "question": "Trong thực tế đời sống, ứng dụng hoặc hiện tượng nào sau đây gắn liền với bài học?",
+      "options": [
+        "A. Bón thừa phân đạm làm cây tốt lá lốp đòng, dễ bị sâu bệnh và tích tụ nitrate gây độc trong rau củ",
+        "B. Đổ nước lạnh vào dầu sôi để dập tắt đám cháy dầu mỡ",
+        "C. Sử dụng điện không cần thiết bị đóng ngắt bảo vệ cầu chì",
+        "D. Để thực phẩm tươi sống ở nhiệt độ cao ẩm ướt để bảo quản lâu"
+      ],
+      "answer": "A",
+      "explanation": "Bản chất ứng dụng: • Bón thừa phân đạm làm cây tốt lá lốp đòng, dễ bị sâu bệnh và tích tụ nitrate gây độc trong rau củ.\n• Cần bón đúng loại, đúng liều lượng, đúng thời điểm và đúng cách để bảo vệ môi trường đất nước."
+    },
+    {
+      "id": "q_Bai_12_Phan_bon_hoa_hoc.md_hard",
+      "level": "Thử thách 🚀",
+      "question": "Học sinh THCS cần đặc biệt lưu ý bẫy sai lầm kinh điển nào sau đây khi làm bài tập hoặc thực hành?",
+      "options": [
+        "A. Không trộn chung phân đạm với vôi: Bón đạm ammonium $\\mathrm{NH}_4^+$ cùng vôi kiềm $\\mathrm{Ca(OH)}_2$ sẽ sinh ra khí a",
+        "B. Luôn luôn cân bằng phương trình và kiểm tra đầy đủ đơn vị đo",
+        "C. Đọc kỹ nhãn hóa chất và tuân thủ tuyệt đối an toàn phòng thí nghiệm",
+        "D. Ghi chép trung thực số liệu đo đạc thực nghiệm"
+      ],
+      "answer": "A",
+      "explanation": "Bác học lưu ý: ⚠️ **Không trộn chung phân đạm với vôi:** Bón đạm ammonium $\\mathrm{NH}_4^+$ cùng vôi kiềm $\\mathrm{Ca(OH)}_2$ sẽ sinh ra khí ammonia $\\mathrm{NH}_3 \\uparrow$ bay mất đạm làm mất tác dụng của phân."
+    }
+  ],
+  "Bai_14_Thuc_hanh_xac_dinh_khoi_luong_rieng.md": [
+    {
+      "id": "q_Bai_14_Thuc_hanh_xac_dinh_khoi_luong_rieng.md_easy",
+      "level": "Dễ 🍬",
+      "question": "Nội dung trọng tâm then chốt nào sau đây mô tả ĐÚNG nhất bản chất kiến thức của bài học?",
+      "options": [
+        "A. Xác định khối lượng riêng bằng cách đo độc lập khối lượng $m$ (dùng cân) và thể tích $V$ (...",
+        "B. Hiện tượng chỉ xảy ra ngẫu nhiên và không tuân theo quy luật khoa học nào",
+        "C. Không có sự liên hệ giữa lý thuyết trong sách giáo khoa với thực tế đời sống",
+        "D. Toàn bộ các chất đều biến đổi mà không có sự bảo toàn năng lượng"
+      ],
+      "answer": "A",
+      "explanation": "Khái niệm trọng tâm của bài: Xác định khối lượng riêng bằng cách đo độc lập khối lượng $m$ (dùng cân) và thể tích $V$ (dùng thước hình hộp $V = a \\cdot b \\cdot c$ hoặc bình chia độ $V = V_2 - V_1$), sau đó áp dụng công thức $D = \\dfrac{m}{V}$."
+    },
+    {
+      "id": "q_Bai_14_Thuc_hanh_xac_dinh_khoi_luong_rieng.md_med",
+      "level": "Vừa 🌟",
+      "question": "Trong thực tế đời sống, ứng dụng hoặc hiện tượng nào sau đây gắn liền với bài học?",
+      "options": [
+        "A. Thợ kim hoàn xác định vàng thật hay giả bằng cách thả vào bình tràn đo thể tích nước tràn ra và cân khối lượng để tính khối lượng riêng ($D_{\\text{vàng}} = 19\\,300\\text{ kg/m}^3$)",
+        "B. Đổ nước lạnh vào dầu sôi để dập tắt đám cháy dầu mỡ",
+        "C. Sử dụng điện không cần thiết bị đóng ngắt bảo vệ cầu chì",
+        "D. Để thực phẩm tươi sống ở nhiệt độ cao ẩm ướt để bảo quản lâu"
+      ],
+      "answer": "A",
+      "explanation": "Bản chất ứng dụng: • Thợ kim hoàn xác định vàng thật hay giả bằng cách thả vào bình tràn đo thể tích nước tràn ra và cân khối lượng để tính khối lượng riêng ($D_{\\text{vàng}} = 19\\,300\\text{ kg/m}^3$)."
+    },
+    {
+      "id": "q_Bai_14_Thuc_hanh_xac_dinh_khoi_luong_rieng.md_hard",
+      "level": "Thử thách 🚀",
+      "question": "Học sinh THCS cần đặc biệt lưu ý bẫy sai lầm kinh điển nào sau đây khi làm bài tập hoặc thực hành?",
+      "options": [
+        "A. Lỗi đọc thể tích chất lỏng: Phải đặt mắt nhìn ngang bằng với đáy của màng khum chất lỏng, không nhìn chéo từ trên xuống ",
+        "B. Luôn luôn cân bằng phương trình và kiểm tra đầy đủ đơn vị đo",
+        "C. Đọc kỹ nhãn hóa chất và tuân thủ tuyệt đối an toàn phòng thí nghiệm",
+        "D. Ghi chép trung thực số liệu đo đạc thực nghiệm"
+      ],
+      "answer": "A",
+      "explanation": "Bác học lưu ý: ⚠️ **Lỗi đọc thể tích chất lỏng:** Phải đặt mắt nhìn ngang bằng với đáy của màng khum chất lỏng, không nhìn chéo từ trên xuống hoặc từ dưới lên gây sai số lớn."
+    }
+  ],
+  "Bai_15_Ap_suat_tren_mot_be_mat.md": [
+    {
+      "id": "q_Bai_15_Ap_suat_tren_mot_be_mat.md_easy",
+      "level": "Dễ 🍬",
+      "question": "Nội dung trọng tâm then chốt nào sau đây mô tả ĐÚNG nhất bản chất kiến thức của bài học?",
+      "options": [
+        "A. Áp suất là độ lớn của áp lực trên một đơn vị diện tích bị ép: $p = \\dfrac{F}{S}$. Đơn vị c...",
+        "B. Hiện tượng chỉ xảy ra ngẫu nhiên và không tuân theo quy luật khoa học nào",
+        "C. Không có sự liên hệ giữa lý thuyết trong sách giáo khoa với thực tế đời sống",
+        "D. Toàn bộ các chất đều biến đổi mà không có sự bảo toàn năng lượng"
+      ],
+      "answer": "A",
+      "explanation": "Khái niệm trọng tâm của bài: Áp suất là độ lớn của áp lực trên một đơn vị diện tích bị ép: $p = \\dfrac{F}{S}$. Đơn vị chuẩn là Pascal ($\\text{Pa} = \\text{N/m}^2$). Muốn tăng áp suất ta giảm diện tích ép $S$ (mài sắc mũi nhọn); muốn giảm áp suất ta tăng diện tích $S$ (bản xích rộng)."
+    },
+    {
+      "id": "q_Bai_15_Ap_suat_tren_mot_be_mat.md_med",
+      "level": "Vừa 🌟",
+      "question": "Trong thực tế đời sống, ứng dụng hoặc hiện tượng nào sau đây gắn liền với bài học?",
+      "options": [
+        "A. Xe tăng nặng hàng chục tấn nhưng không bị lún trong bùn lầy vì diện tích tiếp xúc của dải xích rất lớn làm giảm áp suất lên mặt đất",
+        "B. Đổ nước lạnh vào dầu sôi để dập tắt đám cháy dầu mỡ",
+        "C. Sử dụng điện không cần thiết bị đóng ngắt bảo vệ cầu chì",
+        "D. Để thực phẩm tươi sống ở nhiệt độ cao ẩm ướt để bảo quản lâu"
+      ],
+      "answer": "A",
+      "explanation": "Bản chất ứng dụng: • Xe tăng nặng hàng chục tấn nhưng không bị lún trong bùn lầy vì diện tích tiếp xúc của dải xích rất lớn làm giảm áp suất lên mặt đất.\n• Đầu đinh và mũi kim khâu phải làm nhọn hoắt để diện tích tiếp xúc cực nhỏ tạo ra áp suất khổng lồ đâm thủng gỗ và vải dễ dàng."
+    },
+    {
+      "id": "q_Bai_15_Ap_suat_tren_mot_be_mat.md_hard",
+      "level": "Thử thách 🚀",
+      "question": "Học sinh THCS cần đặc biệt lưu ý bẫy sai lầm kinh điển nào sau đây khi làm bài tập hoặc thực hành?",
+      "options": [
+        "A. Lỗi đổi đơn vị diện tích: $1\\text{ cm}^2 = 10^{-4}\\text{ m}^2 = 0{,}0001\\text{ m}^2$; $1\\text{ dm}^2 = 10^{-2}\\text{ m}^",
+        "B. Luôn luôn cân bằng phương trình và kiểm tra đầy đủ đơn vị đo",
+        "C. Đọc kỹ nhãn hóa chất và tuân thủ tuyệt đối an toàn phòng thí nghiệm",
+        "D. Ghi chép trung thực số liệu đo đạc thực nghiệm"
+      ],
+      "answer": "A",
+      "explanation": "Bác học lưu ý: ⚠️ **Lỗi đổi đơn vị diện tích:** $1\\text{ cm}^2 = 10^{-4}\\text{ m}^2 = 0{,}0001\\text{ m}^2$; $1\\text{ dm}^2 = 10^{-2}\\text{ m}^2 = 0{,}01\\text{ m}^2$. Rất nhiều bạn quên lũy thừa bậc 2 khi đổi từ $\\text{cm}^2$ sang $\\text{m}^2$!"
+    }
+  ],
+  "Bai_18_Tac_dung_lam_quay_cua_luc_Moment_luc.md": [
+    {
+      "id": "q_Bai_18_Tac_dung_lam_quay_cua_luc_Moment_luc.md_easy",
+      "level": "Dễ 🍬",
+      "question": "Nội dung trọng tâm then chốt nào sau đây mô tả ĐÚNG nhất bản chất kiến thức của bài học?",
+      "options": [
+        "A. Tác dụng làm quay của lực đặc trưng bởi Moment lực: $M = F \\cdot d$. Moment lực càng lớn t...",
+        "B. Hiện tượng chỉ xảy ra ngẫu nhiên và không tuân theo quy luật khoa học nào",
+        "C. Không có sự liên hệ giữa lý thuyết trong sách giáo khoa với thực tế đời sống",
+        "D. Toàn bộ các chất đều biến đổi mà không có sự bảo toàn năng lượng"
+      ],
+      "answer": "A",
+      "explanation": "Khái niệm trọng tâm của bài: Tác dụng làm quay của lực đặc trưng bởi Moment lực: $M = F \\cdot d$. Moment lực càng lớn thì tác dụng làm quay càng mạnh. Cánh tay đòn $d$ là khoảng cách vuông góc từ trục quay đến giá của lực."
+    },
+    {
+      "id": "q_Bai_18_Tac_dung_lam_quay_cua_luc_Moment_luc.md_med",
+      "level": "Vừa 🌟",
+      "question": "Trong thực tế đời sống, ứng dụng hoặc hiện tượng nào sau đây gắn liền với bài học?",
+      "options": [
+        "A. Tay nắm cửa luôn đặt ở mép ngoài cánh cửa cách xa bản lề để tăng cánh tay đòn $d$, giúp mở cửa nhẹ nhàng nhất",
+        "B. Đổ nước lạnh vào dầu sôi để dập tắt đám cháy dầu mỡ",
+        "C. Sử dụng điện không cần thiết bị đóng ngắt bảo vệ cầu chì",
+        "D. Để thực phẩm tươi sống ở nhiệt độ cao ẩm ướt để bảo quản lâu"
+      ],
+      "answer": "A",
+      "explanation": "Bản chất ứng dụng: • Tay nắm cửa luôn đặt ở mép ngoài cánh cửa cách xa bản lề để tăng cánh tay đòn $d$, giúp mở cửa nhẹ nhàng nhất.\n• Dùng cờ-lê cán dài mở bu lông gỉ sét dễ hơn cờ-lê cán ngắn gấp nhiều lần."
+    },
+    {
+      "id": "q_Bai_18_Tac_dung_lam_quay_cua_luc_Moment_luc.md_hard",
+      "level": "Thử thách 🚀",
+      "question": "Học sinh THCS cần đặc biệt lưu ý bẫy sai lầm kinh điển nào sau đây khi làm bài tập hoặc thực hành?",
+      "options": [
+        "A. Lực đi qua trục quay: Nếu giá của lực đi qua trục quay hoặc song song với trục quay thì khoảng cách $d = 0 \\implies M = ",
+        "B. Luôn luôn cân bằng phương trình và kiểm tra đầy đủ đơn vị đo",
+        "C. Đọc kỹ nhãn hóa chất và tuân thủ tuyệt đối an toàn phòng thí nghiệm",
+        "D. Ghi chép trung thực số liệu đo đạc thực nghiệm"
+      ],
+      "answer": "A",
+      "explanation": "Bác học lưu ý: ⚠️ **Lực đi qua trục quay:** Nếu giá của lực đi qua trục quay hoặc song song với trục quay thì khoảng cách $d = 0 \\implies M = 0$, lực hoàn toàn **không có tác dụng làm quay**!"
+    }
+  ],
+  "Bai_20_Hien_tuong_nhiem_dien_do_co_xat.md": [
+    {
+      "id": "q_Bai_20_Hien_tuong_nhiem_dien_do_co_xat.md_easy",
+      "level": "Dễ 🍬",
+      "question": "Nội dung trọng tâm then chốt nào sau đây mô tả ĐÚNG nhất bản chất kiến thức của bài học?",
+      "options": [
+        "A. Vật nhiễm điện có khả năng hút các vật nhẹ khác hoặc phóng tia lửa điện. Bản chất là sự dị...",
+        "B. Hiện tượng chỉ xảy ra ngẫu nhiên và không tuân theo quy luật khoa học nào",
+        "C. Không có sự liên hệ giữa lý thuyết trong sách giáo khoa với thực tế đời sống",
+        "D. Toàn bộ các chất đều biến đổi mà không có sự bảo toàn năng lượng"
+      ],
+      "answer": "A",
+      "explanation": "Khái niệm trọng tâm của bài: Vật nhiễm điện có khả năng hút các vật nhẹ khác hoặc phóng tia lửa điện. Bản chất là sự dịch chuyển electron: Nhận thêm electron mang điện tích âm ($-$), mất bớt electron mang điện tích dương ($+$). Cùng dấu thì đẩy nhau, khác dấu thì hút nhau."
+    },
+    {
+      "id": "q_Bai_20_Hien_tuong_nhiem_dien_do_co_xat.md_med",
+      "level": "Vừa 🌟",
+      "question": "Trong thực tế đời sống, ứng dụng hoặc hiện tượng nào sau đây gắn liền với bài học?",
+      "options": [
+        "A. Chải tóc bằng lược nhựa vào mùa đông khô hanh nghe tiếng lách tách và tóc bị hút dựng đứng theo răng lược",
+        "B. Đổ nước lạnh vào dầu sôi để dập tắt đám cháy dầu mỡ",
+        "C. Sử dụng điện không cần thiết bị đóng ngắt bảo vệ cầu chì",
+        "D. Để thực phẩm tươi sống ở nhiệt độ cao ẩm ướt để bảo quản lâu"
+      ],
+      "answer": "A",
+      "explanation": "Bản chất ứng dụng: • Chải tóc bằng lược nhựa vào mùa đông khô hanh nghe tiếng lách tách và tóc bị hút dựng đứng theo răng lược.\n• Xe chở xăng dầu luôn thả một sợi xích sắt chạm đất để truyền các điện tích do ma sát xuống đất, tránh phát sinh tia lửa điện gây nổ cháy xe."
+    },
+    {
+      "id": "q_Bai_20_Hien_tuong_nhiem_dien_do_co_xat.md_hard",
+      "level": "Thử thách 🚀",
+      "question": "Học sinh THCS cần đặc biệt lưu ý bẫy sai lầm kinh điển nào sau đây khi làm bài tập hoặc thực hành?",
+      "options": [
+        "A. Hiểu lầm về điện tích mới: Cọ xát không tạo ra điện tích mới mà chỉ làm electron dịch chuyển từ vật này sang vật khác; t",
+        "B. Luôn luôn cân bằng phương trình và kiểm tra đầy đủ đơn vị đo",
+        "C. Đọc kỹ nhãn hóa chất và tuân thủ tuyệt đối an toàn phòng thí nghiệm",
+        "D. Ghi chép trung thực số liệu đo đạc thực nghiệm"
+      ],
+      "answer": "A",
+      "explanation": "Bác học lưu ý: ⚠️ **Hiểu lầm về điện tích mới:** Cọ xát không tạo ra điện tích mới mà chỉ làm electron dịch chuyển từ vật này sang vật khác; tổng điện tích toàn hệ luôn được bảo toàn."
+    }
+  ],
+  "Bai_21_Dong_dien_nguon_dien.md": [
+    {
+      "id": "q_Bai_21_Dong_dien_nguon_dien.md_easy",
+      "level": "Dễ 🍬",
+      "question": "Nội dung trọng tâm then chốt nào sau đây mô tả ĐÚNG nhất bản chất kiến thức của bài học?",
+      "options": [
+        "A. Dòng điện là dòng chuyển dời có hướng của các điện tích. Nguồn điện tạo ra và duy trì dòng...",
+        "B. Hiện tượng chỉ xảy ra ngẫu nhiên và không tuân theo quy luật khoa học nào",
+        "C. Không có sự liên hệ giữa lý thuyết trong sách giáo khoa với thực tế đời sống",
+        "D. Toàn bộ các chất đều biến đổi mà không có sự bảo toàn năng lượng"
+      ],
+      "answer": "A",
+      "explanation": "Khái niệm trọng tâm của bài: Dòng điện là dòng chuyển dời có hướng của các điện tích. Nguồn điện tạo ra và duy trì dòng điện trong mạch kín, có hai cực dương ($+$) và âm ($-$). Kim loại dẫn điện nhờ các electron tự do."
+    },
+    {
+      "id": "q_Bai_21_Dong_dien_nguon_dien.md_med",
+      "level": "Vừa 🌟",
+      "question": "Trong thực tế đời sống, ứng dụng hoặc hiện tượng nào sau đây gắn liền với bài học?",
+      "options": [
+        "A. Lõi dây điện làm bằng đồng (dẫn điện cực tốt), vỏ ngoài bọc nhựa dẻo PVC (cách điện an toàn chống giật điện)",
+        "B. Đổ nước lạnh vào dầu sôi để dập tắt đám cháy dầu mỡ",
+        "C. Sử dụng điện không cần thiết bị đóng ngắt bảo vệ cầu chì",
+        "D. Để thực phẩm tươi sống ở nhiệt độ cao ẩm ướt để bảo quản lâu"
+      ],
+      "answer": "A",
+      "explanation": "Bản chất ứng dụng: • Lõi dây điện làm bằng đồng (dẫn điện cực tốt), vỏ ngoài bọc nhựa dẻo PVC (cách điện an toàn chống giật điện).\n• Cơ thể người dẫn điện tốt do chứa nhiều nước và ion muối khoáng, do đó chạm vào dây điện hở rất nguy hiểm."
+    },
+    {
+      "id": "q_Bai_21_Dong_dien_nguon_dien.md_hard",
+      "level": "Thử thách 🚀",
+      "question": "Học sinh THCS cần đặc biệt lưu ý bẫy sai lầm kinh điển nào sau đây khi làm bài tập hoặc thực hành?",
+      "options": [
+        "A. Nước nguyên chất vs Nước thường: Nước cất nguyên chất dẫn điện cực kỳ kém (coi như cách điện), nhưng nước máy, nước mưa,",
+        "B. Luôn luôn cân bằng phương trình và kiểm tra đầy đủ đơn vị đo",
+        "C. Đọc kỹ nhãn hóa chất và tuân thủ tuyệt đối an toàn phòng thí nghiệm",
+        "D. Ghi chép trung thực số liệu đo đạc thực nghiệm"
+      ],
+      "answer": "A",
+      "explanation": "Bác học lưu ý: ⚠️ **Nước nguyên chất vs Nước thường:** Nước cất nguyên chất dẫn điện cực kỳ kém (coi như cách điện), nhưng nước máy, nước mưa, nước ao hồ chứa nhiều ion muối khoáng hòa tan nên dẫn điện rất tốt!"
+    }
+  ],
+  "Bai_22_Mach_dien_don_gian.md": [
+    {
+      "id": "q_Bai_22_Mach_dien_don_gian.md_easy",
+      "level": "Dễ 🍬",
+      "question": "Nội dung trọng tâm then chốt nào sau đây mô tả ĐÚNG nhất bản chất kiến thức của bài học?",
+      "options": [
+        "A. Mạch điện đơn giản gồm nguồn điện, dây dẫn, công tắc và thiết bị tiêu thụ điện. Chiều dòng...",
+        "B. Hiện tượng chỉ xảy ra ngẫu nhiên và không tuân theo quy luật khoa học nào",
+        "C. Không có sự liên hệ giữa lý thuyết trong sách giáo khoa với thực tế đời sống",
+        "D. Toàn bộ các chất đều biến đổi mà không có sự bảo toàn năng lượng"
+      ],
+      "answer": "A",
+      "explanation": "Khái niệm trọng tâm của bài: Mạch điện đơn giản gồm nguồn điện, dây dẫn, công tắc và thiết bị tiêu thụ điện. Chiều dòng điện quy ước chạy từ cực dương qua dây dẫn và thiết bị điện tới cực âm của nguồn điện."
+    },
+    {
+      "id": "q_Bai_22_Mach_dien_don_gian.md_med",
+      "level": "Vừa 🌟",
+      "question": "Trong thực tế đời sống, ứng dụng hoặc hiện tượng nào sau đây gắn liền với bài học?",
+      "options": [
+        "A. Mạch điện chiếu sáng gia đình gồm cầu dao tổng, công tắc và bóng đèn mắc song song để bật tắt từng đèn độc lập",
+        "B. Đổ nước lạnh vào dầu sôi để dập tắt đám cháy dầu mỡ",
+        "C. Sử dụng điện không cần thiết bị đóng ngắt bảo vệ cầu chì",
+        "D. Để thực phẩm tươi sống ở nhiệt độ cao ẩm ướt để bảo quản lâu"
+      ],
+      "answer": "A",
+      "explanation": "Bản chất ứng dụng: • Mạch điện chiếu sáng gia đình gồm cầu dao tổng, công tắc và bóng đèn mắc song song để bật tắt từng đèn độc lập.\n• Cầu chì tự ngắt khi mạch bị chập ngắn mạch giúp ngăn chặn hỏa hoạn."
+    },
+    {
+      "id": "q_Bai_22_Mach_dien_don_gian.md_hard",
+      "level": "Thử thách 🚀",
+      "question": "Học sinh THCS cần đặc biệt lưu ý bẫy sai lầm kinh điển nào sau đây khi làm bài tập hoặc thực hành?",
+      "options": [
+        "A. Nhầm lẫn chiều dòng điện: Chiều dòng điện quy ước lịch sử (từ dương sang âm) ngược lại với chiều chuyển động thực tế của",
+        "B. Luôn luôn cân bằng phương trình và kiểm tra đầy đủ đơn vị đo",
+        "C. Đọc kỹ nhãn hóa chất và tuân thủ tuyệt đối an toàn phòng thí nghiệm",
+        "D. Ghi chép trung thực số liệu đo đạc thực nghiệm"
+      ],
+      "answer": "A",
+      "explanation": "Bác học lưu ý: ⚠️ **Nhầm lẫn chiều dòng điện:** Chiều dòng điện quy ước lịch sử (từ dương sang âm) **ngược lại** với chiều chuyển động thực tế của các electron tự do trong kim loại (từ âm sang dương)."
+    }
+  ],
+  "Bai_23_Tac_dung_cua_dong_dien.md": [
+    {
+      "id": "q_Bai_23_Tac_dung_cua_dong_dien.md_easy",
+      "level": "Dễ 🍬",
+      "question": "Nội dung trọng tâm then chốt nào sau đây mô tả ĐÚNG nhất bản chất kiến thức của bài học?",
+      "options": [
+        "A. Dòng điện có 5 tác dụng chính: Tác dụng nhiệt (bàn là, bếp điện), phát sáng (đèn LED, đèn ...",
+        "B. Hiện tượng chỉ xảy ra ngẫu nhiên và không tuân theo quy luật khoa học nào",
+        "C. Không có sự liên hệ giữa lý thuyết trong sách giáo khoa với thực tế đời sống",
+        "D. Toàn bộ các chất đều biến đổi mà không có sự bảo toàn năng lượng"
+      ],
+      "answer": "A",
+      "explanation": "Khái niệm trọng tâm của bài: Dòng điện có 5 tác dụng chính: Tác dụng nhiệt (bàn là, bếp điện), phát sáng (đèn LED, đèn sợi đốt), từ (nam châm điện, chuông điện), hoá học (mạ điện, điện phân) và sinh lí (sốc tim, co giật cơ)."
+    },
+    {
+      "id": "q_Bai_23_Tac_dung_cua_dong_dien.md_med",
+      "level": "Vừa 🌟",
+      "question": "Trong thực tế đời sống, ứng dụng hoặc hiện tượng nào sau đây gắn liền với bài học?",
+      "options": [
+        "A. Cần cẩu nam châm điện nâng hàng chục tấn thép vụn lên cao trong chớp mắt chỉ bằng cách bật công tắc điện",
+        "B. Đổ nước lạnh vào dầu sôi để dập tắt đám cháy dầu mỡ",
+        "C. Sử dụng điện không cần thiết bị đóng ngắt bảo vệ cầu chì",
+        "D. Để thực phẩm tươi sống ở nhiệt độ cao ẩm ướt để bảo quản lâu"
+      ],
+      "answer": "A",
+      "explanation": "Bản chất ứng dụng: • Cần cẩu nam châm điện nâng hàng chục tấn thép vụn lên cao trong chớp mắt chỉ bằng cách bật công tắc điện.\n• Mạ vàng đồng hồ, trang sức bằng tác dụng hóa học của dòng điện."
+    },
+    {
+      "id": "q_Bai_23_Tac_dung_cua_dong_dien.md_hard",
+      "level": "Thử thách 🚀",
+      "question": "Học sinh THCS cần đặc biệt lưu ý bẫy sai lầm kinh điển nào sau đây khi làm bài tập hoặc thực hành?",
+      "options": [
+        "A. Tác dụng sinh lý cực kỳ nguy hiểm: Dòng điện lưới $220\\text{ V}$ chạy qua cơ thể gây ngừng tim tức khắc. Tuyệt đối không",
+        "B. Luôn luôn cân bằng phương trình và kiểm tra đầy đủ đơn vị đo",
+        "C. Đọc kỹ nhãn hóa chất và tuân thủ tuyệt đối an toàn phòng thí nghiệm",
+        "D. Ghi chép trung thực số liệu đo đạc thực nghiệm"
+      ],
+      "answer": "A",
+      "explanation": "Bác học lưu ý: ⚠️ **Tác dụng sinh lý cực kỳ nguy hiểm:** Dòng điện lưới $220\\text{ V}$ chạy qua cơ thể gây ngừng tim tức khắc. Tuyệt đối không chạm tay vào ổ cắm điện hoặc dây điện hở!"
+    }
+  ],
+  "Bai_24_Cuong_do_dong_dien_va_hieu_dien_the.md": [
+    {
+      "id": "q_Bai_24_Cuong_do_dong_dien_va_hieu_dien_the.md_easy",
+      "level": "Dễ 🍬",
+      "question": "Nội dung trọng tâm then chốt nào sau đây mô tả ĐÚNG nhất bản chất kiến thức của bài học?",
+      "options": [
+        "A. Cường độ dòng điện ($I$, đơn vị Ampe $\\mathrm{A}$) đặc trưng cho độ mạnh yếu của dòng điện...",
+        "B. Hiện tượng chỉ xảy ra ngẫu nhiên và không tuân theo quy luật khoa học nào",
+        "C. Không có sự liên hệ giữa lý thuyết trong sách giáo khoa với thực tế đời sống",
+        "D. Toàn bộ các chất đều biến đổi mà không có sự bảo toàn năng lượng"
+      ],
+      "answer": "A",
+      "explanation": "Khái niệm trọng tâm của bài: Cường độ dòng điện ($I$, đơn vị Ampe $\\mathrm{A}$) đặc trưng cho độ mạnh yếu của dòng điện. Hiệu điện thế ($U$, đơn vị Vôn $\\mathrm{V}$) cho biết khả năng sinh công của nguồn điện. Ampe kế mắc nối tiếp, Vôn kế mắc song song."
+    },
+    {
+      "id": "q_Bai_24_Cuong_do_dong_dien_va_hieu_dien_the.md_med",
+      "level": "Vừa 🌟",
+      "question": "Trong thực tế đời sống, ứng dụng hoặc hiện tượng nào sau đây gắn liền với bài học?",
+      "options": [
+        "A. Pin tiểu con thỏ có hiệu điện thế $1{,}5\\text{ V}$; Ắc quy xe máy là $12\\text{ V}$; Điện lưới sinh hoạt gia đình tại Việt Nam là $220\\text{ V}$",
+        "B. Đổ nước lạnh vào dầu sôi để dập tắt đám cháy dầu mỡ",
+        "C. Sử dụng điện không cần thiết bị đóng ngắt bảo vệ cầu chì",
+        "D. Để thực phẩm tươi sống ở nhiệt độ cao ẩm ướt để bảo quản lâu"
+      ],
+      "answer": "A",
+      "explanation": "Bản chất ứng dụng: • Pin tiểu con thỏ có hiệu điện thế $1{,}5\\text{ V}$; Ắc quy xe máy là $12\\text{ V}$; Điện lưới sinh hoạt gia đình tại Việt Nam là $220\\text{ V}$."
+    },
+    {
+      "id": "q_Bai_24_Cuong_do_dong_dien_va_hieu_dien_the.md_hard",
+      "level": "Thử thách 🚀",
+      "question": "Học sinh THCS cần đặc biệt lưu ý bẫy sai lầm kinh điển nào sau đây khi làm bài tập hoặc thực hành?",
+      "options": [
+        "A. Mắc nhầm Ampe kế song song với nguồn điện: Gây ra hiện tượng đoản mạch (chập điện), dòng điện vọt lên cực đại làm cháy n",
+        "B. Luôn luôn cân bằng phương trình và kiểm tra đầy đủ đơn vị đo",
+        "C. Đọc kỹ nhãn hóa chất và tuân thủ tuyệt đối an toàn phòng thí nghiệm",
+        "D. Ghi chép trung thực số liệu đo đạc thực nghiệm"
+      ],
+      "answer": "A",
+      "explanation": "Bác học lưu ý: ⚠️ **Mắc nhầm Ampe kế song song với nguồn điện:** Gây ra hiện tượng đoản mạch (chập điện), dòng điện vọt lên cực đại làm cháy nổ đồng hồ đo và hỏng nguồn điện ngay lập tức!"
+    }
+  ],
+  "Bai_25_Thuc_hanh_do_cuong_do_dong_dien_va_hieu_dien_the.md": [
+    {
+      "id": "q_Bai_25_Thuc_hanh_do_cuong_do_dong_dien_va_hieu_dien_the.md_easy",
+      "level": "Dễ 🍬",
+      "question": "Nội dung trọng tâm then chốt nào sau đây mô tả ĐÚNG nhất bản chất kiến thức của bài học?",
+      "options": [
+        "A. Trong đoạn mạch nối tiếp: Cường độ dòng điện bằng nhau tại mọi điểm ($I = I_1 = I_2$); Hiệ...",
+        "B. Hiện tượng chỉ xảy ra ngẫu nhiên và không tuân theo quy luật khoa học nào",
+        "C. Không có sự liên hệ giữa lý thuyết trong sách giáo khoa với thực tế đời sống",
+        "D. Toàn bộ các chất đều biến đổi mà không có sự bảo toàn năng lượng"
+      ],
+      "answer": "A",
+      "explanation": "Khái niệm trọng tâm của bài: Trong đoạn mạch nối tiếp: Cường độ dòng điện bằng nhau tại mọi điểm ($I = I_1 = I_2$); Hiệu điện thế tổng bằng tổng các hiệu điện thế thành phần ($U = U_1 + U_2$). Trong đoạn mạch song song: $U = U_1 = U_2$ và $I = I_1 + I_2$."
+    },
+    {
+      "id": "q_Bai_25_Thuc_hanh_do_cuong_do_dong_dien_va_hieu_dien_the.md_med",
+      "level": "Vừa 🌟",
+      "question": "Trong thực tế đời sống, ứng dụng hoặc hiện tượng nào sau đây gắn liền với bài học?",
+      "options": [
+        "A. Các bóng đèn dây led trang trí Noel thường mắc nối tiếp (hỏng 1 bóng là cả dây tắt)",
+        "B. Đổ nước lạnh vào dầu sôi để dập tắt đám cháy dầu mỡ",
+        "C. Sử dụng điện không cần thiết bị đóng ngắt bảo vệ cầu chì",
+        "D. Để thực phẩm tươi sống ở nhiệt độ cao ẩm ướt để bảo quản lâu"
+      ],
+      "answer": "A",
+      "explanation": "Bản chất ứng dụng: • Các bóng đèn dây led trang trí Noel thường mắc nối tiếp (hỏng 1 bóng là cả dây tắt).\n• Các thiết bị điện trong nhà (tivi, quạt, tủ lạnh) luôn mắc song song với nguồn $220\\text{ V}$ để hoạt động độc lập với cùng điện áp định mức."
+    },
+    {
+      "id": "q_Bai_25_Thuc_hanh_do_cuong_do_dong_dien_va_hieu_dien_the.md_hard",
+      "level": "Thử thách 🚀",
+      "question": "Học sinh THCS cần đặc biệt lưu ý bẫy sai lầm kinh điển nào sau đây khi làm bài tập hoặc thực hành?",
+      "options": [
+        "A. Quên tắt nguồn trước khi mắc mạch: Khi lắp ráp hoặc thay đổi thiết bị trong mạch, bắt buộc phải ngắt công tắc để đảm bảo",
+        "B. Luôn luôn cân bằng phương trình và kiểm tra đầy đủ đơn vị đo",
+        "C. Đọc kỹ nhãn hóa chất và tuân thủ tuyệt đối an toàn phòng thí nghiệm",
+        "D. Ghi chép trung thực số liệu đo đạc thực nghiệm"
+      ],
+      "answer": "A",
+      "explanation": "Bác học lưu ý: ⚠️ **Quên tắt nguồn trước khi mắc mạch:** Khi lắp ráp hoặc thay đổi thiết bị trong mạch, bắt buộc phải ngắt công tắc để đảm bảo an toàn tuyệt đối."
+    }
+  ],
+  "Bai_26_Nang_luong_nhiet_va_noi_nang.md": [
+    {
+      "id": "q_Bai_26_Nang_luong_nhiet_va_noi_nang.md_easy",
+      "level": "Dễ 🍬",
+      "question": "Nội dung trọng tâm then chốt nào sau đây mô tả ĐÚNG nhất bản chất kiến thức của bài học?",
+      "options": [
+        "A. Nội năng của một vật là tổng động năng và thế năng của các phân tử cấu tạo nên vật. Nhiệt ...",
+        "B. Hiện tượng chỉ xảy ra ngẫu nhiên và không tuân theo quy luật khoa học nào",
+        "C. Không có sự liên hệ giữa lý thuyết trong sách giáo khoa với thực tế đời sống",
+        "D. Toàn bộ các chất đều biến đổi mà không có sự bảo toàn năng lượng"
+      ],
+      "answer": "A",
+      "explanation": "Khái niệm trọng tâm của bài: Nội năng của một vật là tổng động năng và thế năng của các phân tử cấu tạo nên vật. Nhiệt độ càng cao, các phân tử chuyển động càng hỗn loạn nhanh $\\rightarrow$ nội năng càng lớn. Có 2 cách làm thay đổi nội năng: Thực hiện công và Truyền nhiệt."
+    },
+    {
+      "id": "q_Bai_26_Nang_luong_nhiet_va_noi_nang.md_med",
+      "level": "Vừa 🌟",
+      "question": "Trong thực tế đời sống, ứng dụng hoặc hiện tượng nào sau đây gắn liền với bài học?",
+      "options": [
+        "A. Xoa hai bàn tay vào nhau thấy tay ấm lên (thực hiện công làm tăng nội năng)",
+        "B. Đổ nước lạnh vào dầu sôi để dập tắt đám cháy dầu mỡ",
+        "C. Sử dụng điện không cần thiết bị đóng ngắt bảo vệ cầu chì",
+        "D. Để thực phẩm tươi sống ở nhiệt độ cao ẩm ướt để bảo quản lâu"
+      ],
+      "answer": "A",
+      "explanation": "Bản chất ứng dụng: • Xoa hai bàn tay vào nhau thấy tay ấm lên (thực hiện công làm tăng nội năng).\n• Thả thìa inox vào bát canh nóng thấy cán thìa nóng lên (truyền nhiệt)."
+    },
+    {
+      "id": "q_Bai_26_Nang_luong_nhiet_va_noi_nang.md_hard",
+      "level": "Thử thách 🚀",
+      "question": "Học sinh THCS cần đặc biệt lưu ý bẫy sai lầm kinh điển nào sau đây khi làm bài tập hoặc thực hành?",
+      "options": [
+        "A. Nhiệt lượng không phải là nội năng: Nhiệt lượng là phần nội năng tăng thêm hay mất đi trong quá trình truyền nhiệt, chứ ",
+        "B. Luôn luôn cân bằng phương trình và kiểm tra đầy đủ đơn vị đo",
+        "C. Đọc kỹ nhãn hóa chất và tuân thủ tuyệt đối an toàn phòng thí nghiệm",
+        "D. Ghi chép trung thực số liệu đo đạc thực nghiệm"
+      ],
+      "answer": "A",
+      "explanation": "Bác học lưu ý: ⚠️ **Nhiệt lượng không phải là nội năng:** Nhiệt lượng là **phần nội năng tăng thêm hay mất đi** trong quá trình truyền nhiệt, chứ không phải là toàn bộ nội năng của vật."
+    }
+  ],
+  "Bai_27_Thuc_hanh_do_nang_luong_nhiet_bang_joulemeter.md": [
+    {
+      "id": "q_Bai_27_Thuc_hanh_do_nang_luong_nhiet_bang_joulemeter.md_easy",
+      "level": "Dễ 🍬",
+      "question": "Nội dung trọng tâm then chốt nào sau đây mô tả ĐÚNG nhất bản chất kiến thức của bài học?",
+      "options": [
+        "A. Joulemeter đo điện năng tiêu thụ chuyển hóa thành nhiệt năng cấp cho nước trong nhiệt lượn...",
+        "B. Hiện tượng chỉ xảy ra ngẫu nhiên và không tuân theo quy luật khoa học nào",
+        "C. Không có sự liên hệ giữa lý thuyết trong sách giáo khoa với thực tế đời sống",
+        "D. Toàn bộ các chất đều biến đổi mà không có sự bảo toàn năng lượng"
+      ],
+      "answer": "A",
+      "explanation": "Khái niệm trọng tâm của bài: Joulemeter đo điện năng tiêu thụ chuyển hóa thành nhiệt năng cấp cho nước trong nhiệt lượng kế: $A = Q$. Tính nhiệt lượng theo công thức $Q = m \\cdot c \\cdot \\Delta t$ và tính hiệu suất đun nóng."
+    },
+    {
+      "id": "q_Bai_27_Thuc_hanh_do_nang_luong_nhiet_bang_joulemeter.md_med",
+      "level": "Vừa 🌟",
+      "question": "Trong thực tế đời sống, ứng dụng hoặc hiện tượng nào sau đây gắn liền với bài học?",
+      "options": [
+        "A. Ấm siêu tốc đun sôi nước có hiệu suất khoảng $85 - 90\\%$, phần năng lượng hao phí bị thất thoát tỏa ra không khí xung quanh và đốt nóng vỏ ấm",
+        "B. Đổ nước lạnh vào dầu sôi để dập tắt đám cháy dầu mỡ",
+        "C. Sử dụng điện không cần thiết bị đóng ngắt bảo vệ cầu chì",
+        "D. Để thực phẩm tươi sống ở nhiệt độ cao ẩm ướt để bảo quản lâu"
+      ],
+      "answer": "A",
+      "explanation": "Bản chất ứng dụng: • Ấm siêu tốc đun sôi nước có hiệu suất khoảng $85 - 90\\%$, phần năng lượng hao phí bị thất thoát tỏa ra không khí xung quanh và đốt nóng vỏ ấm."
+    },
+    {
+      "id": "q_Bai_27_Thuc_hanh_do_nang_luong_nhiet_bang_joulemeter.md_hard",
+      "level": "Thử thách 🚀",
+      "question": "Học sinh THCS cần đặc biệt lưu ý bẫy sai lầm kinh điển nào sau đây khi làm bài tập hoặc thực hành?",
+      "options": [
+        "A. Bỏ qua nhiệt lượng kế: Thực tế vỏ bình nhiệt lượng kế và đũa khuấy cũng nhận một phần nhiệt lượng, do đó $A_{\\text{đo}} ",
+        "B. Luôn luôn cân bằng phương trình và kiểm tra đầy đủ đơn vị đo",
+        "C. Đọc kỹ nhãn hóa chất và tuân thủ tuyệt đối an toàn phòng thí nghiệm",
+        "D. Ghi chép trung thực số liệu đo đạc thực nghiệm"
+      ],
+      "answer": "A",
+      "explanation": "Bác học lưu ý: ⚠️ **Bỏ qua nhiệt lượng kế:** Thực tế vỏ bình nhiệt lượng kế và đũa khuấy cũng nhận một phần nhiệt lượng, do đó $A_{\\text{đo}} > Q_{\\text{nước}}$."
+    }
+  ],
+  "Bai_28_Su_truyen_nhiet.md": [
+    {
+      "id": "q_Bai_28_Su_truyen_nhiet.md_easy",
+      "level": "Dễ 🍬",
+      "question": "Nội dung trọng tâm then chốt nào sau đây mô tả ĐÚNG nhất bản chất kiến thức của bài học?",
+      "options": [
+        "A. Có 3 hình thức truyền nhiệt: Dẫn nhiệt (chủ yếu trong chất rắn, kim loại dẫn tốt nhất); Đố...",
+        "B. Hiện tượng chỉ xảy ra ngẫu nhiên và không tuân theo quy luật khoa học nào",
+        "C. Không có sự liên hệ giữa lý thuyết trong sách giáo khoa với thực tế đời sống",
+        "D. Toàn bộ các chất đều biến đổi mà không có sự bảo toàn năng lượng"
+      ],
+      "answer": "A",
+      "explanation": "Khái niệm trọng tâm của bài: Có 3 hình thức truyền nhiệt: Dẫn nhiệt (chủ yếu trong chất rắn, kim loại dẫn tốt nhất); Đối lưu (chủ yếu trong chất lỏng và khí, truyền bằng các dòng vật chất); Bức xạ nhiệt (truyền bằng tia nhiệt đi thẳng, truyền được cả trong chân không)."
+    },
+    {
+      "id": "q_Bai_28_Su_truyen_nhiet.md_med",
+      "level": "Vừa 🌟",
+      "question": "Trong thực tế đời sống, ứng dụng hoặc hiện tượng nào sau đây gắn liền với bài học?",
+      "options": [
+        "A. Phích nước (bình giữ nhiệt) có vỏ tráng bạc nhẵn bóng để phản xạ bức xạ nhiệt, giữa 2 lớp vỏ là chân không để ngăn cản dẫn nhiệt và đối lưu",
+        "B. Đổ nước lạnh vào dầu sôi để dập tắt đám cháy dầu mỡ",
+        "C. Sử dụng điện không cần thiết bị đóng ngắt bảo vệ cầu chì",
+        "D. Để thực phẩm tươi sống ở nhiệt độ cao ẩm ướt để bảo quản lâu"
+      ],
+      "answer": "A",
+      "explanation": "Bản chất ứng dụng: • Phích nước (bình giữ nhiệt) có vỏ tráng bạc nhẵn bóng để phản xạ bức xạ nhiệt, giữa 2 lớp vỏ là chân không để ngăn cản dẫn nhiệt và đối lưu.\n• Đun nước phải đun từ đáy ấm để tạo dòng đối lưu cuộn tròn sôi đều cả ấm."
+    },
+    {
+      "id": "q_Bai_28_Su_truyen_nhiet.md_hard",
+      "level": "Thử thách 🚀",
+      "question": "Học sinh THCS cần đặc biệt lưu ý bẫy sai lầm kinh điển nào sau đây khi làm bài tập hoặc thực hành?",
+      "options": [
+        "A. Hiểu sai về áo len mùa đông: Áo len không tự sinh ra nhiệt! Áo len giữ ấm nhờ các lỗ xốp chứa nhiều lớp không khí tĩnh c",
+        "B. Luôn luôn cân bằng phương trình và kiểm tra đầy đủ đơn vị đo",
+        "C. Đọc kỹ nhãn hóa chất và tuân thủ tuyệt đối an toàn phòng thí nghiệm",
+        "D. Ghi chép trung thực số liệu đo đạc thực nghiệm"
+      ],
+      "answer": "A",
+      "explanation": "Bác học lưu ý: ⚠️ **Hiểu sai về áo len mùa đông:** Áo len không tự sinh ra nhiệt! Áo len giữ ấm nhờ các lỗ xốp chứa nhiều lớp không khí tĩnh cách nhiệt rất tốt, ngăn nhiệt từ cơ thể truyền ra môi trường lạnh bên ngoài."
+    }
+  ],
+  "Bai_29_Su_no_vi_nhiet.md": [
+    {
+      "id": "q_Bai_29_Su_no_vi_nhiet.md_easy",
+      "level": "Dễ 🍬",
+      "question": "Nội dung trọng tâm then chốt nào sau đây mô tả ĐÚNG nhất bản chất kiến thức của bài học?",
+      "options": [
+        "A. Chất khí nở vì nhiệt nhiều hơn chất lỏng, chất lỏng nở vì nhiệt nhiều hơn chất rắn: Khí > ...",
+        "B. Hiện tượng chỉ xảy ra ngẫu nhiên và không tuân theo quy luật khoa học nào",
+        "C. Không có sự liên hệ giữa lý thuyết trong sách giáo khoa với thực tế đời sống",
+        "D. Toàn bộ các chất đều biến đổi mà không có sự bảo toàn năng lượng"
+      ],
+      "answer": "A",
+      "explanation": "Khái niệm trọng tâm của bài: Chất khí nở vì nhiệt nhiều hơn chất lỏng, chất lỏng nở vì nhiệt nhiều hơn chất rắn: Khí > Lỏng > Rắn. Băng kép gồm hai kim loại nở vì nhiệt khác nhau tán chặt vào nhau, khi nóng hoặc lạnh sẽ bị uốn cong."
+    },
+    {
+      "id": "q_Bai_29_Su_no_vi_nhiet.md_med",
+      "level": "Vừa 🌟",
+      "question": "Trong thực tế đời sống, ứng dụng hoặc hiện tượng nào sau đây gắn liền với bài học?",
+      "options": [
+        "A. Khi rót nước sôi vào cốc thủy tinh dày rất dễ nứt vỡ vì lớp thủy tinh bên trong nở nhanh mà lớp bên ngoài chưa kịp nở gây ứng suất kéo nứt",
+        "B. Đổ nước lạnh vào dầu sôi để dập tắt đám cháy dầu mỡ",
+        "C. Sử dụng điện không cần thiết bị đóng ngắt bảo vệ cầu chì",
+        "D. Để thực phẩm tươi sống ở nhiệt độ cao ẩm ướt để bảo quản lâu"
+      ],
+      "answer": "A",
+      "explanation": "Bản chất ứng dụng: • Khi rót nước sôi vào cốc thủy tinh dày rất dễ nứt vỡ vì lớp thủy tinh bên trong nở nhanh mà lớp bên ngoài chưa kịp nở gây ứng suất kéo nứt.\n• Bơm lốp xe đạp quá căng để ngoài trời nắng dễ bị nổ lốp do không khí trong ruột xe nở mạnh."
+    },
+    {
+      "id": "q_Bai_29_Su_no_vi_nhiet.md_hard",
+      "level": "Thử thách 🚀",
+      "question": "Học sinh THCS cần đặc biệt lưu ý bẫy sai lầm kinh điển nào sau đây khi làm bài tập hoặc thực hành?",
+      "options": [
+        "A. Nước đá nở ra dị thường: Từ $0^\\circ\\text{C}$ đến $4^\\circ\\text{C}$, nước co lại khi nóng lên; ở $4^\\circ\\text{C}$ nước ",
+        "B. Luôn luôn cân bằng phương trình và kiểm tra đầy đủ đơn vị đo",
+        "C. Đọc kỹ nhãn hóa chất và tuân thủ tuyệt đối an toàn phòng thí nghiệm",
+        "D. Ghi chép trung thực số liệu đo đạc thực nghiệm"
+      ],
+      "answer": "A",
+      "explanation": "Bác học lưu ý: ⚠️ **Nước đá nở ra dị thường:** Từ $0^\\circ\\text{C}$ đến $4^\\circ\\text{C}$, nước co lại khi nóng lên; ở $4^\\circ\\text{C}$ nước có khối lượng riêng lớn nhất ($1000\\text{ kg/m}^3$). Nhờ vậy mặt hồ đóng băng ở trên còn dưới đáy vẫn là nước lỏng $4^\\circ\\text{C}$ cho cá bơi lội mùa đông."
+    }
+  ],
+  "Bai_32_Dinh_duong_va_tieu_hoa_o_nguoi.md": [
+    {
+      "id": "q_Bai_32_Dinh_duong_va_tieu_hoa_o_nguoi.md_easy",
+      "level": "Dễ 🍬",
+      "question": "Nội dung trọng tâm then chốt nào sau đây mô tả ĐÚNG nhất bản chất kiến thức của bài học?",
+      "options": [
+        "A. Hệ tiêu hóa biến đổi thức ăn thành các chất dinh dưỡng hòa tan mà cơ thể hấp thụ được (qua...",
+        "B. Hiện tượng chỉ xảy ra ngẫu nhiên và không tuân theo quy luật khoa học nào",
+        "C. Không có sự liên hệ giữa lý thuyết trong sách giáo khoa với thực tế đời sống",
+        "D. Toàn bộ các chất đều biến đổi mà không có sự bảo toàn năng lượng"
+      ],
+      "answer": "A",
+      "explanation": "Khái niệm trọng tâm của bài: Hệ tiêu hóa biến đổi thức ăn thành các chất dinh dưỡng hòa tan mà cơ thể hấp thụ được (qua nhai nghiền cơ học và enzyme hóa học). Ruột non là nơi hoàn thành tiêu hóa và hấp thụ chất dinh dưỡng chủ yếu nhờ hàng triệu vi nhung mao."
+    },
+    {
+      "id": "q_Bai_32_Dinh_duong_va_tieu_hoa_o_nguoi.md_med",
+      "level": "Vừa 🌟",
+      "question": "Trong thực tế đời sống, ứng dụng hoặc hiện tượng nào sau đây gắn liền với bài học?",
+      "options": [
+        "A. Nhai kĩ cơm trắng, bánh mì thấy có vị ngọt lợ trong miệng vì enzyme amylase trong nước bọt đã phân giải một phần tinh bột chín thành đường maltose",
+        "B. Đổ nước lạnh vào dầu sôi để dập tắt đám cháy dầu mỡ",
+        "C. Sử dụng điện không cần thiết bị đóng ngắt bảo vệ cầu chì",
+        "D. Để thực phẩm tươi sống ở nhiệt độ cao ẩm ướt để bảo quản lâu"
+      ],
+      "answer": "A",
+      "explanation": "Bản chất ứng dụng: • Nhai kĩ cơm trắng, bánh mì thấy có vị ngọt lợ trong miệng vì enzyme amylase trong nước bọt đã phân giải một phần tinh bột chín thành đường maltose.\n• Ăn đồ chua cay, thức khuya, stress kích thích dạ dày tăng tiết acid $\\mathrm{HCl}$ gây viêm loét dạ dày."
+    },
+    {
+      "id": "q_Bai_32_Dinh_duong_va_tieu_hoa_o_nguoi.md_hard",
+      "level": "Thử thách 🚀",
+      "question": "Học sinh THCS cần đặc biệt lưu ý bẫy sai lầm kinh điển nào sau đây khi làm bài tập hoặc thực hành?",
+      "options": [
+        "A. Dịch mật không chứa enzyme tiêu hóa: Dịch mật do gan tiết ra không chứa enzyme, nó chỉ có muối mật đóng vai trò nhũ tươn",
+        "B. Luôn luôn cân bằng phương trình và kiểm tra đầy đủ đơn vị đo",
+        "C. Đọc kỹ nhãn hóa chất và tuân thủ tuyệt đối an toàn phòng thí nghiệm",
+        "D. Ghi chép trung thực số liệu đo đạc thực nghiệm"
+      ],
+      "answer": "A",
+      "explanation": "Bác học lưu ý: ⚠️ **Dịch mật không chứa enzyme tiêu hóa:** Dịch mật do gan tiết ra **không chứa enzyme**, nó chỉ có muối mật đóng vai trò nhũ tương hóa phân tán các giọt chất béo lớn thành các hạt mỡ li ti để enzyme lipase dễ dàng tấn công phân giải."
+    }
+  ],
+  "Bai_33_Mau_va_he_tuan_hoan_cua_co_the_nguoi.md": [
+    {
+      "id": "q_Bai_33_Mau_va_he_tuan_hoan_cua_co_the_nguoi.md_easy",
+      "level": "Dễ 🍬",
+      "question": "Nội dung trọng tâm then chốt nào sau đây mô tả ĐÚNG nhất bản chất kiến thức của bài học?",
+      "options": [
+        "A. Máu gồm huyết tương (55%) và tế bào máu (45%: Hồng cầu mang O2/CO2, Bạch cầu miễn dịch thự...",
+        "B. Hiện tượng chỉ xảy ra ngẫu nhiên và không tuân theo quy luật khoa học nào",
+        "C. Không có sự liên hệ giữa lý thuyết trong sách giáo khoa với thực tế đời sống",
+        "D. Toàn bộ các chất đều biến đổi mà không có sự bảo toàn năng lượng"
+      ],
+      "answer": "A",
+      "explanation": "Khái niệm trọng tâm của bài: Máu gồm huyết tương (55%) và tế bào máu (45%: Hồng cầu mang O2/CO2, Bạch cầu miễn dịch thực bào, Tiểu cầu đông máu). Tim 4 ngăn co bóp nhịp nhàng bơm máu qua 2 vòng tuần hoàn kín."
+    },
+    {
+      "id": "q_Bai_33_Mau_va_he_tuan_hoan_cua_co_the_nguoi.md_med",
+      "level": "Vừa 🌟",
+      "question": "Trong thực tế đời sống, ứng dụng hoặc hiện tượng nào sau đây gắn liền với bài học?",
+      "options": [
+        "A. Người thuộc nhóm máu O là 'người cho phổ thông' vì hồng cầu không có kháng nguyên A, B nên không bị kháng thể người nhận ngưng kết",
+        "B. Đổ nước lạnh vào dầu sôi để dập tắt đám cháy dầu mỡ",
+        "C. Sử dụng điện không cần thiết bị đóng ngắt bảo vệ cầu chì",
+        "D. Để thực phẩm tươi sống ở nhiệt độ cao ẩm ướt để bảo quản lâu"
+      ],
+      "answer": "A",
+      "explanation": "Bản chất ứng dụng: • Người thuộc nhóm máu O là 'người cho phổ thông' vì hồng cầu không có kháng nguyên A, B nên không bị kháng thể người nhận ngưng kết.\n• Đứt tay chảy máu sau 3-5 phút máu tự đông lại thành cục nhờ mạng lưới sợi tơ huyết fibrin của tiểu cầu bịt kín vết thương."
+    },
+    {
+      "id": "q_Bai_33_Mau_va_he_tuan_hoan_cua_co_the_nguoi.md_hard",
+      "level": "Thử thách 🚀",
+      "question": "Học sinh THCS cần đặc biệt lưu ý bẫy sai lầm kinh điển nào sau đây khi làm bài tập hoặc thực hành?",
+      "options": [
+        "A. Nhầm lẫn máu đỏ tươi và đỏ thẫm: Máu đỏ tươi là máu giàu oxy ($\\mathrm{HbO}_2$) chảy trong động mạch chủ và tĩnh mạch ph",
+        "B. Luôn luôn cân bằng phương trình và kiểm tra đầy đủ đơn vị đo",
+        "C. Đọc kỹ nhãn hóa chất và tuân thủ tuyệt đối an toàn phòng thí nghiệm",
+        "D. Ghi chép trung thực số liệu đo đạc thực nghiệm"
+      ],
+      "answer": "A",
+      "explanation": "Bác học lưu ý: ⚠️ **Nhầm lẫn máu đỏ tươi và đỏ thẫm:** Máu đỏ tươi là máu giàu oxy ($\\mathrm{HbO}_2$) chảy trong động mạch chủ và tĩnh mạch phổi; máu đỏ thẫm là máu nghèo oxy, giàu $\\mathrm{CO}_2$ chảy trong tĩnh mạch chủ và động mạch phổi."
+    }
+  ],
+  "Bai_34_He_ho_hap_o_nguoi.md": [
+    {
+      "id": "q_Bai_34_He_ho_hap_o_nguoi.md_easy",
+      "level": "Dễ 🍬",
+      "question": "Nội dung trọng tâm then chốt nào sau đây mô tả ĐÚNG nhất bản chất kiến thức của bài học?",
+      "options": [
+        "A. Hệ hô hấp gồm đường dẫn khí (mũi, họng, thanh quản, khí quản, phế quản - làm ấm, ẩm, lọc b...",
+        "B. Hiện tượng chỉ xảy ra ngẫu nhiên và không tuân theo quy luật khoa học nào",
+        "C. Không có sự liên hệ giữa lý thuyết trong sách giáo khoa với thực tế đời sống",
+        "D. Toàn bộ các chất đều biến đổi mà không có sự bảo toàn năng lượng"
+      ],
+      "answer": "A",
+      "explanation": "Khái niệm trọng tâm của bài: Hệ hô hấp gồm đường dẫn khí (mũi, họng, thanh quản, khí quản, phế quản - làm ấm, ẩm, lọc bụi) và hai lá phổi. Phổi có hàng trăm triệu phế nang tạo bề mặt trao đổi khí khổng lồ $70 - 80\\text{ m}^2$ giữa máu và không khí."
+    },
+    {
+      "id": "q_Bai_34_He_ho_hap_o_nguoi.md_med",
+      "level": "Vừa 🌟",
+      "question": "Trong thực tế đời sống, ứng dụng hoặc hiện tượng nào sau đây gắn liền với bài học?",
+      "options": [
+        "A. Hít thở bằng mũi tốt hơn bằng miệng vì mũi có lớp lông giữ bụi, tuyến nhầy diệt khuẩn và mao mạch sưởi ấm không khí trước khi vào phổi",
+        "B. Đổ nước lạnh vào dầu sôi để dập tắt đám cháy dầu mỡ",
+        "C. Sử dụng điện không cần thiết bị đóng ngắt bảo vệ cầu chì",
+        "D. Để thực phẩm tươi sống ở nhiệt độ cao ẩm ướt để bảo quản lâu"
+      ],
+      "answer": "A",
+      "explanation": "Bản chất ứng dụng: • Hít thở bằng mũi tốt hơn bằng miệng vì mũi có lớp lông giữ bụi, tuyến nhầy diệt khuẩn và mao mạch sưởi ấm không khí trước khi vào phổi.\n• Khói thuốc lá chứa hàng ngàn chất độc (nicotine, hắc ín, khí CO) làm tê liệt lông rung khí quản và gây ung thư phổi."
+    },
+    {
+      "id": "q_Bai_34_He_ho_hap_o_nguoi.md_hard",
+      "level": "Thử thách 🚀",
+      "question": "Học sinh THCS cần đặc biệt lưu ý bẫy sai lầm kinh điển nào sau đây khi làm bài tập hoặc thực hành?",
+      "options": [
+        "A. Cơ chế hít vào - thở ra: Khi hít vào, cơ hoành và cơ liên sườn co lại làm thể tích lồng ngực tăng lên $\\rightarrow$ áp s",
+        "B. Luôn luôn cân bằng phương trình và kiểm tra đầy đủ đơn vị đo",
+        "C. Đọc kỹ nhãn hóa chất và tuân thủ tuyệt đối an toàn phòng thí nghiệm",
+        "D. Ghi chép trung thực số liệu đo đạc thực nghiệm"
+      ],
+      "answer": "A",
+      "explanation": "Bác học lưu ý: ⚠️ **Cơ chế hít vào - thở ra:** Khi hít vào, cơ hoành và cơ liên sườn **co lại** làm thể tích lồng ngực tăng lên $\\rightarrow$ áp suất trong phổi giảm thấp hơn khí quyển làm không khí tràn vào (chứ không phải không khí tràn vào làm ngực nở ra)."
+    }
+  ],
+  "Bai_35_He_bai_tiet_o_nguoi.md": [
+    {
+      "id": "q_Bai_35_He_bai_tiet_o_nguoi.md_easy",
+      "level": "Dễ 🍬",
+      "question": "Nội dung trọng tâm then chốt nào sau đây mô tả ĐÚNG nhất bản chất kiến thức của bài học?",
+      "options": [
+        "A. Thận là cơ quan bài tiết nước tiểu chủ yếu của cơ thể. Mỗi quả thận có khoảng 1 triệu đơn ...",
+        "B. Hiện tượng chỉ xảy ra ngẫu nhiên và không tuân theo quy luật khoa học nào",
+        "C. Không có sự liên hệ giữa lý thuyết trong sách giáo khoa với thực tế đời sống",
+        "D. Toàn bộ các chất đều biến đổi mà không có sự bảo toàn năng lượng"
+      ],
+      "answer": "A",
+      "explanation": "Khái niệm trọng tâm của bài: Thận là cơ quan bài tiết nước tiểu chủ yếu của cơ thể. Mỗi quả thận có khoảng 1 triệu đơn vị chức năng (Nephron). Nước tiểu hình thành qua 3 bước: Lọc máu ở cầu thận (nước tiểu đầu) $\\rightarrow$ Tái hấp thụ ở ống thận $\\rightarrow$ Bài tiết tiếp tạo nước tiểu chính thức."
+    },
+    {
+      "id": "q_Bai_35_He_bai_tiet_o_nguoi.md_med",
+      "level": "Vừa 🌟",
+      "question": "Trong thực tế đời sống, ứng dụng hoặc hiện tượng nào sau đây gắn liền với bài học?",
+      "options": [
+        "A. Uống ít nước và ăn mặn kéo dài làm khoáng chất lắng đọng kết tinh thành sỏi thận làm tắc đường tiểu gây đau đớn dữ dội",
+        "B. Đổ nước lạnh vào dầu sôi để dập tắt đám cháy dầu mỡ",
+        "C. Sử dụng điện không cần thiết bị đóng ngắt bảo vệ cầu chì",
+        "D. Để thực phẩm tươi sống ở nhiệt độ cao ẩm ướt để bảo quản lâu"
+      ],
+      "answer": "A",
+      "explanation": "Bản chất ứng dụng: • Uống ít nước và ăn mặn kéo dài làm khoáng chất lắng đọng kết tinh thành sỏi thận làm tắc đường tiểu gây đau đớn dữ dội.\n• Khi cơ thể thiếu nước, thận tăng cường tái hấp thu nước làm nước tiểu có màu vàng sẫm đặc trưng."
+    },
+    {
+      "id": "q_Bai_35_He_bai_tiet_o_nguoi.md_hard",
+      "level": "Thử thách 🚀",
+      "question": "Học sinh THCS cần đặc biệt lưu ý bẫy sai lầm kinh điển nào sau đây khi làm bài tập hoặc thực hành?",
+      "options": [
+        "A. Thành phần nước tiểu đầu vs Huyết tương: Nước tiểu đầu có thành phần gần như tương tự huyết tương, chỉ khác là không có ",
+        "B. Luôn luôn cân bằng phương trình và kiểm tra đầy đủ đơn vị đo",
+        "C. Đọc kỹ nhãn hóa chất và tuân thủ tuyệt đối an toàn phòng thí nghiệm",
+        "D. Ghi chép trung thực số liệu đo đạc thực nghiệm"
+      ],
+      "answer": "A",
+      "explanation": "Bác học lưu ý: ⚠️ **Thành phần nước tiểu đầu vs Huyết tương:** Nước tiểu đầu có thành phần gần như tương tự huyết tương, **chỉ khác là không có tế bào máu và các phân tử protein kích thước lớn** (do màng lọc cầu thận giữ lại)."
+    }
+  ],
+  "Bai_36_Dieu_hoa_moi_truong_trong_cua_co_the_nguoi.md": [
+    {
+      "id": "q_Bai_36_Dieu_hoa_moi_truong_trong_cua_co_the_nguoi.md_easy",
+      "level": "Dễ 🍬",
+      "question": "Nội dung trọng tâm then chốt nào sau đây mô tả ĐÚNG nhất bản chất kiến thức của bài học?",
+      "options": [
+        "A. Môi trường trong cơ thể (nội môi) gồm máu, dịch mô và bạch huyết. Cân bằng nội môi (duy tr...",
+        "B. Hiện tượng chỉ xảy ra ngẫu nhiên và không tuân theo quy luật khoa học nào",
+        "C. Không có sự liên hệ giữa lý thuyết trong sách giáo khoa với thực tế đời sống",
+        "D. Toàn bộ các chất đều biến đổi mà không có sự bảo toàn năng lượng"
+      ],
+      "answer": "A",
+      "explanation": "Khái niệm trọng tâm của bài: Môi trường trong cơ thể (nội môi) gồm máu, dịch mô và bạch huyết. Cân bằng nội môi (duy trì ổn định pH, thân nhiệt 37°C, huyết áp, đường huyết 0,12%) là điều kiện tiên quyết cho sự sống của tế bào."
+    },
+    {
+      "id": "q_Bai_36_Dieu_hoa_moi_truong_trong_cua_co_the_nguoi.md_med",
+      "level": "Vừa 🌟",
+      "question": "Trong thực tế đời sống, ứng dụng hoặc hiện tượng nào sau đây gắn liền với bài học?",
+      "options": [
+        "A. Khi ăn nhiều muối mặn, áp suất thẩm thấu máu tăng kích thích trung khu thần kinh tạo cảm giác khát nước dữ dội và thận giảm bài tiết nước để giữ nước cân bằng nồng độ",
+        "B. Đổ nước lạnh vào dầu sôi để dập tắt đám cháy dầu mỡ",
+        "C. Sử dụng điện không cần thiết bị đóng ngắt bảo vệ cầu chì",
+        "D. Để thực phẩm tươi sống ở nhiệt độ cao ẩm ướt để bảo quản lâu"
+      ],
+      "answer": "A",
+      "explanation": "Bản chất ứng dụng: • Khi ăn nhiều muối mặn, áp suất thẩm thấu máu tăng kích thích trung khu thần kinh tạo cảm giác khát nước dữ dội và thận giảm bài tiết nước để giữ nước cân bằng nồng độ."
+    },
+    {
+      "id": "q_Bai_36_Dieu_hoa_moi_truong_trong_cua_co_the_nguoi.md_hard",
+      "level": "Thử thách 🚀",
+      "question": "Học sinh THCS cần đặc biệt lưu ý bẫy sai lầm kinh điển nào sau đây khi làm bài tập hoặc thực hành?",
+      "options": [
+        "A. Bệnh tiểu đường: Do tuyến tụy thiếu hụt hormone insulin hoặc tế bào kháng insulin làm đường không vào được tế bào mà tíc",
+        "B. Luôn luôn cân bằng phương trình và kiểm tra đầy đủ đơn vị đo",
+        "C. Đọc kỹ nhãn hóa chất và tuân thủ tuyệt đối an toàn phòng thí nghiệm",
+        "D. Ghi chép trung thực số liệu đo đạc thực nghiệm"
+      ],
+      "answer": "A",
+      "explanation": "Bác học lưu ý: ⚠️ **Bệnh tiểu đường:** Do tuyến tụy thiếu hụt hormone insulin hoặc tế bào kháng insulin làm đường không vào được tế bào mà tích tụ trong máu rồi thải ra nước tiểu."
+    }
+  ],
+  "Bai_37_He_than_kinh_va_cac_giac_quan_o_nguoi.md": [
+    {
+      "id": "q_Bai_37_He_than_kinh_va_cac_giac_quan_o_nguoi.md_easy",
+      "level": "Dễ 🍬",
+      "question": "Nội dung trọng tâm then chốt nào sau đây mô tả ĐÚNG nhất bản chất kiến thức của bài học?",
+      "options": [
+        "A. Hệ thần kinh gồm trung ương (Não bộ, Tủy sống) và ngoại biên (Dây thần kinh, Hạch thần kin...",
+        "B. Hiện tượng chỉ xảy ra ngẫu nhiên và không tuân theo quy luật khoa học nào",
+        "C. Không có sự liên hệ giữa lý thuyết trong sách giáo khoa với thực tế đời sống",
+        "D. Toàn bộ các chất đều biến đổi mà không có sự bảo toàn năng lượng"
+      ],
+      "answer": "A",
+      "explanation": "Khái niệm trọng tâm của bài: Hệ thần kinh gồm trung ương (Não bộ, Tủy sống) và ngoại biên (Dây thần kinh, Hạch thần kinh). Phản xạ là phản ứng của cơ thể trả lời kích thích. Mắt (thị giác) và Tai (thính giác) là hai giác quan tiếp nhận thông tin môi trường chủ yếu."
+    },
+    {
+      "id": "q_Bai_37_He_than_kinh_va_cac_giac_quan_o_nguoi.md_med",
+      "level": "Vừa 🌟",
+      "question": "Trong thực tế đời sống, ứng dụng hoặc hiện tượng nào sau đây gắn liền với bài học?",
+      "options": [
+        "A. Chạm tay vào vật nóng lập tức rụt tay lại là phản xạ không điều kiện bẩm sinh do tủy sống điều khiển giúp tránh bỏng",
+        "B. Đổ nước lạnh vào dầu sôi để dập tắt đám cháy dầu mỡ",
+        "C. Sử dụng điện không cần thiết bị đóng ngắt bảo vệ cầu chì",
+        "D. Để thực phẩm tươi sống ở nhiệt độ cao ẩm ướt để bảo quản lâu"
+      ],
+      "answer": "A",
+      "explanation": "Bản chất ứng dụng: • Chạm tay vào vật nóng lập tức rụt tay lại là phản xạ không điều kiện bẩm sinh do tủy sống điều khiển giúp tránh bỏng.\n• Thói quen nhìn điện thoại quá gần trong bóng tối là thủ phạm hàng đầu gây cận thị học đường."
+    },
+    {
+      "id": "q_Bai_37_He_than_kinh_va_cac_giac_quan_o_nguoi.md_hard",
+      "level": "Thử thách 🚀",
+      "question": "Học sinh THCS cần đặc biệt lưu ý bẫy sai lầm kinh điển nào sau đây khi làm bài tập hoặc thực hành?",
+      "options": [
+        "A. Phản xạ có điều kiện vs không điều kiện: Tiết nước bọt khi nhai kẹo chanh là phản xạ không điều kiện; chỉ cần nghe ai nh",
+        "B. Luôn luôn cân bằng phương trình và kiểm tra đầy đủ đơn vị đo",
+        "C. Đọc kỹ nhãn hóa chất và tuân thủ tuyệt đối an toàn phòng thí nghiệm",
+        "D. Ghi chép trung thực số liệu đo đạc thực nghiệm"
+      ],
+      "answer": "A",
+      "explanation": "Bác học lưu ý: ⚠️ **Phản xạ có điều kiện vs không điều kiện:** Tiết nước bọt khi nhai kẹo chanh là phản xạ không điều kiện; chỉ cần nghe ai nhắc đến 'quả chanh chua' mà ứa nước miếng là phản xạ có điều kiện hình thành qua trải nghiệm."
+    }
+  ],
+  "Bai_38_He_noi_tiet_o_nguoi.md": [
+    {
+      "id": "q_Bai_38_He_noi_tiet_o_nguoi.md_easy",
+      "level": "Dễ 🍬",
+      "question": "Nội dung trọng tâm then chốt nào sau đây mô tả ĐÚNG nhất bản chất kiến thức của bài học?",
+      "options": [
+        "A. Hệ nội tiết điều hòa các quá trình sinh lý thông qua các hormone tiết thẳng vào máu. Tuyến...",
+        "B. Hiện tượng chỉ xảy ra ngẫu nhiên và không tuân theo quy luật khoa học nào",
+        "C. Không có sự liên hệ giữa lý thuyết trong sách giáo khoa với thực tế đời sống",
+        "D. Toàn bộ các chất đều biến đổi mà không có sự bảo toàn năng lượng"
+      ],
+      "answer": "A",
+      "explanation": "Khái niệm trọng tâm của bài: Hệ nội tiết điều hòa các quá trình sinh lý thông qua các hormone tiết thẳng vào máu. Tuyến yên là tuyến nhạc trưởng; Tuyến giáp tiết thyroxine; Tuyến tụy tiết insulin/glucagon; Tuyến thượng thận tiết adrenaline; Tuyến sinh dục tiết testosterone/estrogen."
+    },
+    {
+      "id": "q_Bai_38_He_noi_tiet_o_nguoi.md_med",
+      "level": "Vừa 🌟",
+      "question": "Trong thực tế đời sống, ứng dụng hoặc hiện tượng nào sau đây gắn liền với bài học?",
+      "options": [
+        "A. Thiếu Iodine trong khẩu phần ăn khiến tuyến giáp phì đại tạo thành khối u bướu ở cổ (bệnh bướu cổ) và trẻ em chậm phát triển trí tuệ",
+        "B. Đổ nước lạnh vào dầu sôi để dập tắt đám cháy dầu mỡ",
+        "C. Sử dụng điện không cần thiết bị đóng ngắt bảo vệ cầu chì",
+        "D. Để thực phẩm tươi sống ở nhiệt độ cao ẩm ướt để bảo quản lâu"
+      ],
+      "answer": "A",
+      "explanation": "Bản chất ứng dụng: • Thiếu Iodine trong khẩu phần ăn khiến tuyến giáp phì đại tạo thành khối u bướu ở cổ (bệnh bướu cổ) và trẻ em chậm phát triển trí tuệ.\n• Sử dụng muối ăn có bổ sung Iodine là giải pháp quốc gia phòng chống bệnh bướu cổ."
+    },
+    {
+      "id": "q_Bai_38_He_noi_tiet_o_nguoi.md_hard",
+      "level": "Thử thách 🚀",
+      "question": "Học sinh THCS cần đặc biệt lưu ý bẫy sai lầm kinh điển nào sau đây khi làm bài tập hoặc thực hành?",
+      "options": [
+        "A. Phân biệt tuyến nội tiết và ngoại tiết: Tuyến ngoại tiết (như tuyến nước bọt, tuyến mồ hôi) có ống dẫn đổ dịch ra bề mặt",
+        "B. Luôn luôn cân bằng phương trình và kiểm tra đầy đủ đơn vị đo",
+        "C. Đọc kỹ nhãn hóa chất và tuân thủ tuyệt đối an toàn phòng thí nghiệm",
+        "D. Ghi chép trung thực số liệu đo đạc thực nghiệm"
+      ],
+      "answer": "A",
+      "explanation": "Bác học lưu ý: ⚠️ **Phân biệt tuyến nội tiết và ngoại tiết:** Tuyến ngoại tiết (như tuyến nước bọt, tuyến mồ hôi) có **ống dẫn** đổ dịch ra bề mặt; Tuyến nội tiết **không có ống dẫn**, hormone ngấm trực tiếp vào các mao mạch máu."
+    }
+  ],
+  "Bai_39_Da_va_dieu_hoa_than_nhiet_o_nguoi.md": [
+    {
+      "id": "q_Bai_39_Da_va_dieu_hoa_than_nhiet_o_nguoi.md_easy",
+      "level": "Dễ 🍬",
+      "question": "Nội dung trọng tâm then chốt nào sau đây mô tả ĐÚNG nhất bản chất kiến thức của bài học?",
+      "options": [
+        "A. Da gồm 3 lớp: Biểu bì (tầng sừng, tế bào sắc tố melanin chống tia UV), Lớp bì (thụ quan, t...",
+        "B. Hiện tượng chỉ xảy ra ngẫu nhiên và không tuân theo quy luật khoa học nào",
+        "C. Không có sự liên hệ giữa lý thuyết trong sách giáo khoa với thực tế đời sống",
+        "D. Toàn bộ các chất đều biến đổi mà không có sự bảo toàn năng lượng"
+      ],
+      "answer": "A",
+      "explanation": "Khái niệm trọng tâm của bài: Da gồm 3 lớp: Biểu bì (tầng sừng, tế bào sắc tố melanin chống tia UV), Lớp bì (thụ quan, tuyến mồ hôi, nang lông, mạch máu) và Lớp mỡ dưới da. Thân nhiệt ổn định ở 37°C nhờ cơ chế cân bằng giữa sinh nhiệt và tỏa nhiệt."
+    },
+    {
+      "id": "q_Bai_39_Da_va_dieu_hoa_than_nhiet_o_nguoi.md_med",
+      "level": "Vừa 🌟",
+      "question": "Trong thực tế đời sống, ứng dụng hoặc hiện tượng nào sau đây gắn liền với bài học?",
+      "options": [
+        "A. Người vận động mạnh đổ mồ hôi nhễ nhại, khi có gió thoảng qua cảm thấy mát lạnh ngay vì mồ hôi bay hơi hấp thụ nhiệt lượng rất lớn từ bề mặt da",
+        "B. Đổ nước lạnh vào dầu sôi để dập tắt đám cháy dầu mỡ",
+        "C. Sử dụng điện không cần thiết bị đóng ngắt bảo vệ cầu chì",
+        "D. Để thực phẩm tươi sống ở nhiệt độ cao ẩm ướt để bảo quản lâu"
+      ],
+      "answer": "A",
+      "explanation": "Bản chất ứng dụng: • Người vận động mạnh đổ mồ hôi nhễ nhại, khi có gió thoảng qua cảm thấy mát lạnh ngay vì mồ hôi bay hơi hấp thụ nhiệt lượng rất lớn từ bề mặt da.\n• Say nắng (cảm nắng) xảy ra khi đi ngoài trời nắng gay gắt làm trung khu điều hòa thân nhiệt bị tê liệt gây sốt cao, mê sảng."
+    },
+    {
+      "id": "q_Bai_39_Da_va_dieu_hoa_than_nhiet_o_nguoi.md_hard",
+      "level": "Thử thách 🚀",
+      "question": "Học sinh THCS cần đặc biệt lưu ý bẫy sai lầm kinh điển nào sau đây khi làm bài tập hoặc thực hành?",
+      "options": [
+        "A. Tắm ngay nước lạnh khi đang toát mồ hôi: Các mao mạch đang giãn nở đột ngột bị co thắt cục bộ, lỗ chân lông đóng kín làm",
+        "B. Luôn luôn cân bằng phương trình và kiểm tra đầy đủ đơn vị đo",
+        "C. Đọc kỹ nhãn hóa chất và tuân thủ tuyệt đối an toàn phòng thí nghiệm",
+        "D. Ghi chép trung thực số liệu đo đạc thực nghiệm"
+      ],
+      "answer": "A",
+      "explanation": "Bác học lưu ý: ⚠️ **Tắm ngay nước lạnh khi đang toát mồ hôi:** Các mao mạch đang giãn nở đột ngột bị co thắt cục bộ, lỗ chân lông đóng kín làm nhiệt không thoát được, rất dễ dẫn đến đột quỵ, cảm lạnh hoặc tai biến mạch máu não!"
+    }
+  ],
+  "Bai_40_Sinh_san_o_nguoi.md": [
+    {
+      "id": "q_Bai_40_Sinh_san_o_nguoi.md_easy",
+      "level": "Dễ 🍬",
+      "question": "Nội dung trọng tâm then chốt nào sau đây mô tả ĐÚNG nhất bản chất kiến thức của bài học?",
+      "options": [
+        "A. Hệ sinh dục nam tạo tinh trùng (tinh hoàn); Hệ sinh dục nữ tạo trứng (buồng trứng). Thụ ti...",
+        "B. Hiện tượng chỉ xảy ra ngẫu nhiên và không tuân theo quy luật khoa học nào",
+        "C. Không có sự liên hệ giữa lý thuyết trong sách giáo khoa với thực tế đời sống",
+        "D. Toàn bộ các chất đều biến đổi mà không có sự bảo toàn năng lượng"
+      ],
+      "answer": "A",
+      "explanation": "Khái niệm trọng tâm của bài: Hệ sinh dục nam tạo tinh trùng (tinh hoàn); Hệ sinh dục nữ tạo trứng (buồng trứng). Thụ tinh là sự kết hợp giữa tinh trùng và trứng ở 1/3 ngoài ống dẫn trứng tạo hợp tử; Thụ thai là hợp tử làm tổ ở niêm mạc tử cung."
+    },
+    {
+      "id": "q_Bai_40_Sinh_san_o_nguoi.md_med",
+      "level": "Vừa 🌟",
+      "question": "Trong thực tế đời sống, ứng dụng hoặc hiện tượng nào sau đây gắn liền với bài học?",
+      "options": [
+        "A. Vệ sinh cơ quan sinh dục sạch sẽ hàng ngày bằng nước sạch giúp ngăn ngừa viêm nhiễm phụ khoa và nam khoa",
+        "B. Đổ nước lạnh vào dầu sôi để dập tắt đám cháy dầu mỡ",
+        "C. Sử dụng điện không cần thiết bị đóng ngắt bảo vệ cầu chì",
+        "D. Để thực phẩm tươi sống ở nhiệt độ cao ẩm ướt để bảo quản lâu"
+      ],
+      "answer": "A",
+      "explanation": "Bản chất ứng dụng: • Vệ sinh cơ quan sinh dục sạch sẽ hàng ngày bằng nước sạch giúp ngăn ngừa viêm nhiễm phụ khoa và nam khoa.\n• Mang thai ở tuổi vị thành niên ảnh hưởng nghiêm trọng đến sức khỏe thể chất của mẹ và bé, làm gián đoạn việc học tập."
+    },
+    {
+      "id": "q_Bai_40_Sinh_san_o_nguoi.md_hard",
+      "level": "Thử thách 🚀",
+      "question": "Học sinh THCS cần đặc biệt lưu ý bẫy sai lầm kinh điển nào sau đây khi làm bài tập hoặc thực hành?",
+      "options": [
+        "A. Nhầm lẫn thụ tinh và thụ thai: Thụ tinh chỉ là trứng gặp tinh trùng; còn thụ thai là hợp tử đã di chuyển vào tử cung và ",
+        "B. Luôn luôn cân bằng phương trình và kiểm tra đầy đủ đơn vị đo",
+        "C. Đọc kỹ nhãn hóa chất và tuân thủ tuyệt đối an toàn phòng thí nghiệm",
+        "D. Ghi chép trung thực số liệu đo đạc thực nghiệm"
+      ],
+      "answer": "A",
+      "explanation": "Bác học lưu ý: ⚠️ **Nhầm lẫn thụ tinh và thụ thai:** Thụ tinh chỉ là trứng gặp tinh trùng; còn thụ thai là hợp tử đã di chuyển vào tử cung và cắm rễ làm tổ an toàn trong lớp niêm mạc tử cung thì thai kỳ mới chính thức bắt đầu."
+    }
+  ],
+  "Bai_41_Moi_truong_va_cac_nhan_to_sinh_thai.md": [
+    {
+      "id": "q_Bai_41_Moi_truong_va_cac_nhan_to_sinh_thai.md_easy",
+      "level": "Dễ 🍬",
+      "question": "Nội dung trọng tâm then chốt nào sau đây mô tả ĐÚNG nhất bản chất kiến thức của bài học?",
+      "options": [
+        "A. Môi trường là nơi sinh sống của sinh vật gồm 4 loại: Môi trường cạn, nước, đất và sinh vật...",
+        "B. Hiện tượng chỉ xảy ra ngẫu nhiên và không tuân theo quy luật khoa học nào",
+        "C. Không có sự liên hệ giữa lý thuyết trong sách giáo khoa với thực tế đời sống",
+        "D. Toàn bộ các chất đều biến đổi mà không có sự bảo toàn năng lượng"
+      ],
+      "answer": "A",
+      "explanation": "Khái niệm trọng tâm của bài: Môi trường là nơi sinh sống của sinh vật gồm 4 loại: Môi trường cạn, nước, đất và sinh vật. Nhân tố sinh thái gồm: Nhân tố vô sinh (ánh sáng, nhiệt độ, nước...) và Nhân tố hữu sinh (sinh vật xung quanh và con người). Giới hạn sinh thái là khoảng giá trị của một nhân tố mà sinh vật có thể tồn tại và phát triển."
+    },
+    {
+      "id": "q_Bai_41_Moi_truong_va_cac_nhan_to_sinh_thai.md_med",
+      "level": "Vừa 🌟",
+      "question": "Trong thực tế đời sống, ứng dụng hoặc hiện tượng nào sau đây gắn liền với bài học?",
+      "options": [
+        "A. Cá rô phi ở Việt Nam chết ở nhiệt độ dưới $5{,}6^\\circ\\text{C}$ (giới hạn dưới) và trên $42^\\circ\\text{C}$ (giới hạn trên); phát triển thuận lợi nhất ở $30^\\circ\\text{C}$",
+        "B. Đổ nước lạnh vào dầu sôi để dập tắt đám cháy dầu mỡ",
+        "C. Sử dụng điện không cần thiết bị đóng ngắt bảo vệ cầu chì",
+        "D. Để thực phẩm tươi sống ở nhiệt độ cao ẩm ướt để bảo quản lâu"
+      ],
+      "answer": "A",
+      "explanation": "Bản chất ứng dụng: • Cá rô phi ở Việt Nam chết ở nhiệt độ dưới $5{,}6^\\circ\\text{C}$ (giới hạn dưới) và trên $42^\\circ\\text{C}$ (giới hạn trên); phát triển thuận lợi nhất ở $30^\\circ\\text{C}$.\n• Xương rồng sa mạc biến lá thành gai để giảm thoát hơi nước thích nghi với môi trường khô hạn."
+    },
+    {
+      "id": "q_Bai_41_Moi_truong_va_cac_nhan_to_sinh_thai.md_hard",
+      "level": "Thử thách 🚀",
+      "question": "Học sinh THCS cần đặc biệt lưu ý bẫy sai lầm kinh điển nào sau đây khi làm bài tập hoặc thực hành?",
+      "options": [
+        "A. Nhân tố con người: Con người thuộc nhóm nhân tố hữu sinh nhưng được tách thành một nhóm nhân tố sinh thái đặc biệt vì co",
+        "B. Luôn luôn cân bằng phương trình và kiểm tra đầy đủ đơn vị đo",
+        "C. Đọc kỹ nhãn hóa chất và tuân thủ tuyệt đối an toàn phòng thí nghiệm",
+        "D. Ghi chép trung thực số liệu đo đạc thực nghiệm"
+      ],
+      "answer": "A",
+      "explanation": "Bác học lưu ý: ⚠️ **Nhân tố con người:** Con người thuộc nhóm nhân tố hữu sinh nhưng được tách thành một nhóm nhân tố sinh thái đặc biệt vì con người có trí tuệ, có thể cải tạo hoặc phá hủy môi trường trên quy mô toàn cầu."
+    }
+  ],
+  "Bai_42_Quan_the_sinh_vat.md": [
+    {
+      "id": "q_Bai_42_Quan_the_sinh_vat.md_easy",
+      "level": "Dễ 🍬",
+      "question": "Nội dung trọng tâm then chốt nào sau đây mô tả ĐÚNG nhất bản chất kiến thức của bài học?",
+      "options": [
+        "A. Quần thể sinh vật là tập hợp các cá thể cùng loài, cùng sống trong một khu vực xác định ở ...",
+        "B. Hiện tượng chỉ xảy ra ngẫu nhiên và không tuân theo quy luật khoa học nào",
+        "C. Không có sự liên hệ giữa lý thuyết trong sách giáo khoa với thực tế đời sống",
+        "D. Toàn bộ các chất đều biến đổi mà không có sự bảo toàn năng lượng"
+      ],
+      "answer": "A",
+      "explanation": "Khái niệm trọng tâm của bài: Quần thể sinh vật là tập hợp các cá thể cùng loài, cùng sống trong một khu vực xác định ở một thời điểm nhất định và có khả năng sinh sản. Các đặc trưng cơ bản: Tỉ lệ giới tính, Nhóm tuổi, Mật độ cá thể."
+    },
+    {
+      "id": "q_Bai_42_Quan_the_sinh_vat.md_med",
+      "level": "Vừa 🌟",
+      "question": "Trong thực tế đời sống, ứng dụng hoặc hiện tượng nào sau đây gắn liền với bài học?",
+      "options": [
+        "A. Đàn trâu rừng quây thành vòng tròn bảo vệ trâu con khỏi bầy sư tử là biểu hiện hỗ trợ cùng loài tuyệt đẹp",
+        "B. Đổ nước lạnh vào dầu sôi để dập tắt đám cháy dầu mỡ",
+        "C. Sử dụng điện không cần thiết bị đóng ngắt bảo vệ cầu chì",
+        "D. Để thực phẩm tươi sống ở nhiệt độ cao ẩm ướt để bảo quản lâu"
+      ],
+      "answer": "A",
+      "explanation": "Bản chất ứng dụng: • Đàn trâu rừng quây thành vòng tròn bảo vệ trâu con khỏi bầy sư tử là biểu hiện hỗ trợ cùng loài tuyệt đẹp.\n• Khi mật độ quá dày đặc, cá con ăn thịt lẫn nhau hoặc cây tự tỉa thưa để san sẻ nguồn sống."
+    },
+    {
+      "id": "q_Bai_42_Quan_the_sinh_vat.md_hard",
+      "level": "Thử thách 🚀",
+      "question": "Học sinh THCS cần đặc biệt lưu ý bẫy sai lầm kinh điển nào sau đây khi làm bài tập hoặc thực hành?",
+      "options": [
+        "A. Nhầm lẫn giữa tập hợp ngẫu nhiên và quần thể: Đàn cá trong chậu ở chợ hay thú trong vườn bách thú không phải là quần thể",
+        "B. Luôn luôn cân bằng phương trình và kiểm tra đầy đủ đơn vị đo",
+        "C. Đọc kỹ nhãn hóa chất và tuân thủ tuyệt đối an toàn phòng thí nghiệm",
+        "D. Ghi chép trung thực số liệu đo đạc thực nghiệm"
+      ],
+      "answer": "A",
+      "explanation": "Bác học lưu ý: ⚠️ **Nhầm lẫn giữa tập hợp ngẫu nhiên và quần thể:** Đàn cá trong chậu ở chợ hay thú trong vườn bách thú **không phải là quần thể** vì chúng thuộc nhiều nguồn gốc khác nhau, không có khả năng sinh sản duy trì nòi giống lâu dài."
+    }
+  ],
+  "Bai_43_Quan_xa_sinh_vat.md": [
+    {
+      "id": "q_Bai_43_Quan_xa_sinh_vat.md_easy",
+      "level": "Dễ 🍬",
+      "question": "Nội dung trọng tâm then chốt nào sau đây mô tả ĐÚNG nhất bản chất kiến thức của bài học?",
+      "options": [
+        "A. Quần xã sinh vật là tập hợp các quần thể thuộc nhiều loài khác nhau cùng sống trong một si...",
+        "B. Hiện tượng chỉ xảy ra ngẫu nhiên và không tuân theo quy luật khoa học nào",
+        "C. Không có sự liên hệ giữa lý thuyết trong sách giáo khoa với thực tế đời sống",
+        "D. Toàn bộ các chất đều biến đổi mà không có sự bảo toàn năng lượng"
+      ],
+      "answer": "A",
+      "explanation": "Khái niệm trọng tâm của bài: Quần xã sinh vật là tập hợp các quần thể thuộc nhiều loài khác nhau cùng sống trong một sinh cảnh. Đặc trưng: Độ phong phú loài, Loài ưu thế (chiếm số lượng lớn, chi phối quần xã), Loài đặc trưng (chỉ có ở quần xã đó). Các mối quan hệ: Cộng sinh, Hội sinh, Cạnh tranh, Vật ăn thịt - con mồi."
+    },
+    {
+      "id": "q_Bai_43_Quan_xa_sinh_vat.md_med",
+      "level": "Vừa 🌟",
+      "question": "Trong thực tế đời sống, ứng dụng hoặc hiện tượng nào sau đây gắn liền với bài học?",
+      "options": [
+        "A. Cây phong lan bám vào thân cây cổ thụ để lấy ánh sáng mà không hút chất dinh dưỡng của cây chủ là quan hệ hội sinh",
+        "B. Đổ nước lạnh vào dầu sôi để dập tắt đám cháy dầu mỡ",
+        "C. Sử dụng điện không cần thiết bị đóng ngắt bảo vệ cầu chì",
+        "D. Để thực phẩm tươi sống ở nhiệt độ cao ẩm ướt để bảo quản lâu"
+      ],
+      "answer": "A",
+      "explanation": "Bản chất ứng dụng: • Cây phong lan bám vào thân cây cổ thụ để lấy ánh sáng mà không hút chất dinh dưỡng của cây chủ là quan hệ hội sinh.\n• Nấm và tảo lam gắn bó tạo thành địa y là quan hệ cộng sinh mật thiết, tách rời ra cả hai đều chết."
+    },
+    {
+      "id": "q_Bai_43_Quan_xa_sinh_vat.md_hard",
+      "level": "Thử thách 🚀",
+      "question": "Học sinh THCS cần đặc biệt lưu ý bẫy sai lầm kinh điển nào sau đây khi làm bài tập hoặc thực hành?",
+      "options": [
+        "A. Loài ưu thế vs Loài đặc trưng: Cây thông là loài ưu thế ở rừng thông Đà Lạt vì số lượng đông đúc chi phối khí hậu; còn c",
+        "B. Luôn luôn cân bằng phương trình và kiểm tra đầy đủ đơn vị đo",
+        "C. Đọc kỹ nhãn hóa chất và tuân thủ tuyệt đối an toàn phòng thí nghiệm",
+        "D. Ghi chép trung thực số liệu đo đạc thực nghiệm"
+      ],
+      "answer": "A",
+      "explanation": "Bác học lưu ý: ⚠️ **Loài ưu thế vs Loài đặc trưng:** Cây thông là loài ưu thế ở rừng thông Đà Lạt vì số lượng đông đúc chi phối khí hậu; còn cá cóc Tam Đảo là loài đặc trưng vì chỉ có ở vùng núi Tam Đảo mà hầu như không tìm thấy ở nơi khác."
+    }
+  ],
+  "Bai_44_He_sinh_thai.md": [
+    {
+      "id": "q_Bai_44_He_sinh_thai.md_easy",
+      "level": "Dễ 🍬",
+      "question": "Nội dung trọng tâm then chốt nào sau đây mô tả ĐÚNG nhất bản chất kiến thức của bài học?",
+      "options": [
+        "A. Hệ sinh thái = Quần xã sinh vật + Sinh cảnh (Môi trường vô sinh). Thành phần gồm: Sinh vật...",
+        "B. Hiện tượng chỉ xảy ra ngẫu nhiên và không tuân theo quy luật khoa học nào",
+        "C. Không có sự liên hệ giữa lý thuyết trong sách giáo khoa với thực tế đời sống",
+        "D. Toàn bộ các chất đều biến đổi mà không có sự bảo toàn năng lượng"
+      ],
+      "answer": "A",
+      "explanation": "Khái niệm trọng tâm của bài: Hệ sinh thái = Quần xã sinh vật + Sinh cảnh (Môi trường vô sinh). Thành phần gồm: Sinh vật sản xuất (cây xanh tự dưỡng), Sinh vật tiêu thụ (động vật ăn thực vật và ăn thịt), Sinh vật phân giải (vi khuẩn, nấm). Dòng năng lượng truyền qua chuỗi và lưới thức ăn."
+    },
+    {
+      "id": "q_Bai_44_He_sinh_thai.md_med",
+      "level": "Vừa 🌟",
+      "question": "Trong thực tế đời sống, ứng dụng hoặc hiện tượng nào sau đây gắn liền với bài học?",
+      "options": [
+        "A. Đầm sen mùa hạ là một hệ sinh thái nước ngọt tuyệt đẹp gồm bùn nước, ánh nắng, hoa sen, cá cờ, ốc bươu, ếch nhái và vi sinh vật đáy bùn phối hợp tuần hoàn vật chất",
+        "B. Đổ nước lạnh vào dầu sôi để dập tắt đám cháy dầu mỡ",
+        "C. Sử dụng điện không cần thiết bị đóng ngắt bảo vệ cầu chì",
+        "D. Để thực phẩm tươi sống ở nhiệt độ cao ẩm ướt để bảo quản lâu"
+      ],
+      "answer": "A",
+      "explanation": "Bản chất ứng dụng: • Đầm sen mùa hạ là một hệ sinh thái nước ngọt tuyệt đẹp gồm bùn nước, ánh nắng, hoa sen, cá cờ, ốc bươu, ếch nhái và vi sinh vật đáy bùn phối hợp tuần hoàn vật chất."
+    },
+    {
+      "id": "q_Bai_44_He_sinh_thai.md_hard",
+      "level": "Thử thách 🚀",
+      "question": "Học sinh THCS cần đặc biệt lưu ý bẫy sai lầm kinh điển nào sau đây khi làm bài tập hoặc thực hành?",
+      "options": [
+        "A. Mắt xích đầu tiên: Đa số các chuỗi thức ăn trên cạn bắt đầu bằng sinh vật sản xuất (cây xanh); một số chuỗi ở đáy bùn ho",
+        "B. Luôn luôn cân bằng phương trình và kiểm tra đầy đủ đơn vị đo",
+        "C. Đọc kỹ nhãn hóa chất và tuân thủ tuyệt đối an toàn phòng thí nghiệm",
+        "D. Ghi chép trung thực số liệu đo đạc thực nghiệm"
+      ],
+      "answer": "A",
+      "explanation": "Bác học lưu ý: ⚠️ **Mắt xích đầu tiên:** Đa số các chuỗi thức ăn trên cạn bắt đầu bằng **sinh vật sản xuất (cây xanh)**; một số chuỗi ở đáy bùn hoặc hang tối bắt đầu bằng chất mùn hữu cơ phân giải."
+    }
+  ],
+  "Bai_45_Sinh_quyen.md": [
+    {
+      "id": "q_Bai_45_Sinh_quyen.md_easy",
+      "level": "Dễ 🍬",
+      "question": "Nội dung trọng tâm then chốt nào sau đây mô tả ĐÚNG nhất bản chất kiến thức của bài học?",
+      "options": [
+        "A. Sinh quyển là quyển chứa toàn bộ sự sống trên Trái Đất, dày khoảng 20km, bao gồm lớp vỏ ph...",
+        "B. Hiện tượng chỉ xảy ra ngẫu nhiên và không tuân theo quy luật khoa học nào",
+        "C. Không có sự liên hệ giữa lý thuyết trong sách giáo khoa với thực tế đời sống",
+        "D. Toàn bộ các chất đều biến đổi mà không có sự bảo toàn năng lượng"
+      ],
+      "answer": "A",
+      "explanation": "Khái niệm trọng tâm của bài: Sinh quyển là quyển chứa toàn bộ sự sống trên Trái Đất, dày khoảng 20km, bao gồm lớp vỏ phong hóa (thạch quyển), toàn bộ thủy quyển và phần dưới khí quyển. Chia thành các khu sinh học (biome) trên cạn và dưới nước."
+    },
+    {
+      "id": "q_Bai_45_Sinh_quyen.md_med",
+      "level": "Vừa 🌟",
+      "question": "Trong thực tế đời sống, ứng dụng hoặc hiện tượng nào sau đây gắn liền với bài học?",
+      "options": [
+        "A. Rừng nhiệt đới Amazon được ví là 'Lá phổi xanh của Trái Đất' vì sản xuất ra hơn 20% lượng dưỡng khí oxygen cho toàn bộ sinh quyển",
+        "B. Đổ nước lạnh vào dầu sôi để dập tắt đám cháy dầu mỡ",
+        "C. Sử dụng điện không cần thiết bị đóng ngắt bảo vệ cầu chì",
+        "D. Để thực phẩm tươi sống ở nhiệt độ cao ẩm ướt để bảo quản lâu"
+      ],
+      "answer": "A",
+      "explanation": "Bản chất ứng dụng: • Rừng nhiệt đới Amazon được ví là 'Lá phổi xanh của Trái Đất' vì sản xuất ra hơn 20% lượng dưỡng khí oxygen cho toàn bộ sinh quyển."
+    },
+    {
+      "id": "q_Bai_45_Sinh_quyen.md_hard",
+      "level": "Thử thách 🚀",
+      "question": "Học sinh THCS cần đặc biệt lưu ý bẫy sai lầm kinh điển nào sau đây khi làm bài tập hoặc thực hành?",
+      "options": [
+        "A. Sự phân bố sinh vật: Sinh vật không phân bố đều khắp mọi nơi trong sinh quyển mà tập trung dày đặc nhất ở bề mặt Trái Đấ",
+        "B. Luôn luôn cân bằng phương trình và kiểm tra đầy đủ đơn vị đo",
+        "C. Đọc kỹ nhãn hóa chất và tuân thủ tuyệt đối an toàn phòng thí nghiệm",
+        "D. Ghi chép trung thực số liệu đo đạc thực nghiệm"
+      ],
+      "answer": "A",
+      "explanation": "Bác học lưu ý: ⚠️ **Sự phân bố sinh vật:** Sinh vật không phân bố đều khắp mọi nơi trong sinh quyển mà tập trung dày đặc nhất ở bề mặt Trái Đất nơi có sự giao thoa giữa đất, nước và không khí tràn ngập ánh sáng."
+    }
+  ],
+  "Bai_46_Can_bang_tu_nhien.md": [
+    {
+      "id": "q_Bai_46_Can_bang_tu_nhien.md_easy",
+      "level": "Dễ 🍬",
+      "question": "Nội dung trọng tâm then chốt nào sau đây mô tả ĐÚNG nhất bản chất kiến thức của bài học?",
+      "options": [
+        "A. Cân bằng tự nhiên là trạng thái ổn định động của hệ sinh thái, số lượng cá thể dao động qu...",
+        "B. Hiện tượng chỉ xảy ra ngẫu nhiên và không tuân theo quy luật khoa học nào",
+        "C. Không có sự liên hệ giữa lý thuyết trong sách giáo khoa với thực tế đời sống",
+        "D. Toàn bộ các chất đều biến đổi mà không có sự bảo toàn năng lượng"
+      ],
+      "answer": "A",
+      "explanation": "Khái niệm trọng tâm của bài: Cân bằng tự nhiên là trạng thái ổn định động của hệ sinh thái, số lượng cá thể dao động quanh mức cân bằng nhờ khống chế sinh học. Mất cân bằng tự nhiên do thiên tai và tác động của con người (phá rừng, ô nhiễm)."
+    },
+    {
+      "id": "q_Bai_46_Can_bang_tu_nhien.md_med",
+      "level": "Vừa 🌟",
+      "question": "Trong thực tế đời sống, ứng dụng hoặc hiện tượng nào sau đây gắn liền với bài học?",
+      "options": [
+        "A. Ở Úc, thỏ hoang không có thiên địch tự nhiên đã sinh sôi hàng trăm triệu con cắn trọc đồng cỏ làm chết hàng loạt cừu bò, buộc chính phủ phải đưa virus Myxoma vào để khống chế đàn thỏ",
+        "B. Đổ nước lạnh vào dầu sôi để dập tắt đám cháy dầu mỡ",
+        "C. Sử dụng điện không cần thiết bị đóng ngắt bảo vệ cầu chì",
+        "D. Để thực phẩm tươi sống ở nhiệt độ cao ẩm ướt để bảo quản lâu"
+      ],
+      "answer": "A",
+      "explanation": "Bản chất ứng dụng: • Ở Úc, thỏ hoang không có thiên địch tự nhiên đã sinh sôi hàng trăm triệu con cắn trọc đồng cỏ làm chết hàng loạt cừu bò, buộc chính phủ phải đưa virus Myxoma vào để khống chế đàn thỏ."
+    },
+    {
+      "id": "q_Bai_46_Can_bang_tu_nhien.md_hard",
+      "level": "Thử thách 🚀",
+      "question": "Học sinh THCS cần đặc biệt lưu ý bẫy sai lầm kinh điển nào sau đây khi làm bài tập hoặc thực hành?",
+      "options": [
+        "A. Cân bằng không phải là bất biến: Cân bằng tự nhiên là cân bằng động, luôn có sự biến động nhấp nhô của các quần thể xoay",
+        "B. Luôn luôn cân bằng phương trình và kiểm tra đầy đủ đơn vị đo",
+        "C. Đọc kỹ nhãn hóa chất và tuân thủ tuyệt đối an toàn phòng thí nghiệm",
+        "D. Ghi chép trung thực số liệu đo đạc thực nghiệm"
+      ],
+      "answer": "A",
+      "explanation": "Bác học lưu ý: ⚠️ **Cân bằng không phải là bất biến:** Cân bằng tự nhiên là **cân bằng động**, luôn có sự biến động nhấp nhô của các quần thể xoay quanh vị trí cân bằng theo mùa và chu kỳ thức ăn."
+    }
+  ],
+  "Bai_47_Bao_ve_moi_truong.md": [
+    {
+      "id": "q_Bai_47_Bao_ve_moi_truong.md_easy",
+      "level": "Dễ 🍬",
+      "question": "Nội dung trọng tâm then chốt nào sau đây mô tả ĐÚNG nhất bản chất kiến thức của bài học?",
+      "options": [
+        "A. Bảo vệ môi trường là trách nhiệm sống còn. Ô nhiễm môi trường (không khí, nước, đất, rác t...",
+        "B. Hiện tượng chỉ xảy ra ngẫu nhiên và không tuân theo quy luật khoa học nào",
+        "C. Không có sự liên hệ giữa lý thuyết trong sách giáo khoa với thực tế đời sống",
+        "D. Toàn bộ các chất đều biến đổi mà không có sự bảo toàn năng lượng"
+      ],
+      "answer": "A",
+      "explanation": "Khái niệm trọng tâm của bài: Bảo vệ môi trường là trách nhiệm sống còn. Ô nhiễm môi trường (không khí, nước, đất, rác thải nhựa) dẫn đến biến đổi khí hậu, hiệu ứng nhà kính và tuyệt chủng hàng loạt. Giải pháp: Năng lượng sạch, Kinh tế tuần hoàn 3R (Giảm thiểu, Tái sử dụng, Tái chế)."
+    },
+    {
+      "id": "q_Bai_47_Bao_ve_moi_truong.md_med",
+      "level": "Vừa 🌟",
+      "question": "Trong thực tế đời sống, ứng dụng hoặc hiện tượng nào sau đây gắn liền với bài học?",
+      "options": [
+        "A. Rác thải nhựa mất từ 400 đến 1000 năm mới phân hủy rã thành các hạt vi nhựa cực độc chui vào cá tôm và quay lại bàn ăn con người",
+        "B. Đổ nước lạnh vào dầu sôi để dập tắt đám cháy dầu mỡ",
+        "C. Sử dụng điện không cần thiết bị đóng ngắt bảo vệ cầu chì",
+        "D. Để thực phẩm tươi sống ở nhiệt độ cao ẩm ướt để bảo quản lâu"
+      ],
+      "answer": "A",
+      "explanation": "Bản chất ứng dụng: • Rác thải nhựa mất từ 400 đến 1000 năm mới phân hủy rã thành các hạt vi nhựa cực độc chui vào cá tôm và quay lại bàn ăn con người.\n• Trồng cây xanh quanh trường học giúp hấp thụ khí $\\mathrm{CO}_2$, cản bụi mịn và hạ nhiệt độ sân trường vào mùa hè."
+    },
+    {
+      "id": "q_Bai_47_Bao_ve_moi_truong.md_hard",
+      "level": "Thử thách 🚀",
+      "question": "Học sinh THCS cần đặc biệt lưu ý bẫy sai lầm kinh điển nào sau đây khi làm bài tập hoặc thực hành?",
+      "options": [
+        "A. Hiểu lầm về hành động: Nghĩ rằng bảo vệ môi trường là việc của các nhà khoa học lớn; thực tế bảo vệ môi trường bắt đầu t",
+        "B. Luôn luôn cân bằng phương trình và kiểm tra đầy đủ đơn vị đo",
+        "C. Đọc kỹ nhãn hóa chất và tuân thủ tuyệt đối an toàn phòng thí nghiệm",
+        "D. Ghi chép trung thực số liệu đo đạc thực nghiệm"
+      ],
+      "answer": "A",
+      "explanation": "Bác học lưu ý: ⚠️ **Hiểu lầm về hành động:** Nghĩ rằng bảo vệ môi trường là việc của các nhà khoa học lớn; thực tế bảo vệ môi trường bắt đầu từ những việc nhỏ nhất của mỗi học sinh: không vứt rác bừa bãi, tắt bóng đèn khi ra khỏi phòng học."
+    }
+  ]
+}

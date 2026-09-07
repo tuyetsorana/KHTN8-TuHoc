@@ -1,0 +1,19 @@
+# SQLite database
+khtn8_progress.db
+
+# Secrets
+.streamlit/secrets.toml
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary images & logs
+temp_pages/
+*.log
+
+# IDE & workspace metadata
+.gemini/
+.vscode/
+.idea/

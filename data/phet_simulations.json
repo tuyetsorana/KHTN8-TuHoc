@@ -1,0 +1,44 @@
+{
+  "Bai_02_Phan_ung_hoa_hoc.md": {
+    "title": "Mô phỏng Phản ứng: Chất tham gia và Sản phẩm (PhET)",
+    "description": "Tương tác trực tiếp với các phân tử, quan sát sự phá vỡ liên kết ban đầu và hình thành phân tử mới trong phản ứng hóa học.",
+    "sim_url": "https://phet.colorado.edu/sims/html/reactants-products-and-leftovers/latest/reactants-products-and-leftovers_all.html",
+    "guide": "Em hãy chọn chế độ 'Sandwiches' hoặc 'Molecules' để lắp ráp các phân tử H2, O2 tạo thành H2O và quan sát chất dư!"
+  },
+  "Bai_05_Dinh_luat_bao_toan_khoi_luong_va_PTHH.md": {
+    "title": "Phòng Thí Nghiệm Ảo: Cân Bằng Phương Trình Hóa Học (PhET)",
+    "description": "Thực hành cân bằng các phương trình hóa học bằng trực quan cân thăng bằng và hình ảnh trực quan số lượng nguyên tử.",
+    "sim_url": "https://phet.colorado.edu/sims/html/balancing-chemical-equations/latest/balancing-chemical-equations_all.html",
+    "guide": "Chọn phần 'Introduction' hoặc 'Game' (3 Cấp độ). Dùng các mũi tên tăng giảm hệ số sao cho hai đĩa cân nguyên tử ở hai vế hoàn toàn thăng bằng."
+  },
+  "Bai_06_Tinh_theo_phuong_trinh_hoa_hoc.md": {
+    "title": "Mô phỏng PhET: Chất Phản Ứng Giới Hạn và Hiệu Suất",
+    "description": "Khảo sát tỉ lệ mol phản ứng, xác định chất nào hết trước, chất nào dư và lượng sản phẩm tối đa sinh ra.",
+    "sim_url": "https://phet.colorado.edu/sims/html/reactants-products-and-leftovers/latest/reactants-products-and-leftovers_all.html",
+    "guide": "Thử thay đổi số lượng phân tử ban đầu để kiểm tra lý thuyết tính theo phương trình hóa học!"
+  },
+  "Bai_13_Khoi_luong_rieng.md": {
+    "title": "Thí Nghiệm Ảo: Khối Lượng Riêng & Lực Nổi (PhET Density)",
+    "description": "Thả các khối vật liệu khác nhau (gỗ, nhôm, sắt, vàng...) vào bể nước để đo khối lượng, thể tích dâng lên và tính khối lượng riêng.",
+    "sim_url": "https://phet.colorado.edu/sims/html/density/latest/density_all.html",
+    "guide": "Nhúng vật chìm hoàn toàn vào bình tràn để đọc thể tích nước dâng lên, sau đó áp dụng công thức D = m / V."
+  },
+  "Bai_16_Ap_suat_chat_long_Ap_suat_khi_quyen.md": {
+    "title": "Mô phỏng PhET: Áp Suất Dưới Lòng Chất Lỏng (Under Pressure)",
+    "description": "Kéo áp kế xuống các độ sâu khác nhau trong hồ nước để kiểm chứng công thức p = d . h và xem sự thay đổi khi có hoặc không có khí quyển.",
+    "sim_url": "https://phet.colorado.edu/sims/html/under-pressure/latest/under-pressure_all.html",
+    "guide": "Bật thước đo (Ruler) và kéo áp kế (Pressure Sensor) xuống đáy hồ. Quan sát kim đo áp suất tăng đều theo độ sâu!"
+  },
+  "Bai_17_Luc_day_Archimedes.md": {
+    "title": "Mô phỏng PhET: Lực Nổi & Định Luật Archimedes",
+    "description": "Khảo sát lực đẩy Archimedes khi thay đổi thể tích vật và khối lượng riêng của chất lỏng (nước biển, dầu, mật ong).",
+    "sim_url": "https://phet.colorado.edu/sims/html/buoyancy/latest/buoyancy_all.html",
+    "guide": "Quan sát hai lực ngược chiều: Trọng lực kéo xuống (màu vàng) và Lực đẩy Archimedes đẩy lên (màu tím)."
+  },
+  "Bai_19_Don_bay_va_ung_dung.md": {
+    "title": "Mô phỏng PhET: Cân Bằng Đòn Bẩy (Balancing Act)",
+    "description": "Trực quan hóa quy tắc đòn bẩy F1.d1 = F2.d2 thông qua cầu bập bênh và các khối quả cân tương tác.",
+    "sim_url": "https://phet.colorado.edu/sims/html/balancing-act/latest/balancing-act_all.html",
+    "guide": "Đặt quả cân nặng ở gần điểm tựa và quả cân nhẹ ở xa điểm tựa để tạo trạng thái cân bằng nằm ngang hoàn hảo."
+  }
+}
