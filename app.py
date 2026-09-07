@@ -23,26 +23,6 @@ st.markdown("""
 <div class="notranslate" translate="no" style="display:none;"></div>
 """, unsafe_allow_html=True)
 
-try:
-    components.html("""
-    <script>
-    try {
-        window.parent.document.documentElement.setAttribute("translate", "no");
-        window.parent.document.documentElement.classList.add("notranslate");
-        window.parent.document.body.setAttribute("translate", "no");
-        window.parent.document.body.classList.add("notranslate");
-        if (!window.parent.document.querySelector('meta[name="google"][content="notranslate"]')) {
-            const meta = window.parent.document.createElement('meta');
-            meta.name = 'google';
-            meta.content = 'notranslate';
-            window.parent.document.head.appendChild(meta);
-        }
-    } catch (e) {}
-    </script>
-    """, height=0, width=0)
-except Exception:
-    pass
-
 # Custom CSS giao diện Khoa học Tự nhiên Dễ thương (Cute & Lively Science)
 st.markdown("""
 <style>
