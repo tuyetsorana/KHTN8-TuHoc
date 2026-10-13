@@ -1158,21 +1158,23 @@ with tab4:
 
     partner_code = "curie" if "Curie" in tutor_partner else ("newton" if "Newton" in tutor_partner else "all")
 
-    # Hiển thị toàn bộ lịch sử đối thoại dạng Chat Message
-    for msg in st.session_state[session_chat_key]:
-        if msg["role"] == "assistant":
-            # Chọn avatar tương ứng
-            if "Curie" in msg["content"] or partner_code == "curie":
-                avatar_icon = "👩‍🔬"
-            elif "Newton" in msg["content"] or partner_code == "newton":
-                avatar_icon = "🍎"
+    # Container chứa toàn bộ lịch sử đối thoại
+    chat_container = st.container()
+    with chat_container:
+        for msg in st.session_state[session_chat_key]:
+            if msg["role"] == "assistant":
+                # Chọn avatar tương ứng
+                if "Curie" in msg["content"] or partner_code == "curie":
+                    avatar_icon = "👩‍🔬"
+                elif "Newton" in msg["content"] or partner_code == "newton":
+                    avatar_icon = "🍎"
+                else:
+                    avatar_icon = "🪄"
+                with st.chat_message("assistant", avatar=avatar_icon):
+                    st.markdown(msg["content"])
             else:
-                avatar_icon = "🪄"
-            with st.chat_message("assistant", avatar=avatar_icon):
-                st.markdown(msg["content"])
-        else:
-            with st.chat_message("user", avatar="🧑‍🎓"):
-                st.markdown(msg["content"])
+                with st.chat_message("user", avatar="🧑‍🎓"):
+                    st.markdown(msg["content"])
 
     # Phân tích tin nhắn gần nhất để hiển thị các nút trả lời nhanh (Quick Response Pills)
     last_assistant_msg = ""
@@ -1260,21 +1262,22 @@ with tab4:
 
     if active_user_input:
         st.session_state[session_chat_key].append({"role": "user", "content": active_user_input})
-        with st.chat_message("user", avatar="🧑‍🎓"):
-            st.markdown(active_user_input)
+        with chat_container:
+            with st.chat_message("user", avatar="🧑‍🎓"):
+                st.markdown(active_user_input)
 
-        resp_avatar = "👩‍🔬" if partner_code == "curie" else ("🍎" if partner_code == "newton" else "🪄")
-        with st.chat_message("assistant", avatar=resp_avatar):
-            stream_gen = ai_tutor.generate_tutor_stream(
-                api_key=api_key_input,
-                lesson_title=current_lesson["title"],
-                lesson_summary=content_md[:800],
-                chat_history=st.session_state[session_chat_key],
-                user_message=active_user_input,
-                model_name=model_code,
-                character=partner_code
-            )
-            reply_text = st.write_stream(stream_gen)
+            resp_avatar = "👩‍🔬" if partner_code == "curie" else ("🍎" if partner_code == "newton" else "🪄")
+            with st.chat_message("assistant", avatar=resp_avatar):
+                stream_gen = ai_tutor.generate_tutor_stream(
+                    api_key=api_key_input,
+                    lesson_title=current_lesson["title"],
+                    lesson_summary=content_md[:800],
+                    chat_history=st.session_state[session_chat_key],
+                    user_message=active_user_input,
+                    model_name=model_code,
+                    character=partner_code
+                )
+                reply_text = st.write_stream(stream_gen)
 
         st.session_state[session_chat_key].append({"role": "assistant", "content": reply_text})
         st.rerun()
