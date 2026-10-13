@@ -680,9 +680,9 @@ with st.sidebar:
     
     selected_model = st.selectbox(
         "⚡ Mô hình Gemini AI:",
-        ["gemini-3.8-flash (Thế hệ mới 3.8)", "gemini-3.7-flash (Thế hệ mới 3.7)", "gemini-2.5-flash", "gemini-2.0-flash"],
+        ["gemini-2.5-flash (Siêu tốc & Thông minh ⭐)", "gemini-2.0-flash (Phản hồi tức thì ⚡)", "gemini-1.5-flash (Ổn định)", "gemini-2.5-pro (Tư duy chuyên sâu)"],
         index=0,
-        help="Nâng cấp mô hình thế hệ mới Gemini 3.8 / 3.7 Flash giúp tư duy phản biện và giải thích cơ chế khoa học sâu sắc hơn."
+        help="Mô hình Gemini 2.5 Flash và 2.0 Flash thế hệ mới với tốc độ phản hồi cực nhanh dưới 0.5 giây."
     )
     model_code = selected_model.split(" ")[0]
     
@@ -1125,51 +1125,156 @@ with tab3:
 
 # ================= TAB 4: GIA SƯ AI NEWTON & MARIE CURIE =================
 with tab4:
-    st.markdown("### 🪄 Góc Bác Học Newton & Marie Curie 👩‍🔬🍎")
-    st.caption("Phương pháp Socratic diệu kỳ: Dẫn dắt từng bước để em tự tìm ra kho báu tri thức, không bao giờ giải tuột bài! 🌟")
+    st.markdown("### 🪄 Góc Đối Thoại Socratic: Cô Marie Curie & Thầy Isaac Newton 👩‍🔬🍎")
+    st.caption("Đối thoại hai chiều gợi mở tư duy khoa học: Em trả lời câu hỏi của Thầy/Cô để tự mình tìm ra kho báu tri thức nhé! 🌟")
     
     session_chat_key = f"khtn_chat_{current_lesson['id']}"
     if session_chat_key not in st.session_state:
         st.session_state[session_chat_key] = [
             {
                 "role": "assistant",
-                "content": f"Xin chào bạn nhỏ đáng yêu! 🌟 Cô **Marie Curie** 👩‍🔬 và Thầy **Isaac Newton** 🍎 rất vui được đồng hành cùng em trong bài học **{current_lesson['title']}**. Có điều gì kỳ thú hay bài tập nào làm em băn khoăn không? Cứ thủ thỉ cùng chúng ta nhé! 🐾🔬"
+                "content": f"Xin chào bạn nhỏ say mê khám phá! 🌟 Cô **Marie Curie** 👩‍🔬 và Thầy **Isaac Newton** 🍎 rất vui được đồng hành cùng em trong bài học **{current_lesson['title']}**.\n\nCó điều gì kỳ thú hay phương trình/bài tập nào làm em băn khoăn không? Cứ thủ thỉ cùng chúng ta nhé! 🐾🔬"
             }
         ]
         
-    for msg in st.session_state[session_chat_key]:
-        with st.chat_message(msg["role"], avatar="👩‍🔬" if msg["role"] == "assistant" else "🧑‍🎓"):
-            st.markdown(msg["content"])
-            
-    col_a, col_b, col_c = st.columns(3)
-    quick_prompt = None
-    with col_a:
-        if st.button("⚗️ Cô Curie: Cách cân bằng PTHH / Tính mol? 🫧", key=f"khtn_hint_chem_{current_lesson['id']}"):
-            quick_prompt = "Cô Marie Curie ơi, hướng dẫn em bí quyết cân bằng phương trình và tính số mol với ạ!"
-    with col_b:
-        if st.button("🍎 Thầy Newton: Giải mã hiện tượng tự nhiên? 🧲", key=f"khtn_hint_phy_{current_lesson['id']}"):
-            quick_prompt = "Thầy Newton ơi, tại sao trong thực tế lại xảy ra hiện tượng này hả Thầy?"
-    with col_c:
-        if st.button("✏️ Thầy Cô: Gợi ý phương pháp bài tập SGK? 📖", key=f"khtn_hint_sgk_{current_lesson['id']}"):
-            quick_prompt = "Em đang làm bài tập trong bài này, xin Thầy Cô gợi ý phương pháp giải từng bước cho em với ạ!"
+    # Thanh công cụ đối thoại: Chọn người đồng hành & Nút làm mới
+    col_tutor_role, col_tutor_reset = st.columns([3, 1])
+    with col_tutor_role:
+        tutor_partner = st.radio(
+            "🌟 Chọn Bác học em muốn trò chuyện cùng:",
+            ["👩‍🔬 Cô Marie Curie (Hóa học & PTHH)", "🍎 Thầy Isaac Newton (Vật lý & Tự nhiên)", "🪄 Cả hai Bác học cùng đồng hành"],
+            horizontal=True,
+            key=f"khtn_partner_{current_lesson['id']}"
+        )
+    with col_tutor_reset:
+        if st.button("🔄 Cuộc đối thoại mới", key=f"khtn_reset_chat_{current_lesson['id']}", use_container_width=True):
+            st.session_state[session_chat_key] = [
+                {
+                    "role": "assistant",
+                    "content": f"Xin chào em! Cô **Marie Curie** 👩‍🔬 và Thầy **Isaac Newton** 🍎 đã sẵn sàng cho một bài tập/câu hỏi mới trong **{current_lesson['title']}**. Hãy chia sẻ cùng Thầy Cô nhé!"
+                }
+            ]
+            st.rerun()
 
-    user_input = st.chat_input("Hỏi Bác học Newton & Marie Curie về bài học... 💬") or quick_prompt
+    partner_code = "curie" if "Curie" in tutor_partner else ("newton" if "Newton" in tutor_partner else "all")
+
+    # Hiển thị toàn bộ lịch sử đối thoại dạng Chat Message
+    for msg in st.session_state[session_chat_key]:
+        if msg["role"] == "assistant":
+            # Chọn avatar tương ứng
+            if "Curie" in msg["content"] or partner_code == "curie":
+                avatar_icon = "👩‍🔬"
+            elif "Newton" in msg["content"] or partner_code == "newton":
+                avatar_icon = "🍎"
+            else:
+                avatar_icon = "🪄"
+            with st.chat_message("assistant", avatar=avatar_icon):
+                st.markdown(msg["content"])
+        else:
+            with st.chat_message("user", avatar="🧑‍🎓"):
+                st.markdown(msg["content"])
+
+    # Phân tích tin nhắn gần nhất để hiển thị các nút trả lời nhanh (Quick Response Pills)
+    last_assistant_msg = ""
+    for m in reversed(st.session_state[session_chat_key]):
+        if m["role"] == "assistant":
+            last_assistant_msg = m["content"].lower()
+            break
+
+    st.markdown("<hr style='margin: 1.2rem 0 0.8rem 0; border: none; border-top: 1px dashed #bae6fd;'>", unsafe_allow_html=True)
+    st.markdown("##### 💡 Em hãy chọn nhanh câu trả lời hoặc gõ trực tiếp bên dưới:")
+
+    quick_action_clicked = None
     
-    if user_input:
-        st.session_state[session_chat_key].append({"role": "user", "content": user_input})
+    # Kịch bản 1: Hỏi về BCNN của 2 và 3 hoặc đặt hệ số trước HCl (như Al + HCl)
+    if any(k in last_assistant_msg for k in ["bội chung nhỏ nhất", "bội chung", "chia hết cho 3", "chia hết cho 2", "bao nhiêu vào trước hcl"]):
+        c1, c2, c3 = st.columns(3)
+        with c1:
+            if st.button("🔢 Số 6 cô ơi (BCNN của 2 và 3)! 🌟", key=f"btn_bcnn_6_{current_lesson['id']}", use_container_width=True):
+                quick_action_clicked = "Dạ là số 6 cô ơi (bội chung nhỏ nhất của 2 và 3 là 6)!"
+        with c2:
+            if st.button("🔢 Em đặt hệ số 6 trước HCl ạ!", key=f"btn_hcl_6_{current_lesson['id']}", use_container_width=True):
+                quick_action_clicked = "Em đặt hệ số 6 trước HCl ở vế trái cô nhé!"
+        with c3:
+            if st.button("🤔 Em chưa hiểu, cô gợi ý thêm đi ạ!", key=f"btn_hint_bcnn_{current_lesson['id']}", use_container_width=True):
+                quick_action_clicked = "Em chưa hiểu đoạn này, cô Marie Curie gợi ý thêm một chút nữa cho em với ạ!"
+    
+    # Kịch bản 2: Hỏi về hệ số trước H2 và AlCl3
+    elif any(k in last_assistant_msg for k in ["hệ số mấy để được 6h", "hệ số mấy để được 6cl", "nhìn sang vế phải"]):
+        c1, c2, c3 = st.columns(3)
+        with c1:
+            if st.button("🔢 Đặt 3 trước H₂ và 2 trước AlCl₃ cô ơi! 🌟", key=f"btn_coeff_3_2_{current_lesson['id']}", use_container_width=True):
+                quick_action_clicked = "Dạ đặt hệ số 3 trước H₂ và hệ số 2 trước AlCl₃ cô ạ!"
+        with c2:
+            if st.button("🔢 Em cân bằng xong: 2Al + 6HCl → 2AlCl₃ + 3H₂ 🎉", key=f"btn_full_eq_{current_lesson['id']}", use_container_width=True):
+                quick_action_clicked = "Em cân bằng xong toàn bộ phương trình rồi: 2Al + 6HCl → 2AlCl₃ + 3H₂ ạ!"
+        with c3:
+            if st.button("🤔 Cô hướng dẫn em tính 6 : 2 và 6 : 3 với ạ!", key=f"btn_calc_help_{current_lesson['id']}", use_container_width=True):
+                quick_action_clicked = "Cô hướng dẫn em cách chia hệ số 6 cho 2 và 3 với ạ!"
+
+    # Kịch bản 3: Hỏi về hệ số Al cuối cùng
+    elif any(k in last_assistant_msg for k in ["trước al ở vế trái", "nguyên tố cuối cùng là nhôm"]):
+        c1, c2 = st.columns(2)
+        with c1:
+            if st.button("🎉 Đặt hệ số 2 trước Al cô ơi! (2Al + 6HCl → 2AlCl₃ + 3H₂)", key=f"btn_al_2_{current_lesson['id']}", use_container_width=True):
+                quick_action_clicked = "Dạ ta đặt hệ số 2 trước Al để hoàn thành phương trình: 2Al + 6HCl → 2AlCl₃ + 3H₂ cô nhé!"
+        with c2:
+            if st.button("✨ Cho em thử một phương trình mới đi cô!", key=f"btn_new_eq_{current_lesson['id']}", use_container_width=True):
+                quick_action_clicked = "Em hiểu rồi! Cô Curie cho em một phương trình mới để em tự cân bằng thử nhé!"
+
+    # Kịch bản tổng quát / mở đầu
+    else:
+        c1, c2, c3 = st.columns(3)
+        with c1:
+            if st.button("⚗️ Cô Curie: Hướng dẫn em cân bằng PTHH! 🫧", key=f"khtn_q_chem_{current_lesson['id']}", use_container_width=True):
+                quick_action_clicked = "Cô Marie Curie ơi, cô hướng dẫn em phương pháp cân bằng phương trình hoá học từng bước với ạ!"
+        with c2:
+            if st.button("🍎 Thầy Newton: Giải mã bí mật hiện tượng này! 🧲", key=f"khtn_q_phy_{current_lesson['id']}", use_container_width=True):
+                quick_action_clicked = "Thầy Newton ơi, thầy giải thích bản chất hiện tượng thực tế của bài học này giúp em với ạ!"
+        with c3:
+            if st.button("📖 Thầy Cô gợi ý phương pháp giải bài tập SGK! ✏️", key=f"khtn_q_sgk_{current_lesson['id']}", use_container_width=True):
+                quick_action_clicked = "Xin Thầy Cô gợi ý phương pháp tư duy để giải các bài tập trong bài học này cho em với ạ!"
+
+    # Khung nhập câu trả lời trực tiếp NGAY BÊN DƯỚI BONG BÓNG TIN NHẮN
+    with st.form(key=f"khtn_direct_dialogue_form_{current_lesson['id']}", clear_on_submit=True):
+        col_inp, col_btn = st.columns([4, 1])
+        with col_inp:
+            direct_reply_text = st.text_input(
+                "💬 Em trả lời câu hỏi của Cô Curie / Thầy Newton tại đây:",
+                placeholder="💬 Gõ câu trả lời của em tại đây (ví dụ: số 6 cô ơi!, hoặc thắc mắc của em)...",
+                label_visibility="collapsed"
+            )
+        with col_btn:
+            send_clicked = st.form_submit_button("🚀 Gửi Trả Lời", use_container_width=True)
+
+    bottom_chat_text = st.chat_input("Hoặc nhập câu hỏi tại đây... 💬")
+
+    # Xác định nội dung học sinh phản hồi
+    active_user_input = None
+    if send_clicked and direct_reply_text and direct_reply_text.strip():
+        active_user_input = direct_reply_text.strip()
+    elif quick_action_clicked:
+        active_user_input = quick_action_clicked
+    elif bottom_chat_text and bottom_chat_text.strip():
+        active_user_input = bottom_chat_text.strip()
+
+    if active_user_input:
+        st.session_state[session_chat_key].append({"role": "user", "content": active_user_input})
         with st.chat_message("user", avatar="🧑‍🎓"):
-            st.markdown(user_input)
-            
-        with st.chat_message("assistant", avatar="👩‍🔬"):
-            with st.spinner("Bác học Newton & Marie Curie đang cùng nhau suy nghĩ câu hỏi gợi mở cho bé nè... 🌟"):
-                tutor_reply = ai_tutor.generate_tutor_response(
-                    api_key=api_key_input,
-                    lesson_title=current_lesson["title"],
-                    lesson_summary=content_md[:700],
-                    chat_history=st.session_state[session_chat_key],
-                    user_message=user_input,
-                    model_name=model_code
-                )
-                st.markdown(tutor_reply)
-                
-        st.session_state[session_chat_key].append({"role": "assistant", "content": tutor_reply})
+            st.markdown(active_user_input)
+
+        resp_avatar = "👩‍🔬" if partner_code == "curie" else ("🍎" if partner_code == "newton" else "🪄")
+        with st.chat_message("assistant", avatar=resp_avatar):
+            stream_gen = ai_tutor.generate_tutor_stream(
+                api_key=api_key_input,
+                lesson_title=current_lesson["title"],
+                lesson_summary=content_md[:800],
+                chat_history=st.session_state[session_chat_key],
+                user_message=active_user_input,
+                model_name=model_code,
+                character=partner_code
+            )
+            reply_text = st.write_stream(stream_gen)
+
+        st.session_state[session_chat_key].append({"role": "assistant", "content": reply_text})
+        st.rerun()
